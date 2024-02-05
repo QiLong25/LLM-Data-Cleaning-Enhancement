@@ -1,0 +1,2377 @@
+tuple_id,src,sched_dep_time,act_dep_time,sched_arr_time,act_arr_time
+1,aa,7:10 a.m.,7:16 a.m.,9:40 a.m.,9:32 a.m.
+2,aa,7:45 p.m.,7:58 p.m.,10:30 p.m.,
+3,aa,6:30 p.m.,,7:25 p.m.,
+4,aa,6:40 a.m.,6:54 a.m.,9:25 a.m.,9:28 a.m.
+5,aa,12:15 p.m.,12:41 p.m.,2:45 p.m.,2:50 p.m.
+6,aa,11:25 p.m.,,12/02/2011 6:55 a.m.,
+7,aa,7:00 a.m.,7:25 a.m.,9:55 a.m.,9:45 a.m.
+8,aa,4:15 p.m.,4:29 p.m.,7:55 p.m.,7:39 p.m.
+9,aa,11:50 a.m.,12:12 p.m.,3:50 p.m.,4:09 p.m.
+10,aa,6:00 a.m.,6:08 a.m.,9:20 a.m.,9:05 a.m.
+11,aa,10:45 a.m.,10:55 a.m.,2:20 p.m.,1:40 p.m.
+12,aa,7:55 a.m.,8:04 a.m.,11:05 a.m.,11:01 a.m.
+13,aa,10:15 a.m.,10:18 a.m.,12:10 p.m.,11:56 a.m.
+14,aa,7:30 a.m.,8:04 a.m.,8:00 a.m.,8:06 a.m.
+15,aa,1:00 p.m.,2:04 p.m.,2:35 p.m.,3:30 p.m.
+16,aa,9:05 a.m.,10:10 a.m.,12:35 p.m.,1:27 p.m.
+17,aa,11:45 a.m.,12:13 p.m.,2:00 p.m.,2:10 p.m.
+18,aa,7:25 a.m.,7:39 a.m.,11:10 a.m.,11:06 a.m.
+19,aa,6:45 a.m.,6:57 a.m.,7:45 a.m.,7:40 a.m.
+20,aa,11:35 a.m.,11:52 a.m.,2:25 p.m.,2:27 p.m.
+21,aa,10:40 a.m.,11:05 a.m.,2:45 p.m.,2:46 p.m.
+22,aa,3:35 p.m.,3:36 p.m.,4:00 p.m.,3:33 p.m.
+23,aa,7:15 a.m.,7:21 a.m.,10:35 a.m.,10:36 a.m.
+24,aa,6:45 p.m.,6:55 p.m.,9:10 p.m.,8:53 p.m.
+25,aa,12:00 p.m.,12:11 p.m.,3:15 p.m.,3:16 p.m.
+26,aa,6:00 a.m.,6:56 a.m.,7:30 a.m.,7:51 a.m.
+27,aa,7:10 a.m.,7:30 a.m.,9:35 a.m.,9:31 a.m.
+28,aa,4:55 p.m.,5:08 p.m.,8:05 p.m.,7:55 p.m.
+29,aa,8:00 p.m.,8:23 p.m.,9:45 p.m.,9:53 p.m.
+30,aa,10:40 a.m.,11:01 a.m.,2:59 p.m.,3:04 p.m.
+31,aa,10:40 a.m.,10:54 a.m.,12:55 p.m.,12:50 p.m.
+32,aa,11:55 p.m.,,12/02/2011 5:50 a.m.,
+33,aa,9:00 p.m.,,12/02/2011 12:15 a.m.,
+34,aa,8:25 p.m.,,11:50 p.m.,
+35,aa,6:59 a.m.,7:22 a.m.,10:34 a.m.,10:04 a.m.
+36,aa,8:35 a.m.,8:51 a.m.,11:50 a.m.,11:44 a.m.
+37,aa,1:30 p.m.,,3:50 p.m.,
+38,aa,8:20 p.m.,8:39 p.m.,9:20 p.m.,
+39,aa,2:35 p.m.,2:44 p.m.,4:05 p.m.,3:43 p.m.
+40,aa,2:55 p.m.,3:27 p.m.,5:55 p.m.,5:43 p.m.
+41,aa,7:15 a.m.,7:22 a.m.,11:35 a.m.,11:06 a.m.
+42,aa,12:10 p.m.,12:10 p.m.,2:15 p.m.,1:43 p.m.
+43,aa,1:05 p.m.,1:19 p.m.,2:35 p.m.,3:13 p.m.
+44,aa,8:35 a.m.,8:56 a.m.,10:40 a.m.,10:16 a.m.
+45,aa,3:05 p.m.,3:36 p.m.,6:30 p.m.,6:43 p.m.
+46,aa,11:25 a.m.,11:40 a.m.,5:25 p.m.,4:56 p.m.
+47,aa,4:00 p.m.,4:12 p.m.,6:40 p.m.,6:15 p.m.
+48,aa,7:10 a.m.,7:31 a.m.,3:30 p.m.,3:14 p.m.
+49,aa,6:00 a.m.,6:10 a.m.,6:40 a.m.,6:19 a.m.
+50,aa,7:10 a.m.,7:39 a.m.,10:45 a.m.,11:12 a.m.
+51,helloflight,,7:16 a.m.,,9:22 a.m.
+52,helloflight,7:00 p.m.,,10:15 p.m.,
+53,helloflight,,6:54 a.m.,,9:14 a.m.
+54,helloflight,,8:48 a.m.,,11:30 a.m.
+55,helloflight,,9:00 a.m.,,9:29 a.m.
+56,helloflight,,7:59 p.m.,,10:31 p.m.
+57,helloflight,,3:50 p.m.,,5:14 p.m.
+58,helloflight,11:25 a.m.,,2:50 p.m.,
+59,helloflight,,11:41 a.m.,,4:54 p.m.
+60,helloflight,,10:53 a.m.,,11:11 a.m.
+61,helloflight,,11:29 p.m.,,12/2/11 6:35 a.m.
+62,helloflight,,6:10 a.m.,,7:04 a.m.
+63,helloflight,12:30 a.m.,,5:35 a.m.,
+64,helloflight,,4:10 p.m.,,6:25 p.m.
+65,helloflight,7:35 a.m.,,9:21 a.m.,
+66,helloflight,9:45 a.m.,,1:16 p.m.,
+67,helloflight,,10:11 a.m.,,1:11 p.m.
+68,helloflight,,8:26 a.m.,,9:56 a.m.
+69,helloflight,,7:25 a.m.,,9:29 a.m.
+70,helloflight,,4:29 p.m.,,7:37 p.m.
+71,helloflight,,10:54 a.m.,,1:36 p.m.
+72,helloflight,2:30 p.m.,,7:03 p.m.,
+73,helloflight,8:05 a.m.,,11:35 a.m.,
+74,helloflight,,3:04 p.m.,,4:43 p.m.
+75,helloflight,,12:13 p.m.,,4:08 p.m.
+76,helloflight,11:40 a.m.,,1:17 p.m.,
+77,helloflight,,6:09 a.m.,,8:50 a.m.
+78,helloflight,,11:45 a.m.,,5:00 p.m.
+79,helloflight,6:00 a.m.,,10:20 a.m.,
+80,helloflight,8:40 a.m.,,10:54 a.m.,
+81,helloflight,,10:19 a.m.,,11:50 a.m.
+82,helloflight,,2:03 p.m.,,3:13 p.m.
+83,helloflight,,8:07 a.m.,,1:23 p.m.
+84,helloflight,,12:56 p.m.,,3:09 p.m.
+85,helloflight,,12:14 p.m.,,1:55 p.m.
+86,helloflight,,2:43 p.m.,,5:22 p.m.
+87,helloflight,,12:07 p.m.,,1:11 p.m.
+88,helloflight,5:25 p.m.,,8:22 p.m.,
+89,helloflight,7:10 p.m.,,8:56 p.m.,
+90,helloflight,,11:06 a.m.,,2:39 p.m.
+91,helloflight,,1:43 p.m.,,5:24 p.m.
+92,helloflight,3:35 p.m.,,4:00 p.m.,
+93,helloflight,,7:22 a.m.,,10:34 a.m.
+94,helloflight,,6:47 p.m.,,7:25 p.m.
+95,helloflight,,6:56 p.m.,,8:38 p.m.
+96,helloflight,,12:12 p.m.,,3:04 p.m.
+97,helloflight,7:15 p.m.,,12/2/11 12:21 a.m.,
+98,helloflight,,2:04 p.m.,,7:20 p.m.
+99,helloflight,9:15 a.m.,,12:18 p.m.,
+100,helloflight,,6:57 a.m.,,7:49 a.m.
+101,helloflight,,7:31 a.m.,,9:26 a.m.
+102,helloflight,,5:09 p.m.,,7:43 p.m.
+103,helloflight,,7:39 a.m.,,10:43 a.m.
+104,helloflight,,4:44 p.m.,,6:28 p.m.
+105,helloflight,,4:37 p.m.,,7:23 p.m.
+106,helloflight,,8:23 p.m.,,9:47 p.m.
+107,helloflight,10:25 a.m.,,6:44 p.m.,
+108,helloflight,,7:30 a.m.,,10:43 a.m.
+109,helloflight,,11:02 a.m.,,2:58 p.m.
+110,helloflight,,1:48 p.m.,,4:20 p.m.
+111,helloflight,,12:42 p.m.,,2:50 p.m.
+112,helloflight,1:29 p.m.,,4:17 p.m.,
+113,helloflight,,12:11 a.m.,,5:52 a.m.
+114,helloflight,,4:28 p.m.,,12/2/11 12:01 a.m.
+115,helloflight,,9:06 p.m.,,11:49 p.m.
+116,helloflight,,8:29 p.m.,,11:35 p.m.
+117,helloflight,,7:23 a.m.,,9:45 a.m.
+118,helloflight,,8:52 a.m.,,11:33 a.m.
+119,helloflight,,8:37 a.m.,,9:13 a.m.
+120,helloflight,,1:41 p.m.,,3:29 p.m.
+121,helloflight,2:53 p.m.,,4:48 p.m.,
+122,helloflight,,7:41 a.m.,,8:33 a.m.
+123,helloflight,11:08 p.m.,,12/2/11 5:11 a.m.,
+124,helloflight,,5:38 p.m.,,6:19 p.m.
+125,helloflight,,1:50 p.m. (+8:00),,7:50 a.m.
+126,helloflight,,11:47 a.m.,,1:52 p.m.
+127,helloflight,,8:40 p.m.,,9:12 p.m.
+128,helloflight,,3:04 p.m.,,4:22 p.m.
+129,helloflight,2:30 p.m.,,7:03 p.m.,
+130,helloflight,8:55 a.m.,,11:45 a.m.,
+131,helloflight,,2:44 p.m.,,3:36 p.m.
+132,helloflight,,3:28 p.m.,,5:39 p.m.
+133,helloflight,,7:22 a.m.,,11:04 a.m.
+134,helloflight,,12:11 p.m.,,1:42 p.m.
+135,helloflight,,8:04 a.m.,,10:58 a.m.
+136,helloflight,9:05 a.m. (-00:00),,11:53 a.m.,
+137,helloflight,,1:20 p.m.,,2:49 p.m.
+138,helloflight,,8:55 a.m.,,10:12 a.m.
+139,helloflight,,3:38 p.m.,,6:30 p.m.
+140,helloflight,,8:04 a.m.,,7:59 a.m.
+141,helloflight,,4:12 p.m.,,6:11 p.m.
+142,helloflight,,11:52 a.m.,,2:21 p.m.
+143,helloflight,2:55 p.m.,,4:49 p.m.,
+144,helloflight,,11:55 a.m.,,5:34 p.m.
+145,helloflight,,10:55 a.m.,,12:37 p.m.
+146,helloflight,,6:58 a.m.,,7:37 a.m.
+147,helloflight,4:00 p.m.,,7:05 p.m.,
+148,helloflight,,6:11 a.m.,,6:15 a.m.
+149,helloflight,,7:40 a.m.,,10:52 a.m.
+150,helloflight,,7:32 a.m.,,3:12 p.m.
+151,boston,7:10 a.m.,7:16 a.m.,9:40 a.m.,9:22 a.m.
+152,boston,,7:42 p.m.,,10:23 p.m.
+153,boston,6:40 a.m.,6:54 a.m.,9:25 a.m.,9:12 a.m.
+154,boston,8:00 a.m.,8:49 a.m.,11:55 a.m.,11:35 a.m.
+155,boston,,9:01 a.m.,,9:40 a.m.
+156,boston,7:45 p.m.,7:59 p.m.,10:30 p.m.,10:39 p.m.&nbsp(Estimated)
+157,boston,12:00 p.m.,12:12 p.m.,3:15 p.m.,3:10 p.m.
+158,boston,3:27 p.m.,3:50 p.m.,5:05 p.m.,5:17 p.m.
+159,boston,,12:37 p.m.,,3:25 p.m.
+160,boston,,10:53 a.m.,,11:18 a.m.
+161,boston,11:25 p.m.,Not Available,6:55 a.m. Dec 02,Not Available
+162,boston,,6:10 a.m.,,7:10 a.m.
+163,boston,,12:58 a.m.,,5:23 a.m.
+164,boston,4:00 p.m.,4:10 p.m.,6:46 p.m.,6:25 p.m.
+165,boston,,7:56 a.m.,,9:09 a.m.
+166,boston,,10:35 a.m.,,1:09 p.m.
+167,boston,9:05 a.m.,10:11 a.m.,12:35 p.m.,1:18 p.m.
+168,boston,,8:26 a.m.,,9:54 a.m.
+169,boston,7:00 a.m.,7:25 a.m.,9:55 a.m.,9:42 a.m.
+170,boston,4:15 p.m.,4:30 p.m.,7:55 p.m.,7:35 p.m.
+171,boston,,10:55 a.m.,,1:34 p.m.
+172,boston,,2:59 p.m.,,6:59 p.m.
+173,boston,,8:18 a.m.,,11:26 a.m.
+174,boston,,3:04 p.m.,,4:45 p.m.
+175,boston,11:50 a.m.,12:13 p.m.,3:50 p.m.,4:09 p.m.
+176,boston,,12:06 p.m.,,1:12 p.m.
+177,boston,6:00 a.m.,6:09 a.m.,9:20 a.m.,9:00 a.m.
+178,boston,11:05 a.m.,11:45 a.m.,4:57 p.m.,5:03 p.m.
+179,boston,,6:17 a.m.,,10:18 a.m.
+180,boston,,9:01 a.m.,,10:47 a.m.
+181,boston,10:15 a.m.,10:19 a.m.,12:10 p.m.,11:50 a.m.
+182,boston,1:00 p.m.,2:04 p.m.,2:35 p.m.,3:19 p.m.
+183,boston,,8:07 a.m.,,1:27 p.m.
+184,boston,,12:56 p.m.,,3:20 p.m.
+185,boston,,12:14 p.m.,,2:01 p.m.
+186,boston,2:30 p.m.,2:43 p.m.,6:15 p.m.,5:28 p.m.
+187,boston,12:00 p.m.,12:08 p.m.,1:45 p.m.,1:14 p.m.
+188,boston,,5:38 p.m.,,7:55 p.m.
+189,boston,,8:36 p.m.,,9:38 p.m.
+190,boston,10:40 a.m.,11:06 a.m.,2:45 p.m.,2:37 p.m.
+191,boston,12:57 p.m.,,4:52 p.m.,
+192,boston,,3:36 p.m.,,3:25 p.m.
+193,boston,7:15 a.m.,7:22 a.m.,10:35 a.m.,10:29 a.m.
+194,boston,6:30 p.m.,Not Available,7:25 p.m.,Not Available
+195,boston,6:45 p.m.,6:56 p.m.,9:10 p.m.,8:43 p.m.
+196,boston,7:15 p.m.,Not Available,12:21 a.m. Dec 02,Not Available
+197,boston,,2:38 p.m.,,7:53 p.m.
+198,boston,9:15 a.m.,9:58 a.m.,12:18 p.m.,12:03 p.m.
+199,boston,6:00 a.m.,6:57 a.m.,7:30 a.m.,7:51 a.m.
+200,boston,7:10 a.m.,7:31 a.m.,9:35 a.m.,9:29 a.m.
+201,boston,,5:09 p.m.,,7:53 p.m.
+202,boston,3:50 p.m.,4:46 p.m.,6:23 p.m.,6:36 p.m.
+203,boston,,4:37 p.m.,,7:26 p.m.
+204,boston,8:00 p.m.,8:23 p.m.,9:45 p.m.,9:49 p.m.
+205,boston,,10:37 a.m.,,6:13 p.m.
+206,boston,,7:31 a.m.,,10:45 a.m.
+207,boston,10:40 a.m.,11:02 a.m.,2:59 p.m.,2:56 p.m.
+208,boston,1:33 p.m.,1:48 p.m.,4:31 p.m.,4:18 p.m.
+209,boston,12:15 p.m.,12:42 p.m.,2:45 p.m.,2:52 p.m.
+210,boston,,2:01 p.m.,,4:06 p.m.
+211,boston,11:55 p.m.,,5:50 a.m.Dec 02,
+212,boston,4:25 p.m.,Not Available,12:29 a.m. Dec 02,Not Available
+213,boston,9:00 p.m.,Not Available,12:15 a.m. Dec 02,Not Available
+214,boston,8:25 p.m.,Not Available,11:50 p.m.,Not Available
+215,boston,6:59 a.m.,7:23 a.m.,10:34 a.m.,9:58 a.m.
+216,boston,8:35 a.m.,8:52 a.m.,11:50 a.m.,11:40 a.m.
+217,boston,,8:37 a.m.,,9:11 a.m.
+218,boston,1:30 p.m.,Not Available,3:50 p.m.,Not Available
+219,boston,,3:17 p.m.,,4:55 p.m.
+220,boston,,7:41 a.m.,,8:41 a.m.
+221,boston,11:08 p.m.,,5:11 a.m.Dec 02,
+222,boston,5:30 p.m.,,6:09 p.m.,
+223,boston,,12:45 a.m.,,7:58 a.m.
+224,boston,,11:47 a.m.,,2:02 p.m.
+225,boston,,8:40 p.m.,,9:11 p.m.
+226,boston,,3:04 p.m.,,4:24 p.m.
+227,boston,,2:59 p.m.,,6:59 p.m.
+228,boston,,9:43 a.m.,,12:10 p.m.
+229,boston,2:35 p.m.,2:44 p.m.,4:05 p.m.,3:36 p.m.
+230,boston,2:55 p.m.,3:28 p.m.,5:55 p.m.,5:34 p.m.
+231,boston,7:15 a.m.,7:23 a.m.,11:35 a.m.,11:07 a.m.
+232,boston,12:10 p.m.,12:11 p.m.,2:15 p.m.,1:40 p.m.
+233,boston,7:55 a.m.,8:05 a.m.,11:05 a.m.,11:00 a.m.
+234,boston,,9:05 a.m.,,12:00 p.m.
+235,boston,1:05 p.m.,1:20 p.m.,2:35 p.m.,3:01 p.m.
+236,boston,,8:56 a.m.,,10:10 a.m.
+237,boston,3:05 p.m.,3:38 p.m.,6:30 p.m.,6:36 p.m.
+238,boston,7:30 a.m.,8:04 a.m.,8:00 a.m.,7:57 a.m.
+239,boston,,11:41 a.m.,,4:52 p.m.
+240,boston,4:00 p.m.,4:12 p.m.,6:40 p.m.,6:09 p.m.
+241,boston,11:35 a.m.,11:52 a.m.,2:25 p.m.,2:18 p.m.
+242,boston,7:25 a.m.,7:40 a.m.,11:10 a.m.,10:53 a.m.
+243,boston,,4:02 p.m.,,5:09 p.m.
+244,boston,11:55 a.m.,11:55 a.m.,6:17 p.m.,5:35 p.m.
+245,boston,10:40 a.m.,10:55 a.m.,12:55 p.m.,12:48 p.m.
+246,boston,6:45 a.m.,6:58 a.m.,7:45 a.m.,7:32 a.m.
+247,boston,4:00 p.m.,4:15 p.m.,7:05 p.m.,6:33 p.m.
+248,boston,6:00 a.m.,6:11 a.m.,6:40 a.m.,6:07 a.m.
+249,boston,7:10 a.m.,7:40 a.m.,10:45 a.m.,11:00 a.m.
+250,boston,7:10 a.m.,7:32 a.m.,3:30 p.m.,3:09 p.m.
+251,weather,7:10 a.m.,,9:40 a.m.,
+252,weather,6:40 a.m.,6:54 a.m.,9:25 a.m.,9:09 a.m.
+253,weather,8:00 a.m.,8:49 a.m.,11:55 a.m.,11:34 a.m.
+254,weather,8:41 a.m.,,9:54 a.m.,
+255,weather,7:45 p.m.,,10:30 p.m.,
+256,weather,6:30 p.m.,6:56 p.m.,7:25 p.m.,7:35 p.m.
+257,weather,3:27 p.m.,,5:05 p.m.,
+258,weather,11:25 a.m.,,2:50 p.m.,
+259,weather,11:25 a.m.,,5:25 p.m.,
+260,weather,10:39 a.m.,,11:19 a.m.,
+261,weather,11:25 p.m.,11:58 p.m.,6:55 a.m.,7:02 a.m.
+262,weather,6:00 a.m.,,7:23 a.m.,
+263,weather,12:15 p.m.,,2:45 p.m.,
+264,weather,4:00 p.m.,,6:46 p.m.,
+265,weather,9:45 a.m.,,1:16 p.m.,
+266,weather,7:00 a.m.,,9:55 a.m.,
+267,weather,8:15 a.m.,,10:06 a.m.,
+268,weather,4:15 p.m.,,7:55 p.m.,
+269,weather,2:30 p.m.,,7:03 p.m.,
+270,weather,11:50 a.m.,,3:50 p.m.,
+271,weather,6:00 a.m.,6:09 a.m.,9:20 a.m.,8:50 a.m.
+272,weather,11:05 a.m.,,4:57 p.m.,
+273,weather,6:00 a.m.,,10:20 a.m.,
+274,weather,8:40 a.m.,,10:54 a.m.,
+275,weather,10:45 a.m.,,2:20 p.m.,
+276,weather,10:15 a.m.,10:19 a.m.,12:10 p.m.,11:50 a.m.
+277,weather,7:30 a.m.,,8:00 a.m.,
+278,weather,1:00 p.m.,2:04 p.m.,2:35 p.m.,3:13 p.m.
+279,weather,12:30 a.m.,,5:35 a.m.,
+280,weather,9:05 a.m.,10:11 a.m.,12:35 p.m.,1:11 p.m.
+281,weather,11:45 a.m.,,2:00 p.m.,
+282,weather,12:00 p.m.,,1:45 p.m.,
+283,weather,7:25 a.m.,7:40 a.m.,11:10 a.m.,10:52 a.m.
+284,weather,11:35 a.m.,11:52 a.m.,2:25 p.m.,2:17 p.m.
+285,weather,10:40 a.m.,11:06 a.m.,2:45 p.m.,2:36 p.m.
+286,weather,7:15 a.m.,7:22 a.m.,10:35 a.m.,10:34 a.m.
+287,weather,8:05 a.m.,,11:35 a.m.,
+288,weather,6:45 p.m.,,9:10 p.m.,
+289,weather,12:00 p.m.,12:12 p.m.,3:15 p.m.,3:09 p.m.
+290,weather,7:15 p.m.,,12:21 a.m.,
+291,weather,1:55 p.m.,,7:53 p.m.,
+292,weather,9:15 a.m.,,12:18 p.m.,
+293,weather,6:00 a.m.,,7:30 a.m.,
+294,weather,7:10 a.m.,7:31 a.m.,9:35 a.m.,9:23 a.m.
+295,weather,3:50 p.m.,,6:23 p.m.,
+296,weather,4:16 p.m.,,7:35 p.m.,
+297,weather,8:00 p.m.,,9:45 p.m.,
+298,weather,10:25 a.m.,,6:44 p.m.,
+299,weather,7:05 a.m.,,10:31 a.m.,
+300,weather,10:40 a.m.,11:02 a.m.,2:59 p.m.,2:52 p.m.
+301,weather,1:33 p.m.,,4:31 p.m.,
+302,weather,11:55 p.m.,12:11 a.m.,5:50 a.m.,5:49 a.m.
+303,weather,4:25 p.m.,4:30 p.m.,12:29 a.m.,11:56 p.m.
+304,weather,9:00 p.m.,,12:15 a.m.,
+305,weather,8:25 p.m.,8:44 p.m.,11:50 p.m.,11:54 p.m.
+306,weather,6:59 a.m.,7:23 a.m.,10:34 a.m.,9:56 a.m.
+307,weather,8:35 a.m.,8:52 a.m.,11:50 a.m.,11:39 a.m.
+308,weather,2:30 p.m.,,6:15 p.m.,
+309,weather,8:29 a.m.,,9:24 a.m.,
+310,weather,1:30 p.m.,,3:50 p.m.,
+311,weather,2:53 p.m.,,4:48 p.m.,
+312,weather,7:35 a.m.,,9:43 a.m.,
+313,weather,1:45 p.m.,,8:27 a.m.,
+314,weather,11:15 a.m.,,1:40 p.m.,
+315,weather,8:20 p.m.,,9:20 p.m.,
+316,weather,2:55 p.m.,,4:53 p.m.,
+317,weather,2:30 p.m.,,7:03 p.m.,
+318,weather,2:35 p.m.,,4:05 p.m.,
+319,weather,2:55 p.m.,,5:55 p.m.,
+320,weather,7:15 a.m.,7:23 a.m.,11:35 a.m.,11:04 a.m.
+321,weather,2:55 p.m.,,5:00 p.m.,
+322,weather,12:10 p.m.,,2:15 p.m.,
+323,weather,7:55 a.m.,,11:05 a.m.,
+324,weather,9:05 a.m.,,11:53 a.m.,
+325,weather,1:05 p.m.,1:20 p.m.,2:35 p.m.,2:49 p.m.
+326,weather,7:53 a.m.,8:07 a.m.,1:39 p.m.,1:23 p.m.
+327,weather,8:35 a.m.,,10:40 a.m.,
+328,weather,3:05 p.m.,,6:30 p.m.,
+329,weather,4:00 p.m.,,6:40 p.m.,
+330,weather,2:55 p.m.,,4:49 p.m.,
+331,weather,11:55 a.m.,,6:17 p.m.,
+332,weather,10:40 a.m.,,12:55 p.m.,
+333,weather,6:45 a.m.,6:58 a.m.,7:45 a.m.,7:40 a.m.
+334,weather,4:00 p.m.,,7:05 p.m.,
+335,weather,6:00 a.m.,,6:40 a.m.,
+336,weather,7:10 a.m.,7:40 a.m.,10:45 a.m.,10:49 a.m.
+337,weather,7:10 a.m.,,3:30 p.m.,
+338,airtravelcenter,,7:16 a.m.,,9:22 a.m.
+339,airtravelcenter,7:00 p.m.,,10:15 p.m.,
+340,airtravelcenter,,6:54 a.m.,,9:14 a.m.
+341,airtravelcenter,,8:48 a.m.,,11:30 a.m.
+342,airtravelcenter,,9:00 a.m.,,9:29 a.m.
+343,airtravelcenter,,7:59 p.m.,,10:31 p.m.
+344,airtravelcenter,,3:50 p.m.,,5:14 p.m.
+345,airtravelcenter,11:25 a.m.,,2:50 p.m.,
+346,airtravelcenter,,11:41 a.m.,,4:54 p.m.
+347,airtravelcenter,,10:53 a.m.,,11:11 a.m.
+348,airtravelcenter,,11:29 p.m.,,12/2/11 6:35 a.m.
+349,airtravelcenter,,6:10 a.m.,,7:04 a.m.
+350,airtravelcenter,12:30 a.m.,,5:35 a.m.,
+351,airtravelcenter,,4:10 p.m.,,6:25 p.m.
+352,airtravelcenter,7:35 a.m.,,9:21 a.m.,
+353,airtravelcenter,9:45 a.m.,,1:16 p.m.,
+354,airtravelcenter,,10:11 a.m.,,1:11 p.m.
+355,airtravelcenter,,8:26 a.m.,,9:56 a.m.
+356,airtravelcenter,,7:25 a.m.,,9:29 a.m.
+357,airtravelcenter,,4:29 p.m.,,7:37 p.m.
+358,airtravelcenter,,10:54 a.m.,,1:36 p.m.
+359,airtravelcenter,2:30 p.m.,,7:03 p.m.,
+360,airtravelcenter,8:05 a.m.,,11:35 a.m.,
+361,airtravelcenter,,3:04 p.m.,,4:43 p.m.
+362,airtravelcenter,,12:13 p.m.,,4:08 p.m.
+363,airtravelcenter,11:40 a.m.,,1:17 p.m.,
+364,airtravelcenter,,6:09 a.m.,,8:50 a.m.
+365,airtravelcenter,,11:45 a.m.,,5:00 p.m.
+366,airtravelcenter,6:00 a.m.,,10:20 a.m.,
+367,airtravelcenter,8:40 a.m.,,10:54 a.m.,
+368,airtravelcenter,,10:19 a.m.,,11:50 a.m.
+369,airtravelcenter,,2:03 p.m.,,3:13 p.m.
+370,airtravelcenter,,8:07 a.m.,,1:23 p.m.
+371,airtravelcenter,,12:56 p.m.,,3:09 p.m.
+372,airtravelcenter,,12:14 p.m.,,1:55 p.m.
+373,airtravelcenter,,2:43 p.m.,,5:22 p.m.
+374,airtravelcenter,,12:07 p.m.,,1:11 p.m.
+375,airtravelcenter,5:25 p.m.,,8:22 p.m.,
+376,airtravelcenter,7:10 p.m.,,8:56 p.m.,
+377,airtravelcenter,,11:06 a.m.,,2:39 p.m.
+378,airtravelcenter,,1:43 p.m.,,5:24 p.m.
+379,airtravelcenter,3:35 p.m.,,4:00 p.m.,
+380,airtravelcenter,,7:22 a.m.,,10:34 a.m.
+381,airtravelcenter,,6:47 p.m.,,7:25 p.m.
+382,airtravelcenter,,6:56 p.m.,,8:38 p.m.
+383,airtravelcenter,,12:12 p.m.,,3:04 p.m.
+384,airtravelcenter,7:15 p.m.,,12/2/11 12:21 a.m.,
+385,airtravelcenter,,2:04 p.m.,,7:20 p.m.
+386,airtravelcenter,9:15 a.m.,,12:18 p.m.,
+387,airtravelcenter,,6:57 a.m.,,7:49 a.m.
+388,airtravelcenter,,7:31 a.m.,,9:26 a.m.
+389,airtravelcenter,,5:09 p.m.,,7:43 p.m.
+390,airtravelcenter,,7:39 a.m.,,10:43 a.m.
+391,airtravelcenter,,4:44 p.m.,,6:28 p.m.
+392,airtravelcenter,,4:37 p.m.,,7:23 p.m.
+393,airtravelcenter,,8:23 p.m.,,9:47 p.m.
+394,airtravelcenter,10:25 a.m.,,6:44 p.m.,
+395,airtravelcenter,,7:30 a.m.,,10:43 a.m.
+396,airtravelcenter,,11:02 a.m.,,2:58 p.m.
+397,airtravelcenter,,1:48 p.m.,,4:20 p.m.
+398,airtravelcenter,,12:42 p.m.,,2:50 p.m.
+399,airtravelcenter,1:29 p.m.,,4:17 p.m.,
+400,airtravelcenter,,12:11 a.m.,,5:52 a.m.
+401,airtravelcenter,,4:28 p.m.,,12/2/11 12:01 a.m.
+402,airtravelcenter,,9:06 p.m.,,11:49 p.m.
+403,airtravelcenter,,8:29 p.m.,,11:35 p.m.
+404,airtravelcenter,,7:23 a.m.,,9:45 a.m.
+405,airtravelcenter,,8:52 a.m.,,11:33 a.m.
+406,airtravelcenter,,8:37 a.m.,,9:13 a.m.
+407,airtravelcenter,,1:41 p.m.,,3:29 p.m.
+408,airtravelcenter,2:53 p.m.,,4:48 p.m.,
+409,airtravelcenter,,7:41 a.m.,,8:33 a.m.
+410,airtravelcenter,11:08 p.m.,,12/2/11 5:11 a.m.,
+411,airtravelcenter,,5:38 p.m.,,6:19 p.m.
+412,airtravelcenter,,1:50 p.m. (+8:00),,7:50 a.m.
+413,airtravelcenter,,11:47 a.m.,,1:52 p.m.
+414,airtravelcenter,,8:40 p.m.,,9:12 p.m.
+415,airtravelcenter,,3:04 p.m.,,4:22 p.m.
+416,airtravelcenter,2:30 p.m.,,7:03 p.m.,
+417,airtravelcenter,8:55 a.m.,,11:45 a.m.,
+418,airtravelcenter,,2:44 p.m.,,3:36 p.m.
+419,airtravelcenter,,3:28 p.m.,,5:39 p.m.
+420,airtravelcenter,,7:22 a.m.,,11:04 a.m.
+421,airtravelcenter,,12:11 p.m.,,1:42 p.m.
+422,airtravelcenter,,8:04 a.m.,,10:58 a.m.
+423,airtravelcenter,9:05 a.m. (-00:00),,11:53 a.m.,
+424,airtravelcenter,,1:20 p.m.,,2:49 p.m.
+425,airtravelcenter,,8:55 a.m.,,10:12 a.m.
+426,airtravelcenter,,3:38 p.m.,,6:30 p.m.
+427,airtravelcenter,,8:04 a.m.,,7:59 a.m.
+428,airtravelcenter,,4:12 p.m.,,6:11 p.m.
+429,airtravelcenter,,11:52 a.m.,,2:21 p.m.
+430,airtravelcenter,2:55 p.m.,,4:49 p.m.,
+431,airtravelcenter,,11:55 a.m.,,5:34 p.m.
+432,airtravelcenter,,10:55 a.m.,,12:37 p.m.
+433,airtravelcenter,,6:58 a.m.,,7:37 a.m.
+434,airtravelcenter,4:00 p.m.,,7:05 p.m.,
+435,airtravelcenter,,6:11 a.m.,,6:15 a.m.
+436,airtravelcenter,,7:40 a.m.,,10:52 a.m.
+437,airtravelcenter,,7:32 a.m.,,3:12 p.m.
+438,flightview,7:10 a.m.,7:16 a.m.,9:40 a.m.,9:22 a.m.
+439,flightview,,7:42 p.m.,,10:29 p.m.
+440,flightview,6:40 a.m.,6:54 a.m.,9:25 a.m.,9:28 a.m.
+441,flightview,8:00 a.m.,8:49 a.m.,11:55 a.m.,11:58 a.m.
+442,flightview,,9:01 a.m.,,9:43 a.m.
+443,flightview,7:45 p.m.,7:59 p.m.,10:30 p.m.,
+444,flightview,12:00 p.m.,12:12 p.m.,3:15 p.m.,3:16 p.m.
+445,flightview,3:27 p.m.,3:50 p.m.,5:05 p.m.,5:17 p.m.
+446,flightview,,12:37 p.m.,,3:31 p.m.
+447,flightview,,10:53 a.m.,,11:21 a.m.
+448,flightview,11:25 p.m.,,6:55 a.m. Dec 02,
+449,flightview,,6:10 a.m.,,7:17 a.m.
+450,flightview,,12:58 a.m.,,5:26 a.m.
+451,flightview,4:00 p.m.,4:10 p.m.,6:46 p.m.,6:25 p.m.
+452,flightview,,7:56 a.m.,,9:09 a.m.
+453,flightview,,10:35 a.m.,,1:19 p.m.
+454,flightview,9:05 a.m.,10:11 a.m.,12:35 p.m.,1:18 p.m.
+455,flightview,,8:26 a.m.,,9:56 a.m.
+456,flightview,7:00 a.m.,7:25 a.m.,9:55 a.m.,9:45 a.m.
+457,flightview,4:15 p.m.,4:30 p.m.,7:55 p.m.,7:39 p.m.
+458,flightview,,10:55 a.m.,,1:40 p.m.
+459,flightview,,2:59 p.m.,,7:10 p.m.
+460,flightview,,8:18 a.m.,,11:32 a.m.
+461,flightview,,3:04 p.m.,,5:00 p.m.
+462,flightview,11:50 a.m.,12:13 p.m.,3:50 p.m.,4:09 p.m.
+463,flightview,,12:06 p.m.,,1:14 p.m.
+464,flightview,6:00 a.m.,6:09 a.m.,9:20 a.m.,9:05 a.m.
+465,flightview,11:05 a.m.,11:45 a.m.,4:57 p.m.,5:03 p.m.
+466,flightview,,6:17 a.m.,,10:27 a.m.
+467,flightview,,9:01 a.m.,,10:56 a.m.
+468,flightview,10:15 a.m.,10:19 a.m.,12:10 p.m.,11:50 a.m.
+469,flightview,1:00 p.m.,2:04 p.m.,2:35 p.m.,3:19 p.m.
+470,flightview,,8:07 a.m.,,1:30 p.m.
+471,flightview,,12:56 p.m.,,3:21 p.m.
+472,flightview,,12:14 p.m.,,2:01 p.m.
+473,flightview,2:30 p.m.,2:43 p.m.,6:15 p.m.,5:42 p.m.
+474,flightview,12:00 p.m.,12:08 p.m.,1:45 p.m.,1:14 p.m.
+475,flightview,,5:38 p.m.,,8:03 p.m.
+476,flightview,,8:36 p.m.,,9:38 p.m.
+477,flightview,10:40 a.m.,11:06 a.m.,2:45 p.m.,2:46 p.m.
+478,flightview,,1:43 p.m.,,5:34 p.m.
+479,flightview,,3:36 p.m.,,3:25 p.m.
+480,flightview,7:15 a.m.,7:22 a.m.,10:35 a.m.,10:29 a.m.
+481,flightview,6:30 p.m.,,7:25 p.m.,
+482,flightview,6:45 p.m.,6:56 p.m.,9:10 p.m.,8:43 p.m.
+483,flightview,7:15 p.m.,,12:21 a.m. Dec 02,
+484,flightview,,2:38 p.m.,,7:58 p.m.
+485,flightview,9:15 a.m.,9:58 a.m.,12:18 p.m.,12:09 p.m.
+486,flightview,6:00 a.m.,6:57 a.m.,7:30 a.m.,7:51 a.m.
+487,flightview,7:10 a.m.,7:31 a.m.,9:35 a.m.,9:29 a.m.
+488,flightview,,5:09 p.m.,,7:53 p.m.
+489,flightview,3:50 p.m.,4:46 p.m.,6:23 p.m.,6:35 p.m.
+490,flightview,,4:37 p.m.,,7:36 p.m.
+491,flightview,8:00 p.m.,8:23 p.m.,9:45 p.m.,9:49 p.m.
+492,flightview,,10:37 a.m.,,6:34 p.m.
+493,flightview,,7:31 a.m.,,10:45 a.m.
+494,flightview,10:40 a.m.,11:02 a.m.,2:59 p.m.,3:04 p.m.
+495,flightview,1:33 p.m.,1:48 p.m.,4:31 p.m.,4:23 p.m.
+496,flightview,12:15 p.m.,12:42 p.m.,2:45 p.m.,2:52 p.m.
+497,flightview,,2:01 p.m.,,4:17 p.m.
+498,flightview,11:55 p.m.,,5:50 a.m. Dec 02,
+499,flightview,4:25 p.m.,,12:29 a.m. Dec 02,
+500,flightview,9:00 p.m.,,12:15 a.m. Dec 02,
+501,flightview,8:25 p.m.,,11:50 p.m.,
+502,flightview,6:59 a.m.,7:23 a.m.,10:34 a.m.,10:04 a.m.
+503,flightview,8:35 a.m.,8:52 a.m.,11:50 a.m.,11:44 a.m.
+504,flightview,,8:37 a.m.,,9:13 a.m.
+505,flightview,1:30 p.m.,,3:50 p.m.,
+506,flightview,,3:17 p.m.,,4:59 p.m.
+507,flightview,,7:41 a.m.,,8:45 a.m.
+508,flightview,11:08 p.m.,,5:11 a.m.Dec 02,
+509,flightview,5:30 p.m.,,6:40 p.m.,
+510,flightview,,1:45 p.m.,,8:02 a.m.
+511,flightview,,11:47 a.m.,,2:02 p.m.
+512,flightview,,8:40 p.m.,,9:11 p.m.
+513,flightview,,3:04 p.m.,,4:24 p.m.
+514,flightview,,2:59 p.m.,,7:10 p.m.
+515,flightview,,9:43 a.m.,,12:12 p.m.
+516,flightview,2:35 p.m.,2:44 p.m.,4:05 p.m.,3:36 p.m.
+517,flightview,2:55 p.m.,3:28 p.m.,5:55 p.m.,5:34 p.m.
+518,flightview,7:15 a.m.,7:23 a.m.,11:35 a.m.,11:07 a.m.
+519,flightview,12:10 p.m.,12:11 p.m.,2:15 p.m.,1:43 p.m.
+520,flightview,7:55 a.m.,8:05 a.m.,11:05 a.m.,11:00 a.m.
+521,flightview,,9:05 a.m.,,12:09 p.m.
+522,flightview,1:05 p.m.,1:20 p.m.,2:35 p.m.,3:01 p.m.
+523,flightview,,8:56 a.m.,,10:10 a.m.
+524,flightview,3:05 p.m.,3:38 p.m.,6:30 p.m.,6:43 p.m.
+525,flightview,7:30 a.m.,8:04 a.m.,8:00 a.m.,7:57 a.m.
+526,flightview,,11:41 a.m.,,4:56 p.m.
+527,flightview,4:00 p.m.,4:12 p.m.,6:40 p.m.,6:09 p.m.
+528,flightview,11:35 a.m.,11:52 a.m.,2:25 p.m.,2:27 p.m.
+529,flightview,7:25 a.m.,7:40 a.m.,11:10 a.m.,11:06 a.m.
+530,flightview,,4:02 p.m.,,5:26 p.m.
+531,flightview,11:55 a.m.,11:55 a.m.,6:17 p.m.,6:17 p.m.
+532,flightview,10:40 a.m.,10:55 a.m.,12:55 p.m.,12:48 p.m.
+533,flightview,6:45 a.m.,6:58 a.m.,7:45 a.m.,7:32 a.m.
+534,flightview,4:00 p.m.,4:15 p.m.,7:05 p.m.,6:36 p.m.
+535,flightview,6:00 a.m.,6:11 a.m.,6:40 a.m.,6:19 a.m.
+536,flightview,7:10 a.m.,7:40 a.m.,10:45 a.m.,11:12 a.m.
+537,flightview,7:10 a.m.,7:32 a.m.,3:30 p.m.,3:14 p.m.
+538,flightstats,7:10 a.m.,7:16 a.m.,9:40 a.m.,9:32 a.m.
+539,flightstats,7:00 p.m.,7:14 p.m.,10:15 p.m.,10:29 p.m.
+540,flightstats,6:40 a.m.,6:54 a.m.,9:25 a.m.,9:28 a.m.
+541,flightstats,8:00 a.m.,8:29 a.m.,11:55 a.m.,11:58 a.m.
+542,flightstats,8:41 a.m.,8:42 a.m.,9:54 a.m.,9:43 a.m.
+543,flightstats,7:45 p.m.,7:58 p.m.,10:30 p.m.,10:30 p.m. (Estimated)
+544,flightstats,11:45 a.m.,12:13 p.m.,2:00 p.m.,2:10 p.m.
+545,flightstats,6:30 p.m.,6:47 p.m. (Estimated runway),7:25 p.m.,7:25 p.m. (Estimated runway)
+546,flightstats,3:27 p.m.,3:28 p.m.,5:05 p.m.,5:17 p.m.
+547,flightstats,11:25 a.m.,11:32 a.m.,2:50 p.m.,3:31 p.m.
+548,flightstats,11:25 p.m.,11:29 p.m. (Estimated runway),6:55 a.m.,6:35 a.m. (Estimated runway)
+549,flightstats,6:00 a.m.,5:56 a.m.,7:23 a.m.,7:17 a.m.
+550,flightstats,12:30 a.m.,12:41 a.m.,5:35 a.m.,5:26 a.m.
+551,flightstats,4:00 p.m.,3:58 p.m.,6:46 p.m.,6:28 p.m.
+552,flightstats,7:35 a.m.,7:29 a.m.,9:21 a.m.,9:14 a.m.
+553,flightstats,9:45 a.m.,10:19 a.m.,1:16 p.m.,1:19 p.m.
+554,flightstats,7:00 a.m.,7:25 a.m.,9:55 a.m.,9:45 a.m.
+555,flightstats,8:15 a.m.,8:12 a.m.,10:06 a.m.,9:56 a.m.
+556,flightstats,4:15 p.m.,4:29 p.m.,7:55 p.m.,7:39 p.m.
+557,flightstats,9:05 a.m.,10:10 a.m.,12:35 p.m.,1:27 p.m.
+558,flightstats,2:30 p.m.,2:48 p.m.,7:03 p.m.,7:10 p.m.
+559,flightstats,5:25 p.m.,5:22 p.m.,8:22 p.m.,8:03 p.m.
+560,flightstats,11:50 a.m.,12:12 p.m.,3:50 p.m.,4:09 p.m.
+561,flightstats,11:40 a.m.,11:56 a.m.,1:17 p.m.,1:14 p.m.
+562,flightstats,6:00 a.m.,6:08 a.m.,9:20 a.m.,9:05 a.m.
+563,flightstats,11:05 a.m.,11:30 a.m.,4:57 p.m.,5:05 p.m.
+564,flightstats,6:00 a.m.,6:02 a.m.,10:20 a.m.,10:27 a.m.
+565,flightstats,8:40 a.m.,8:40 a.m.,10:54 a.m.,10:56 a.m.
+566,flightstats,7:55 a.m.,8:04 a.m.,11:05 a.m.,11:01 a.m.
+567,flightstats,10:15 a.m.,10:18 a.m.,12:10 p.m.,11:56 a.m.
+568,flightstats,7:30 a.m.,8:04 a.m.,8:00 a.m.,8:06 a.m.
+569,flightstats,1:00 p.m.,2:04 p.m.,2:35 p.m.,3:20 p.m. (runway)
+570,flightstats,6:45 a.m.,6:57 a.m.,7:45 a.m.,7:40 a.m.
+571,flightstats,12:15 p.m.,12:41 p.m.,2:45 p.m.,2:50 p.m.
+572,flightstats,12:30 p.m.,12:35 p.m.,3:19 p.m.,3:21 p.m.
+573,flightstats,12:00 p.m.,11:51 a.m.,1:45 p.m.,1:15 p.m.
+574,flightstats,7:10 p.m.,8:25 p.m.,8:56 p.m.,9:52 p.m. (Estimated)
+575,flightstats,11:35 a.m.,11:52 a.m.,2:25 p.m.,2:27 p.m.
+576,flightstats,10:40 a.m.,11:05 a.m.,2:45 p.m.,2:46 p.m.
+577,flightstats,12:57 p.m.,1:32 p.m.,5:15 p.m.,5:34 p.m.
+578,flightstats,3:35 p.m.,3:36 p.m.,4:00 p.m.,3:33 p.m.
+579,flightstats,7:15 a.m.,7:21 a.m.,10:35 a.m.,10:36 a.m.
+580,flightstats,8:05 a.m.,8:00 a.m.,11:35 a.m.,11:32 a.m.
+581,flightstats,6:45 p.m.,6:55 p.m.,9:10 p.m.,8:53 p.m.
+582,flightstats,12:00 p.m.,12:11 p.m.,3:15 p.m.,3:16 p.m.
+583,flightstats,7:15 p.m.,7:15 p.m. (Estimated),12:21 a.m.,12:21 a.m. (Estimated)
+584,flightstats,1:55 p.m.,2:10 p.m.,7:53 p.m.,7:58 p.m.
+585,flightstats,9:15 a.m.,9:14 a.m.,12:18 p.m.,12:09 p.m.
+586,flightstats,6:00 a.m.,6:56 a.m.,7:30 a.m.,7:51 a.m.
+587,flightstats,7:10 a.m.,7:30 a.m.,9:35 a.m.,9:31 a.m.
+588,flightstats,4:55 p.m.,5:08 p.m.,8:05 p.m.,7:55 p.m.
+589,flightstats,7:25 a.m.,7:39 a.m.,11:10 a.m.,11:06 a.m.
+590,flightstats,3:50 p.m.,4:28 p.m.,6:23 p.m.,6:38 p.m.
+591,flightstats,4:16 p.m.,4:15 p.m.,7:35 p.m.,7:36 p.m.
+592,flightstats,8:00 p.m.,8:23 p.m.,9:45 p.m.,9:53 p.m.
+593,flightstats,10:25 a.m.,10:20 a.m.,6:44 p.m.,6:34 p.m.
+594,flightstats,7:05 a.m.,7:07 a.m.,10:31 a.m.,10:47 a.m.
+595,flightstats,10:40 a.m.,11:01 a.m.,2:59 p.m.,3:04 p.m.
+596,flightstats,1:33 p.m.,1:31 p.m.,4:31 p.m.,4:23 p.m.
+597,flightstats,1:29 p.m.,1:48 p.m.,4:17 p.m.,4:17 p.m.
+598,flightstats,11:55 p.m.,12:10 a.m. (Estimated runway),5:50 a.m.,5:42 a.m. (Estimated runway)
+599,flightstats,4:25 p.m.,4:28 p.m. (Estimated runway),12:29 a.m.,12:01 a.m. (Estimated runway)
+600,flightstats,9:00 p.m.,9:06 p.m. (Estimated runway),12:15 a.m.,11:49 p.m. (Estimated runway)
+601,flightstats,8:25 p.m.,8:29 p.m. (Estimated runway),11:50 p.m.,11:35 p.m. (Estimated runway)
+602,flightstats,2:55 p.m.,2:46 p.m.,5:00 p.m.,4:47 p.m.
+603,flightstats,6:59 a.m.,7:22 a.m.,10:34 a.m.,10:04 a.m.
+604,flightstats,8:35 a.m.,8:51 a.m.,11:50 a.m.,11:44 a.m.
+605,flightstats,2:30 p.m.,2:26 p.m.,6:15 p.m.,5:42 p.m.
+606,flightstats,8:29 a.m.,8:26 a.m.,9:24 a.m.,9:13 a.m.
+607,flightstats,2:53 p.m.,3:01 p.m.,4:48 p.m.,4:59 p.m.
+608,flightstats,11:08 p.m.,,5:11 a.m.,
+609,flightstats,5:30 p.m.,5:30 p.m. (Estimated),6:40 p.m.,6:40 p.m. (Estimated)
+610,flightstats,11:15 a.m.,11:15 a.m.,1:40 p.m.,2:00 p.m.
+611,flightstats,8:20 p.m.,8:39 p.m.,9:20 p.m.,9:19 p.m. (Estimated)
+612,flightstats,2:55 p.m.,2:52 p.m.,4:53 p.m.,4:44 p.m.
+613,flightstats,2:30 p.m.,2:48 p.m.,7:03 p.m.,7:10 p.m.
+614,flightstats,2:35 p.m.,2:44 p.m.,4:05 p.m.,3:43 p.m.
+615,flightstats,2:55 p.m.,3:27 p.m.,5:55 p.m.,5:43 p.m.
+616,flightstats,7:15 a.m.,7:22 a.m.,11:35 a.m.,11:06 a.m.
+617,flightstats,12:10 p.m.,12:10 p.m.,2:15 p.m.,1:43 p.m.
+618,flightstats,1:05 p.m.,1:19 p.m.,2:35 p.m.,3:13 p.m.
+619,flightstats,7:53 a.m.,7:49 a.m.,1:39 p.m.,1:30 p.m.
+620,flightstats,8:35 a.m.,8:56 a.m.,10:40 a.m.,10:16 a.m.
+621,flightstats,3:05 p.m.,3:36 p.m.,6:30 p.m.,6:43 p.m.
+622,flightstats,4:00 p.m.,4:12 p.m.,6:40 p.m.,6:15 p.m.
+623,flightstats,7:10 a.m.,7:31 a.m.,3:30 p.m.,3:14 p.m.
+624,flightstats,2:55 p.m.,3:31 p.m.,4:49 p.m.,5:26 p.m.
+625,flightstats,11:55 a.m.,11:43 a.m.,6:17 p.m.,5:38 p.m.
+626,flightstats,10:40 a.m.,10:54 a.m.,12:55 p.m.,12:50 p.m.
+627,flightstats,4:00 p.m.,3:58 p.m.,7:05 p.m.,6:36 p.m.
+628,flightstats,6:00 a.m.,6:10 a.m.,6:40 a.m.,6:19 a.m.
+629,flightstats,7:10 a.m.,7:39 a.m.,10:45 a.m.,11:12 a.m.
+630,panynj,7:10 a.m.,7:16 a.m.,9:40 a.m.,9:22 a.m.
+631,panynj,,7:42 p.m.,,10:29 p.m.
+632,panynj,6:40 a.m.,6:54 a.m.,9:25 a.m.,9:28 a.m.
+633,panynj,8:00 a.m.,8:49 a.m.,11:55 a.m.,11:58 a.m.
+634,panynj,,9:01 a.m.,,9:43 a.m.
+635,panynj,7:45 p.m.,7:59 p.m.,10:30 p.m.,
+636,panynj,12:00 p.m.,12:12 p.m.,3:15 p.m.,3:16 p.m.
+637,panynj,3:27 p.m.,3:50 p.m.,5:05 p.m.,5:17 p.m.
+638,panynj,,12:37 p.m.,,3:31 p.m.
+639,panynj,,10:53 a.m.,,11:21 a.m.
+640,panynj,11:25 p.m.,,6:55 a.m. Dec 02,
+641,panynj,,6:10 a.m.,,7:17 a.m.
+642,panynj,,12:58 a.m.,,5:26 a.m.
+643,panynj,4:00 p.m.,4:10 p.m.,6:46 p.m.,6:25 p.m.
+644,panynj,,7:56 a.m.,,9:09 a.m.
+645,panynj,,10:35 a.m.,,1:19 p.m.
+646,panynj,9:05 a.m.,10:11 a.m.,12:35 p.m.,1:18 p.m.
+647,panynj,,8:26 a.m.,,9:56 a.m.
+648,panynj,7:00 a.m.,7:25 a.m.,9:55 a.m.,9:45 a.m.
+649,panynj,4:15 p.m.,4:30 p.m.,7:55 p.m.,7:39 p.m.
+650,panynj,,10:55 a.m.,,1:40 p.m.
+651,panynj,,2:59 p.m.,,7:10 p.m.
+652,panynj,,8:18 a.m.,,11:32 a.m.
+653,panynj,,3:04 p.m.,,5:00 p.m.
+654,panynj,11:50 a.m.,12:13 p.m.,3:50 p.m.,4:09 p.m.
+655,panynj,,12:06 p.m.,,1:14 p.m.
+656,panynj,6:00 a.m.,6:09 a.m.,9:20 a.m.,9:05 a.m.
+657,panynj,11:05 a.m.,11:45 a.m.,4:57 p.m.,5:03 p.m.
+658,panynj,,6:17 a.m.,,10:27 a.m.
+659,panynj,,9:01 a.m.,,10:56 a.m.
+660,panynj,10:15 a.m.,10:19 a.m.,12:10 p.m.,11:50 a.m.
+661,panynj,1:00 p.m.,2:04 p.m.,2:35 p.m.,3:19 p.m.
+662,panynj,,8:07 a.m.,,1:30 p.m.
+663,panynj,,12:56 p.m.,,3:21 p.m.
+664,panynj,,12:14 p.m.,,2:01 p.m.
+665,panynj,2:30 p.m.,2:43 p.m.,6:15 p.m.,5:42 p.m.
+666,panynj,12:00 p.m.,12:08 p.m.,1:45 p.m.,1:14 p.m.
+667,panynj,,5:38 p.m.,,8:03 p.m.
+668,panynj,,8:36 p.m.,,9:38 p.m.
+669,panynj,10:40 a.m.,11:06 a.m.,2:45 p.m.,2:46 p.m.
+670,panynj,,1:43 p.m.,,5:34 p.m.
+671,panynj,,3:36 p.m.,,3:25 p.m.
+672,panynj,7:15 a.m.,7:22 a.m.,10:35 a.m.,10:29 a.m.
+673,panynj,6:30 p.m.,,7:25 p.m.,
+674,panynj,6:45 p.m.,6:56 p.m.,9:10 p.m.,8:43 p.m.
+675,panynj,7:15 p.m.,,12:21 a.m. Dec 02,
+676,panynj,,2:38 p.m.,,7:58 p.m.
+677,panynj,9:15 a.m.,9:58 a.m.,12:18 p.m.,12:09 p.m.
+678,panynj,6:00 a.m.,6:57 a.m.,7:30 a.m.,7:51 a.m.
+679,panynj,7:10 a.m.,7:31 a.m.,9:35 a.m.,9:29 a.m.
+680,panynj,,5:09 p.m.,,7:53 p.m.
+681,panynj,3:50 p.m.,4:46 p.m.,6:23 p.m.,6:35 p.m.
+682,panynj,,4:37 p.m.,,7:36 p.m.
+683,panynj,8:00 p.m.,8:23 p.m.,9:45 p.m.,9:49 p.m.
+684,panynj,,10:37 a.m.,,6:34 p.m.
+685,panynj,,7:31 a.m.,,10:45 a.m.
+686,panynj,10:40 a.m.,11:02 a.m.,2:59 p.m.,3:04 p.m.
+687,panynj,1:33 p.m.,1:48 p.m.,4:31 p.m.,4:23 p.m.
+688,panynj,12:15 p.m.,12:42 p.m.,2:45 p.m.,2:52 p.m.
+689,panynj,,2:01 p.m.,,4:17 p.m.
+690,panynj,11:55 p.m.,,5:50 a.m. Dec 02,
+691,panynj,4:25 p.m.,,12:29 a.m. Dec 02,
+692,panynj,9:00 p.m.,,12:15 a.m. Dec 02,
+693,panynj,8:25 p.m.,,11:50 p.m.,
+694,panynj,6:59 a.m.,7:23 a.m.,10:34 a.m.,10:04 a.m.
+695,panynj,8:35 a.m.,8:52 a.m.,11:50 a.m.,11:44 a.m.
+696,panynj,,8:37 a.m.,,9:13 a.m.
+697,panynj,1:30 p.m.,,3:50 p.m.,
+698,panynj,,3:17 p.m.,,4:59 p.m.
+699,panynj,,7:41 a.m.,,8:45 a.m.
+700,panynj,11:08 p.m.,,5:11 a.m.Dec 02,
+701,panynj,5:30 p.m.,,6:40 p.m.,
+702,panynj,,1:45 p.m.,,8:02 a.m.
+703,panynj,,11:47 a.m.,,2:02 p.m.
+704,panynj,,8:40 p.m.,,9:11 p.m.
+705,panynj,,3:04 p.m.,,4:24 p.m.
+706,panynj,,2:59 p.m.,,7:10 p.m.
+707,panynj,,9:43 a.m.,,12:12 p.m.
+708,panynj,2:35 p.m.,2:44 p.m.,4:05 p.m.,3:36 p.m.
+709,panynj,2:55 p.m.,3:28 p.m.,5:55 p.m.,5:34 p.m.
+710,panynj,7:15 a.m.,7:23 a.m.,11:35 a.m.,11:07 a.m.
+711,panynj,12:10 p.m.,12:11 p.m.,2:15 p.m.,1:43 p.m.
+712,panynj,7:55 a.m.,8:05 a.m.,11:05 a.m.,11:00 a.m.
+713,panynj,,9:05 a.m.,,12:09 p.m.
+714,panynj,1:05 p.m.,1:20 p.m.,2:35 p.m.,3:01 p.m.
+715,panynj,,8:56 a.m.,,10:10 a.m.
+716,panynj,3:05 p.m.,3:38 p.m.,6:30 p.m.,6:43 p.m.
+717,panynj,7:30 a.m.,8:04 a.m.,8:00 a.m.,7:57 a.m.
+718,panynj,,11:41 a.m.,,4:56 p.m.
+719,panynj,4:00 p.m.,4:12 p.m.,6:40 p.m.,6:09 p.m.
+720,panynj,11:35 a.m.,11:52 a.m.,2:25 p.m.,2:27 p.m.
+721,panynj,7:25 a.m.,7:40 a.m.,11:10 a.m.,11:06 a.m.
+722,panynj,,4:02 p.m.,,5:26 p.m.
+723,panynj,11:55 a.m.,11:55 a.m.,6:17 p.m.,6:17 p.m.
+724,panynj,10:40 a.m.,10:55 a.m.,12:55 p.m.,12:48 p.m.
+725,panynj,6:45 a.m.,6:58 a.m.,7:45 a.m.,7:32 a.m.
+726,panynj,4:00 p.m.,4:15 p.m.,7:05 p.m.,6:36 p.m.
+727,panynj,6:00 a.m.,6:11 a.m.,6:40 a.m.,6:19 a.m.
+728,panynj,7:10 a.m.,7:40 a.m.,10:45 a.m.,11:12 a.m.
+729,panynj,7:10 a.m.,7:32 a.m.,3:30 p.m.,3:14 p.m.
+730,flightexplorer,,7:16 a.m.,,9:22 a.m.
+731,flightexplorer,,7:59 p.m.,,10:28 p.m.
+732,flightexplorer,,7:41 p.m.,,10:22 p.m.
+733,flightexplorer,,8:47 a.m.,,11:30 a.m.
+734,flightexplorer,,9:01 a.m.,,9:39 a.m.
+735,flightexplorer,6:30 p.m.,,7:25 p.m.,
+736,flightexplorer,,11:41 a.m.,,4:54 p.m.
+737,flightexplorer,,10:53 a.m.,,11:16 a.m.
+738,flightexplorer,11:25 p.m.,,12/2/2011 6:55 a.m.,
+739,flightexplorer,,6:09 a.m.,,7:04 a.m.
+740,flightexplorer,,12:57 a.m.,,5:25 a.m.
+741,flightexplorer,,12:42 p.m.,,2:50 p.m.
+742,flightexplorer,,7:25 a.m.,,9:29 a.m.
+743,flightexplorer,,4:30 p.m.,,7:37 p.m.
+744,flightexplorer,,10:11 a.m.,,1:19 p.m.
+745,flightexplorer,,12:13 p.m.,,4:08 p.m.
+746,flightexplorer,,12:05 p.m.,,1:06 p.m.
+747,flightexplorer,,6:09 a.m.,,8:50 a.m.
+748,flightexplorer,,8:05 a.m.,,10:58 a.m.
+749,flightexplorer,,10:19 a.m.,,11:50 a.m.
+750,flightexplorer,,8:04 a.m.,,7:59 a.m.
+751,flightexplorer,,2:04 p.m.,,3:13 p.m.
+752,flightexplorer,,12:55 p.m.,,3:07 p.m.
+753,flightexplorer,,12:14 p.m.,,1:55 p.m.
+754,flightexplorer,,2:41 p.m.,,5:22 p.m.
+755,flightexplorer,,11:52 a.m.,,2:21 p.m.
+756,flightexplorer,,11:06 a.m.,,2:39 p.m.
+757,flightexplorer,1:09 p.m.,,4:52 p.m.,
+758,flightexplorer,,3:36 p.m.,,3:26 p.m.
+759,flightexplorer,,7:22 a.m.,,10:34 a.m.
+760,flightexplorer,,6:56 p.m.,,8:38 p.m.
+761,flightexplorer,,12:12 p.m.,,3:04 p.m.
+762,flightexplorer,,9:56 a.m.,,12:02 p.m.
+763,flightexplorer,,6:57 a.m.,,7:49 a.m.
+764,flightexplorer,,7:31 a.m.,,9:26 a.m.
+765,flightexplorer,,5:09 p.m.,,7:43 p.m.
+766,flightexplorer,,7:40 a.m.,,10:43 a.m.
+767,flightexplorer,,4:35 p.m.,,7:23 p.m.
+768,flightexplorer,,8:23 p.m.,,9:47 p.m.
+769,flightexplorer,,10:55 a.m.,,1:36 p.m.
+770,flightexplorer,,1:46 p.m.,,4:20 p.m.
+771,flightexplorer,,1:59 p.m.,,4:05 p.m.
+772,flightexplorer,11:55 p.m.,,12/2/2011 5:50 a.m.,
+773,flightexplorer,9:00 p.m.,,12/2/2011 12:15 a.m.,
+774,flightexplorer,8:25 p.m.,,11:50 p.m.,
+775,flightexplorer,,7:23 a.m.,,9:45 a.m.
+776,flightexplorer,,8:52 a.m.,,11:33 a.m.
+777,flightexplorer,,8:37 a.m.,,9:13 a.m.
+778,flightexplorer,1:30 p.m.,,3:50 p.m.,
+779,flightexplorer,,11/30/2011 11:34 p.m.,,5:24 a.m.
+780,flightexplorer,5:30 p.m.,,6:40 p.m.,
+781,flightexplorer,,8:17 a.m.,,11:27 a.m.
+782,flightexplorer,,2:44 p.m.,,3:36 p.m.
+783,flightexplorer,,7:23 a.m.,,11:04 a.m.
+784,flightexplorer,4:25 p.m.,,12/2/2011 12:29 a.m.,
+785,flightexplorer,,7:41 a.m.,,8:33 a.m.
+786,flightexplorer,,12:11 p.m.,,1:42 p.m.
+787,flightexplorer,,1:20 p.m.,,2:49 p.m.
+788,flightexplorer,,7:32 a.m.,,3:12 p.m.
+789,flightexplorer,,10:55 a.m.,,12:37 p.m.
+790,flightexplorer,,6:58 a.m.,,7:37 a.m.
+791,flightexplorer,,6:11 a.m.,,6:13 a.m.
+792,flightexplorer,,7:40 a.m.,,10:52 a.m.
+793,mia,,,2:45P 12-01-11,2:46P
+794,mia,,,10:34A 12-01-11,10:08A
+795,mia,,,7:55P 12-01-11,7:39P
+796,mia,,,9:20A 12-01-11,9:04A
+797,mia,,,11:10A 12-01-11,11:06A
+798,iad,12:30,12:30,,
+799,dfw,1:00 p.m.,,,
+800,dfw,8:25 p.m.,,,
+801,dfw,11:50 a.m.,,,
+802,dfw,10:40 a.m.,,,
+803,dfw,4:15 p.m.,,,
+804,mco,,,Thu  22:15,Thu  22:25
+805,mco,,,Thu  17:55,Thu  17:40
+806,mco,,,Thu  19:25,Thu  19:33
+807,mco,,,Thu  7:45,Thu  7:31
+808,mco,,,Thu  6:55,Thu  6:50
+809,mco,Thu  20:00,,,
+810,mco,,,Thu  10:35,Thu  10:28
+811,mco,,,Thu  12:18,
+812,flights,7:10 a.m.,7:16 a.m.,9:40 a.m.,9:32 a.m.
+813,flights,,7:14 p.m.,,10:29 p.m.
+814,flights,6:40 a.m.,6:54 a.m.,9:25 a.m.,9:28 a.m.
+815,flights,8:00 a.m.,8:29 a.m.,11:55 a.m.,11:58 a.m.
+816,flights,,8:42 a.m.,,9:43 a.m.
+817,flights,7:45 p.m.,,10:30 p.m.,
+818,flights,12:00 p.m.,12:11 p.m.,3:15 p.m.,3:16 p.m.
+819,flights,3:27 p.m.,3:28 p.m.,5:05 p.m.,5:17 p.m.
+820,flights,,11:32 a.m.,,3:31 p.m.
+821,flights,,10:33 a.m.,,11:21 a.m.
+822,flights,11:25 p.m.,,6:55 a.m.  Fri 02-Dec-2011,
+823,flights,,5:56 a.m.,,7:17 a.m.
+824,flights,,12:41 a.m.,,5:26 a.m.
+825,flights,4:00 p.m.,3:58 p.m.,6:46 p.m.,6:28 p.m.
+826,flights,,7:29 a.m.,,9:14 a.m.
+827,flights,,10:19 a.m.,,1:19 p.m.
+828,flights,9:05 a.m.,10:10 a.m.,12:35 p.m.,1:27 p.m.
+829,flights,,8:12 a.m.,,9:56 a.m.
+830,flights,7:00 a.m.,7:25 a.m.,9:55 a.m.,9:45 a.m.
+831,flights,4:15 p.m.,4:29 p.m.,7:55 p.m.,7:39 p.m.
+832,flights,,10:55 a.m.,,1:40 p.m.
+833,flights,,2:48 p.m.,,7:10 p.m.
+834,flights,,8:00 a.m.,,11:32 a.m.
+835,flights,,2:46 p.m.,,4:47 p.m.
+836,flights,11:50 a.m.,12:12 p.m.,3:50 p.m.,4:09 p.m.
+837,flights,,11:56 a.m.,,1:14 p.m.
+838,flights,6:00 a.m.,6:08 a.m.,9:20 a.m.,9:05 a.m.
+839,flights,11:05 a.m.,11:30 a.m.,4:57 p.m.,5:05 p.m.
+840,flights,,6:02 a.m.,,10:27 a.m.
+841,flights,,8:40 a.m.,,10:56 a.m.
+842,flights,10:15 a.m.,10:18 a.m.,12:10 p.m.,11:56 a.m.
+843,flights,1:00 p.m.,2:04 p.m.,2:35 p.m.,3:20 p.m. (Runway)
+844,flights,,7:49 a.m.,,1:30 p.m.
+845,flights,,12:35 p.m.,,3:21 p.m.
+846,flights,,12:13 p.m.,,2:10 p.m.
+847,flights,2:30 p.m.,2:26 p.m.,6:15 p.m.,5:42 p.m.
+848,flights,12:00 p.m.,11:51 a.m.,1:45 p.m.,1:15 p.m.
+849,flights,,5:22 p.m.,,8:03 p.m.
+850,flights,,8:25 p.m.,,8:56 p.m.
+851,flights,10:40 a.m.,11:05 a.m.,2:45 p.m.,2:46 p.m.
+852,flights,,1:32 p.m.,,5:34 p.m.
+853,flights,,3:36 p.m.,,3:33 p.m.
+854,flights,7:15 a.m.,7:21 a.m.,10:35 a.m.,10:36 a.m.
+855,flights,6:30 p.m.,,7:25 p.m.,
+856,flights,6:45 p.m.,6:55 p.m.,9:10 p.m.,8:53 p.m.
+857,flights,7:15 p.m.,,12:21 a.m.  Fri 02-Dec-2011,
+858,flights,,2:10 p.m.,,7:58 p.m.
+859,flights,9:15 a.m.,9:14 a.m.,12:18 p.m.,12:09 p.m.
+860,flights,6:00 a.m.,6:56 a.m.,7:30 a.m.,7:51 a.m.
+861,flights,7:10 a.m.,7:30 a.m.,9:35 a.m.,9:31 a.m.
+862,flights,,5:08 p.m.,,7:55 p.m.
+863,flights,3:50 p.m.,4:28 p.m.,6:23 p.m.,6:38 p.m.
+864,flights,,4:15 p.m.,,7:36 p.m.
+865,flights,8:00 p.m.,8:23 p.m.,9:45 p.m.,9:53 p.m.
+866,flights,,10:20 a.m.,,6:34 p.m.
+867,flights,,7:07 a.m.,,10:47 a.m.
+868,flights,,11:01 a.m.,,3:04 p.m.
+869,flights,1:33 p.m.,1:31 p.m.,4:31 p.m.,4:23 p.m.
+870,flights,12:15 p.m.,12:41 p.m.,2:45 p.m.,2:50 p.m.
+871,flights,,1:48 p.m.,,4:17 p.m.
+872,flights,11:55 p.m.,,5:50 a.m.  Fri 02-Dec-2011,
+873,flights,4:25 p.m.,,12:29 a.m.  Fri 02-Dec-2011,
+874,flights,9:00 p.m.,,12:15 a.m.  Fri 02-Dec-2011,
+875,flights,8:25 p.m.,,11:50 p.m.,
+876,flights,6:59 a.m.,7:22 a.m.,10:34 a.m.,10:04 a.m.
+877,flights,8:35 a.m.,8:51 a.m.,11:50 a.m.,11:44 a.m.
+878,flights,,8:26 a.m.,,9:13 a.m.
+879,flights,1:30 p.m.,,3:50 p.m.,
+880,flights,,3:01 p.m.,,4:59 p.m.
+881,flights,,7:27 a.m.,,8:45 a.m.
+882,flights,11:08 p.m.,,5:11 a.m.,
+883,flights,5:30 p.m.,,6:40 p.m.,
+884,flights,,1:32 p.m.,,8:02 a.m.
+885,flights,,11:15 a.m.,,2:00 p.m.
+886,flights,,8:39 p.m.,,9:20 p.m.
+887,flights,,2:52 p.m.,,4:44 p.m.
+888,flights,,2:48 p.m.,,7:10 p.m.
+889,flights,,9:16 a.m.,,11:45 a.m.
+890,flights,2:35 p.m.,2:44 p.m.,4:05 p.m.,3:43 p.m.
+891,flights,2:55 p.m.,3:27 p.m.,5:55 p.m.,5:43 p.m.
+892,flights,7:15 a.m.,7:22 a.m.,11:35 a.m.,11:06 a.m.
+893,flights,12:10 p.m.,12:10 p.m.,2:15 p.m.,1:43 p.m.
+894,flights,7:55 a.m.,8:04 a.m.,11:05 a.m.,11:01 a.m.
+895,flights,,8:52 a.m.,,12:09 p.m.
+896,flights,1:05 p.m.,1:19 p.m.,2:35 p.m.,3:13 p.m.
+897,flights,,8:56 a.m.,,10:16 a.m.
+898,flights,3:05 p.m.,3:36 p.m.,6:30 p.m.,6:43 p.m.
+899,flights,7:30 a.m.,8:04 a.m.,8:00 a.m.,8:06 a.m.
+900,flights,,11:40 a.m.,,4:56 p.m.
+901,flights,4:00 p.m.,4:12 p.m.,6:40 p.m.,6:15 p.m.
+902,flights,11:35 a.m.,11:52 a.m.,2:25 p.m.,2:27 p.m.
+903,flights,7:25 a.m.,7:39 a.m.,11:10 a.m.,11:06 a.m.
+904,flights,,3:31 p.m.,,5:26 p.m.
+905,flights,11:55 a.m.,11:43 a.m.,6:17 p.m.,5:38 p.m.
+906,flights,10:40 a.m.,10:54 a.m.,12:55 p.m.,12:50 p.m.
+907,flights,6:45 a.m.,6:57 a.m.,7:45 a.m.,7:40 a.m.
+908,flights,4:00 p.m.,3:58 p.m.,7:05 p.m.,6:36 p.m.
+909,flights,6:00 a.m.,6:10 a.m.,6:40 a.m.,6:19 a.m.
+910,flights,7:10 a.m.,7:39 a.m.,10:45 a.m.,11:12 a.m.
+911,flights,7:10 a.m.,7:31 a.m.,3:30 p.m.,3:14 p.m.
+912,flightarrival,7:10 a.m.,7:16 a.m.,9:40 a.m.,9:22 a.m.
+913,flightarrival,6:30 p.m.,6:56 p.m.,7:25 p.m.,7:35 p.m.
+914,flightarrival,8:41 a.m.,,9:54 a.m.,
+915,flightarrival,,12:14 p.m.,,2:01 p.m.
+916,flightarrival,6:00 a.m.,,7:23 a.m.,
+917,flightarrival,12:30 a.m.,,5:35 a.m.,
+918,flightarrival,,7:56 a.m.,,9:09 a.m.
+919,flightarrival,9:45 a.m.,,1:16 p.m.,
+920,flightarrival,7:00 a.m.,,9:55 a.m.,
+921,flightarrival,2:30 p.m.,,7:03 p.m.,
+922,flightarrival,6:00 a.m.,6:09 a.m.,9:20 a.m.,9:00 a.m.
+923,flightarrival,10:15 a.m.,10:19 a.m.,12:10 p.m.,11:50 a.m.
+924,flightarrival,1:00 p.m.,2:04 p.m.,2:35 p.m.,3:19 p.m.
+925,flightarrival,6:45 a.m.,6:57 a.m.,7:45 a.m.,7:40 a.m.
+926,flightarrival,,12:56 p.m.,,3:20 p.m.
+927,flightarrival,,4:02 p.m.,,5:09 p.m.
+928,flightarrival,9:05 a.m.,10:11 a.m.,12:35 p.m.,1:11 p.m.
+929,flightarrival,11:35 a.m.,11:52 a.m.,2:25 p.m.,2:17 p.m.
+930,flightarrival,10:40 a.m.,11:06 a.m.,2:45 p.m.,2:36 p.m.
+931,flightarrival,6:45 p.m.,6:55 p.m.,9:10 p.m.,8:53 p.m.
+932,flightarrival,12:00 p.m.,12:12 p.m.,3:15 p.m.,3:10 p.m.
+933,flightarrival,7:15 p.m.,7:15 p.m. (Estimated),12:21 a.m.,12:21 a.m. (Estimated)
+934,flightarrival,9:15 a.m.,,12:18 p.m.,
+935,flightarrival,3:50 p.m.,4:46 p.m.,6:23 p.m.,6:36 p.m.
+936,flightarrival,,4:37 p.m.,,7:26 p.m.
+937,flightarrival,8:00 p.m.,,9:45 p.m.,
+938,flightarrival,10:25 a.m.,,6:44 p.m.,
+939,flightarrival,,7:31 a.m.,,10:45 a.m.
+940,flightarrival,10:40 a.m.,11:02 a.m.,2:59 p.m.,2:52 p.m.
+941,flightarrival,1:33 p.m.,1:48 p.m.,4:31 p.m.,4:18 p.m.
+942,flightarrival,1:29 p.m.,1:48 p.m.,4:17 p.m.,4:17 p.m.
+943,flightarrival,4:25 p.m.,4:28 p.m. (Estimated runway),12:29 a.m.,12:01 a.m. (Estimated runway)
+944,flightarrival,8:25 p.m.,8:29 p.m. (Estimated runway),11:50 p.m.,11:35 p.m. (Estimated runway)
+945,flightarrival,8:35 a.m.,8:52 a.m.,11:50 a.m.,11:40 a.m.
+946,flightarrival,2:30 p.m.,2:43 p.m.,6:15 p.m.,5:28 p.m.
+947,flightarrival,8:29 a.m.,,9:24 a.m.,
+948,flightarrival,11:08 p.m.,,5:11 a.m.Dec 02,
+949,flightarrival,5:30 p.m.,,6:09 p.m.,
+950,flightarrival,1:45 p.m.,,8:27 a.m.,
+951,flightarrival,,11:47 a.m.,,2:02 p.m.
+952,flightarrival,8:20 p.m.,8:39 p.m.,9:20 p.m.,9:19 p.m. (Estimated)
+953,flightarrival,,9:43 a.m.,,12:10 p.m.
+954,flightarrival,,8:18 a.m.,,11:26 a.m.
+955,flightarrival,7:15 a.m.,7:23 a.m.,11:35 a.m.,11:04 a.m.
+956,flightarrival,2:55 p.m.,,5:00 p.m.,
+957,flightarrival,7:35 a.m.,,9:43 a.m.,
+958,flightarrival,12:10 p.m.,12:11 p.m.,2:15 p.m.,1:40 p.m.
+959,flightarrival,7:55 a.m.,,11:05 a.m.,
+960,flightarrival,9:05 a.m.,,11:53 a.m.,
+961,flightarrival,,8:07 a.m.,,1:27 p.m.
+962,flightarrival,3:05 p.m.,3:38 p.m.,6:30 p.m.,6:36 p.m.
+963,flightarrival,11:25 a.m.,,5:25 p.m.,
+964,flightarrival,4:00 p.m.,,6:40 p.m.,
+965,flightarrival,,9:01 a.m.,,10:47 a.m.
+966,flightarrival,10:40 a.m.,10:55 a.m.,12:55 p.m.,12:48 p.m.
+967,flightarrival,6:00 a.m.,6:10 a.m.,6:40 a.m.,6:19 a.m.
+968,flightarrival,7:10 a.m.,7:40 a.m.,10:45 a.m.,11:00 a.m.
+969,flightarrival,7:10 a.m.,7:32 a.m.,3:30 p.m.,3:09 p.m.
+970,flightwise,7:10 a.m.,7:16 a.m.,9:30 a.m.,9:22 a.m.
+971,flightwise,6:00 a.m.,6:56 a.m.,6:50 a.m.,7:49 a.m.
+972,flightwise,7:10 a.m.,7:31 a.m.,9:00 a.m.,9:26 a.m.
+973,flightwise,6:30 p.m.,6:47 p.m.,7:08 p.m.,7:25 p.m.
+974,flightwise,7:25 a.m.,7:39 a.m.,10:43 a.m.,10:43 a.m.
+975,flightwise,11:05 a.m.,11:45 a.m.,4:37 p.m.,4:57 p.m.
+976,flightwise,8:41 a.m.,8:51 a.m.,9:34 a.m.,9:44 a.m.
+977,flightwise,1:33 p.m.,1:48 p.m.,4:20 p.m.,4:20 p.m.
+978,flightwise,1:05 p.m.,1:19 p.m.,2:17 p.m.,2:49 p.m.
+979,flightwise,8:25 p.m.,8:29 p.m.,11:31 p.m.,11:35 p.m.
+980,flightwise,7:15 p.m.,7:25 p.m.,11:52 p.m.,12:02 a.m.
+981,flightwise,5:25 p.m.,5:38 p.m.,8:04 p.m.,7:43 p.m.
+982,flightwise,4:00 p.m.,4:12 p.m.,6:30 p.m.,6:11 p.m.
+983,flightwise,7:27 p.m.,7:27 p.m.,8:46 p.m.,8:46 p.m.
+984,flightwise,7:15 a.m.,7:21 a.m.,10:18 a.m.,10:29 a.m.
+985,flightwise,3:35 p.m.,3:36 p.m.,3:50 p.m.,3:26 p.m.
+986,flightwise,6:00 a.m.,6:10 a.m.,6:30 a.m.,6:09 a.m.
+987,flightwise,7:10 a.m.,7:39 a.m.,10:09 a.m.,10:52 a.m.
+988,flightwise,6:45 p.m.,6:56 p.m.,9:00 p.m.,8:38 p.m.
+989,flightwise,3:05 p.m.,3:36 p.m.,5:57 p.m.,6:30 p.m.
+990,travelocity,7:10 a.m.,7:02 a.m.,9:40 a.m.,9:32 a.m.
+991,travelocity,6:40 a.m.,6:40 a.m.,9:25 a.m.,9:28 a.m.
+992,travelocity,Not Available,8:48 a.m.,Not Available,11:58 a.m.
+993,travelocity,Not Available,9:00 a.m.,Not Available,9:43 a.m.
+994,travelocity,7:45 p.m.,7:45 p.m.,10:30 p.m.,10:30 p.m.*
+995,travelocity,6:30 p.m.,Not Available,7:25 p.m.,Not Available
+996,travelocity,12:00noon,11:54 a.m.,3:15 p.m.,3:16 p.m.
+997,travelocity,3:27 p.m.,Contact Airline,5:05 p.m.,Contact Airline
+998,travelocity,11:25 a.m.,11:20 a.m.,5:25 p.m.,4:56 p.m.
+999,travelocity,11:25 p.m.,Not Available,Dec 02 6:55 a.m.,Dec 02 Not Available
+1000,travelocity,Not Available,6:09 a.m.,Not Available,7:17 a.m.
+1001,travelocity,12:15 p.m.,12:10 p.m.,2:45 p.m.,2:50 p.m.
+1002,travelocity,4:00 p.m.,Contact Airline,6:46 p.m.,Contact Airline
+1003,travelocity,7:00 a.m.,7:04 a.m.,9:55 a.m.,9:45 a.m.
+1004,travelocity,Not Available,8:24 a.m.,Not Available,9:56 a.m.
+1005,travelocity,4:15 p.m.,4:16 p.m.,7:55 p.m.,7:39 p.m.
+1006,travelocity,2:30 p.m.,2:48 p.m.,7:03 p.m.,7:10 p.m.
+1007,travelocity,11:50 a.m.,11:54 a.m.,3:50 p.m.,4:09 p.m.
+1008,travelocity,6:00 a.m.,5:58 a.m.,9:20 a.m.,9:05 a.m.
+1009,travelocity,11:05 a.m.,Contact Airline,4:57 p.m.,Contact Airline
+1010,travelocity,6:00 a.m.,6:02 a.m.,10:20 a.m.,10:27 a.m.
+1011,travelocity,8:40 a.m.,8:40 a.m.,10:54 a.m.,10:56 a.m.
+1012,travelocity,10:45 a.m.,10:42 a.m.,2:20 p.m.,1:40 p.m.
+1013,travelocity,7:55 a.m.,7:51 a.m.,11:05 a.m.,11:01 a.m.
+1014,travelocity,10:15 a.m.,10:10 a.m.,12:10 p.m.,11:56 a.m.
+1015,travelocity,7:30 a.m.,7:28 a.m.,8:00 a.m.,8:06 a.m.
+1016,travelocity,1:00 p.m.,1:48 p.m.,2:35 p.m.,3:30 p.m.
+1017,travelocity,9:05 a.m.,9:59 a.m.,12:35 p.m.,1:27 p.m.
+1018,travelocity,11:45 a.m.,11:47 a.m.,2:00 p.m.,2:10 p.m.
+1019,travelocity,12:00noon,Contact Airline,1:45 p.m.,Contact Airline
+1020,travelocity,7:25 a.m.,7:22 a.m.,11:10 a.m.,11:06 a.m.
+1021,travelocity,11:35 a.m.,11:33 a.m.,2:25 p.m.,2:27 p.m.
+1022,travelocity,10:40 a.m.,10:46 a.m.,2:45 p.m.,2:46 p.m.
+1023,travelocity,7:15 a.m.,7:08 a.m.,10:35 a.m.,10:36 a.m.
+1024,travelocity,8:05 a.m.,8:00 a.m.,11:35 a.m.,11:32 a.m.
+1025,travelocity,6:45 p.m.,6:40 p.m.,9:10 p.m.,8:53 p.m.
+1026,travelocity,7:15 p.m.,Contact Airline,Dec 02 12:21 a.m.,Dec 02 Contact Airline
+1027,travelocity,Not Available,2:37 p.m.,Not Available,7:58 p.m.
+1028,travelocity,9:15 a.m.,9:14 a.m.,12:18 p.m.,12:09 p.m.
+1029,travelocity,6:00 a.m.,5:59 a.m.,7:30 a.m.,7:51 a.m.
+1030,travelocity,7:10 a.m.,7:10 a.m.,9:35 a.m.,9:31 a.m.
+1031,travelocity,3:50 p.m.,Contact Airline,6:23 p.m.,Contact Airline
+1032,travelocity,8:00 p.m.,8:01 p.m.,9:45 p.m.,9:53 p.m.
+1033,travelocity,7:05 a.m.,Contact Airline,10:31 a.m.,Contact Airline
+1034,travelocity,10:40 a.m.,10:47 a.m.,2:59 p.m.,3:04 p.m.
+1035,travelocity,Not Available,1:47 p.m.,Not Available,4:23 p.m.
+1036,travelocity,11:55 p.m.,Not Available,Dec 02 5:50 a.m.,Dec 02 Not Available
+1037,travelocity,4:25 p.m.,Not Available,12:29 a.m.,Not Available
+1038,travelocity,9:00 p.m.,Not Available,Dec 02 12:15 a.m.,Dec 02 Not Available
+1039,travelocity,8:25 p.m.,Not Available,11:50 p.m.,Not Available
+1040,travelocity,6:59 a.m.,6:56 a.m.,10:34 a.m.,10:04 a.m.
+1041,travelocity,8:35 a.m.,8:31 a.m.,11:50 a.m.,11:44 a.m.
+1042,travelocity,Not Available,2:42 p.m.,Not Available,5:42 p.m.
+1043,travelocity,Not Available,8:35 a.m.,Not Available,9:13 a.m.
+1044,travelocity,1:30 p.m.,Not Available,3:50 p.m.,Not Available
+1045,travelocity,2:53 p.m.,3:01 p.m.,4:48 p.m.,4:59 p.m.
+1046,travelocity,Not Available,7:41 a.m.,Not Available,8:45 a.m.
+1047,travelocity,Not Available,1:50 p.m.,Not Available,8:02 a.m.
+1048,travelocity,11:15 a.m.,Contact Airline,1:40 p.m.,Contact Airline
+1049,travelocity,8:20 p.m.,8:30 p.m.,9:20 p.m.,9:19 p.m.*
+1050,travelocity,2:55 p.m.,Contact Airline,4:53 p.m.,Contact Airline
+1051,travelocity,2:30 p.m.,Contact Airline,7:03 p.m.,Contact Airline
+1052,travelocity,2:35 p.m.,2:32 p.m.,4:05 p.m.,3:43 p.m.
+1053,travelocity,2:55 p.m.,3:00 p.m.,5:55 p.m.,5:43 p.m.
+1054,travelocity,7:15 a.m.,7:10 a.m.,11:35 a.m.,11:06 a.m.
+1055,travelocity,2:55 p.m.,Contact Airline,5:00 p.m.,Contact Airline
+1056,travelocity,12:10 p.m.,12:01 p.m.,2:15 p.m.,1:43 p.m.
+1057,travelocity,9:05 a.m.,Contact Airline,11:53 a.m.,Contact Airline
+1058,travelocity,1:05 p.m.,1:06 p.m.,2:35 p.m.,3:13 p.m.
+1059,travelocity,Not Available,8:07 a.m.,Not Available,1:30 p.m.
+1060,travelocity,8:35 a.m.,8:32 a.m.,10:40 a.m.,10:16 a.m.
+1061,travelocity,3:05 p.m.,3:09 p.m.,6:30 p.m.,6:43 p.m.
+1062,travelocity,4:00 p.m.,3:52 p.m.,6:40 p.m.,6:15 p.m.
+1063,travelocity,2:55 p.m.,3:31 p.m.,4:49 p.m.,5:26 p.m.
+1064,travelocity,11:55 a.m.,Contact Airline,6:17 p.m.,Contact Airline
+1065,travelocity,10:40 a.m.,10:35 a.m.,12:55 p.m.,12:50 p.m.
+1066,travelocity,7:10 a.m.,7:05 a.m.,3:30 p.m.,3:14 p.m.
+1067,travelocity,6:45 a.m.,6:41 a.m.,7:45 a.m.,7:40 a.m.
+1068,travelocity,4:00 p.m.,3:58 p.m.,7:05 p.m.,6:36 p.m.
+1069,travelocity,6:00 a.m.,5:56 a.m.,6:40 a.m.,6:19 a.m.
+1070,travelocity,7:10 a.m.,7:14 a.m.,10:45 a.m.,11:12 a.m.
+1071,foxbusiness,7:10 a.m.,7:16 a.m.,9:40 a.m.,9:22 a.m.
+1072,foxbusiness,,7:42 p.m.,,10:29 p.m.
+1073,foxbusiness,6:40 a.m.,6:54 a.m.,9:25 a.m.,9:28 a.m.
+1074,foxbusiness,8:00 a.m.,8:49 a.m.,11:55 a.m.,11:58 a.m.
+1075,foxbusiness,,9:01 a.m.,,9:43 a.m.
+1076,foxbusiness,7:45 p.m.,7:59 p.m.,10:30 p.m.,
+1077,foxbusiness,12:00 p.m.,12:12 p.m.,3:15 p.m.,3:16 p.m.
+1078,foxbusiness,3:27 p.m.,3:50 p.m.,5:05 p.m.,5:17 p.m.
+1079,foxbusiness,,12:37 p.m.,,3:31 p.m.
+1080,foxbusiness,,10:53 a.m.,,11:21 a.m.
+1081,foxbusiness,11:25 p.m.,,6:55 a.m. Dec 02,
+1082,foxbusiness,,6:10 a.m.,,7:17 a.m.
+1083,foxbusiness,,12:58 a.m.,,5:26 a.m.
+1084,foxbusiness,4:00 p.m.,4:10 p.m.,6:46 p.m.,6:25 p.m.
+1085,foxbusiness,,7:56 a.m.,,9:09 a.m.
+1086,foxbusiness,,10:35 a.m.,,1:19 p.m.
+1087,foxbusiness,9:05 a.m.,10:11 a.m.,12:35 p.m.,1:18 p.m.
+1088,foxbusiness,,8:26 a.m.,,9:56 a.m.
+1089,foxbusiness,7:00 a.m.,7:25 a.m.,9:55 a.m.,9:45 a.m.
+1090,foxbusiness,4:15 p.m.,4:30 p.m.,7:55 p.m.,7:39 p.m.
+1091,foxbusiness,,10:55 a.m.,,1:40 p.m.
+1092,foxbusiness,,2:59 p.m.,,7:10 p.m.
+1093,foxbusiness,,8:18 a.m.,,11:32 a.m.
+1094,foxbusiness,,3:04 p.m.,,5:00 p.m.
+1095,foxbusiness,11:50 a.m.,12:13 p.m.,3:50 p.m.,4:09 p.m.
+1096,foxbusiness,,12:06 p.m.,,1:14 p.m.
+1097,foxbusiness,6:00 a.m.,6:09 a.m.,9:20 a.m.,9:05 a.m.
+1098,foxbusiness,11:05 a.m.,11:45 a.m.,4:57 p.m.,5:03 p.m.
+1099,foxbusiness,,6:17 a.m.,,10:27 a.m.
+1100,foxbusiness,,9:01 a.m.,,10:56 a.m.
+1101,foxbusiness,10:15 a.m.,10:19 a.m.,12:10 p.m.,11:50 a.m.
+1102,foxbusiness,1:00 p.m.,2:04 p.m.,2:35 p.m.,3:19 p.m.
+1103,foxbusiness,,8:07 a.m.,,1:30 p.m.
+1104,foxbusiness,,12:56 p.m.,,3:21 p.m.
+1105,foxbusiness,,12:14 p.m.,,2:01 p.m.
+1106,foxbusiness,2:30 p.m.,2:43 p.m.,6:15 p.m.,5:42 p.m.
+1107,foxbusiness,12:00 p.m.,12:08 p.m.,1:45 p.m.,1:14 p.m.
+1108,foxbusiness,,5:38 p.m.,,8:03 p.m.
+1109,foxbusiness,,8:36 p.m.,,9:38 p.m.
+1110,foxbusiness,10:40 a.m.,11:06 a.m.,2:45 p.m.,2:46 p.m.
+1111,foxbusiness,,1:43 p.m.,,5:34 p.m.
+1112,foxbusiness,,3:36 p.m.,,3:25 p.m.
+1113,foxbusiness,7:15 a.m.,7:22 a.m.,10:35 a.m.,10:29 a.m.
+1114,foxbusiness,6:30 p.m.,,7:25 p.m.,
+1115,foxbusiness,6:45 p.m.,6:56 p.m.,9:10 p.m.,8:43 p.m.
+1116,foxbusiness,7:15 p.m.,,12:21 a.m. Dec 02,
+1117,foxbusiness,,2:38 p.m.,,7:58 p.m.
+1118,foxbusiness,9:15 a.m.,9:58 a.m.,12:18 p.m.,12:09 p.m.
+1119,foxbusiness,6:00 a.m.,6:57 a.m.,7:30 a.m.,7:51 a.m.
+1120,foxbusiness,7:10 a.m.,7:31 a.m.,9:35 a.m.,9:29 a.m.
+1121,foxbusiness,,5:09 p.m.,,7:53 p.m.
+1122,foxbusiness,3:50 p.m.,4:46 p.m.,6:23 p.m.,6:35 p.m.
+1123,foxbusiness,,4:37 p.m.,,7:36 p.m.
+1124,foxbusiness,8:00 p.m.,8:23 p.m.,9:45 p.m.,9:49 p.m.
+1125,foxbusiness,,10:37 a.m.,,6:34 p.m.
+1126,foxbusiness,,7:31 a.m.,,10:45 a.m.
+1127,foxbusiness,10:40 a.m.,11:02 a.m.,2:59 p.m.,3:04 p.m.
+1128,foxbusiness,1:33 p.m.,1:48 p.m.,4:31 p.m.,4:23 p.m.
+1129,foxbusiness,12:15 p.m.,12:42 p.m.,2:45 p.m.,2:52 p.m.
+1130,foxbusiness,,2:01 p.m.,,4:17 p.m.
+1131,foxbusiness,11:55 p.m.,,5:50 a.m. Dec 02,
+1132,foxbusiness,4:25 p.m.,,12:29 a.m. Dec 02,
+1133,foxbusiness,9:00 p.m.,,12:15 a.m. Dec 02,
+1134,foxbusiness,8:25 p.m.,,11:50 p.m.,
+1135,foxbusiness,6:59 a.m.,7:23 a.m.,10:34 a.m.,10:04 a.m.
+1136,foxbusiness,8:35 a.m.,8:52 a.m.,11:50 a.m.,11:44 a.m.
+1137,foxbusiness,,8:37 a.m.,,9:13 a.m.
+1138,foxbusiness,1:30 p.m.,,3:50 p.m.,
+1139,foxbusiness,,3:17 p.m.,,4:59 p.m.
+1140,foxbusiness,,7:41 a.m.,,8:45 a.m.
+1141,foxbusiness,11:08 p.m.,,5:11 a.m.Dec 02,
+1142,foxbusiness,5:30 p.m.,,6:40 p.m.,
+1143,foxbusiness,,1:45 p.m.,,8:02 a.m.
+1144,foxbusiness,,11:47 a.m.,,2:02 p.m.
+1145,foxbusiness,,8:40 p.m.,,9:11 p.m.
+1146,foxbusiness,,3:04 p.m.,,4:24 p.m.
+1147,foxbusiness,,2:59 p.m.,,7:10 p.m.
+1148,foxbusiness,,9:43 a.m.,,12:12 p.m.
+1149,foxbusiness,2:35 p.m.,2:44 p.m.,4:05 p.m.,3:36 p.m.
+1150,foxbusiness,2:55 p.m.,3:28 p.m.,5:55 p.m.,5:34 p.m.
+1151,foxbusiness,7:15 a.m.,7:23 a.m.,11:35 a.m.,11:07 a.m.
+1152,foxbusiness,12:10 p.m.,12:11 p.m.,2:15 p.m.,1:43 p.m.
+1153,foxbusiness,7:55 a.m.,8:05 a.m.,11:05 a.m.,11:00 a.m.
+1154,foxbusiness,,9:05 a.m.,,12:09 p.m.
+1155,foxbusiness,1:05 p.m.,1:20 p.m.,2:35 p.m.,3:01 p.m.
+1156,foxbusiness,,8:56 a.m.,,10:10 a.m.
+1157,foxbusiness,3:05 p.m.,3:38 p.m.,6:30 p.m.,6:43 p.m.
+1158,foxbusiness,7:30 a.m.,8:04 a.m.,8:00 a.m.,7:57 a.m.
+1159,foxbusiness,,11:41 a.m.,,4:56 p.m.
+1160,foxbusiness,4:00 p.m.,4:12 p.m.,6:40 p.m.,6:09 p.m.
+1161,foxbusiness,11:35 a.m.,11:52 a.m.,2:25 p.m.,2:27 p.m.
+1162,foxbusiness,7:25 a.m.,7:40 a.m.,11:10 a.m.,11:06 a.m.
+1163,foxbusiness,,4:02 p.m.,,5:26 p.m.
+1164,foxbusiness,11:55 a.m.,11:55 a.m.,6:17 p.m.,6:17 p.m.
+1165,foxbusiness,10:40 a.m.,10:55 a.m.,12:55 p.m.,12:48 p.m.
+1166,foxbusiness,6:45 a.m.,6:58 a.m.,7:45 a.m.,7:32 a.m.
+1167,foxbusiness,4:00 p.m.,4:15 p.m.,7:05 p.m.,6:36 p.m.
+1168,foxbusiness,6:00 a.m.,6:11 a.m.,6:40 a.m.,6:19 a.m.
+1169,foxbusiness,7:10 a.m.,7:40 a.m.,10:45 a.m.,11:12 a.m.
+1170,foxbusiness,7:10 a.m.,7:32 a.m.,3:30 p.m.,3:14 p.m.
+1171,usatoday,7:10 a.m.,,9:40 a.m.,
+1172,usatoday,6:40 a.m.,6:54 a.m.,9:25 a.m.,9:09 a.m.
+1173,usatoday,,7:42 p.m.,,10:23 p.m.
+1174,usatoday,8:41 a.m.,,9:54 a.m.,
+1175,usatoday,7:45 p.m.,,10:30 p.m.,
+1176,usatoday,,6:10 a.m.,,7:10 a.m.
+1177,usatoday,,8:26 a.m.,,9:54 a.m.
+1178,usatoday,7:00 a.m.,7:25 a.m.,9:55 a.m.,9:45 a.m.
+1179,usatoday,4:15 p.m.,,7:55 p.m.,
+1180,usatoday,,5:38 p.m.,,7:55 p.m.
+1181,usatoday,6:00 a.m.,6:09 a.m.,9:20 a.m.,9:00 a.m.
+1182,usatoday,11:05 a.m.,,4:57 p.m.,
+1183,usatoday,10:45 a.m.,,2:20 p.m.,
+1184,usatoday,10:15 a.m.,10:19 a.m.,12:10 p.m.,11:50 a.m.
+1185,usatoday,6:45 a.m.,6:57 a.m.,7:45 a.m.,7:40 a.m.
+1186,usatoday,12:15 p.m.,12:42 p.m.,2:45 p.m.,2:52 p.m.
+1187,usatoday,,12:56 p.m.,,3:20 p.m.
+1188,usatoday,12:00 p.m.,12:08 p.m.,1:45 p.m.,1:14 p.m.
+1189,usatoday,10:40 a.m.,11:06 a.m.,2:45 p.m.,2:36 p.m.
+1190,usatoday,12:57 p.m.,,4:52 p.m.,
+1191,usatoday,3:35 p.m.,3:36 p.m.,4:00 p.m.,3:33 p.m.
+1192,usatoday,6:45 p.m.,,9:10 p.m.,
+1193,usatoday,7:15 p.m.,Not Available,12:21 a.m. Dec 02,Not Available
+1194,usatoday,,2:38 p.m.,,7:53 p.m.
+1195,usatoday,9:15 a.m.,9:14 a.m.,12:18 p.m.,12:09 p.m.
+1196,usatoday,8:00 p.m.,8:23 p.m.,9:45 p.m.,9:49 p.m.
+1197,usatoday,10:25 a.m.,,6:44 p.m.,
+1198,usatoday,10:40 a.m.,11:01 a.m.,2:59 p.m.,3:04 p.m.
+1199,usatoday,1:33 p.m.,,4:31 p.m.,
+1200,usatoday,11:55 p.m.,12:10 a.m. (Estimated runway),5:50 a.m.,5:42 a.m. (Estimated runway)
+1201,usatoday,2:30 p.m.,2:43 p.m.,6:15 p.m.,5:28 p.m.
+1202,usatoday,8:29 a.m.,8:26 a.m.,9:24 a.m.,9:13 a.m.
+1203,usatoday,,3:17 p.m.,,4:55 p.m.
+1204,usatoday,,7:41 a.m.,,8:41 a.m.
+1205,usatoday,11:08 p.m.,,5:11 a.m.,
+1206,usatoday,5:30 p.m.,,6:09 p.m.,
+1207,usatoday,,11:47 a.m.,,2:02 p.m.
+1208,usatoday,,3:04 p.m.,,4:24 p.m.
+1209,usatoday,,9:43 a.m.,,12:10 p.m.
+1210,usatoday,2:35 p.m.,2:44 p.m.,4:05 p.m.,3:43 p.m.
+1211,usatoday,7:15 a.m.,7:23 a.m.,11:35 a.m.,11:07 a.m.
+1212,usatoday,4:25 p.m.,Not Available,12:29 a.m. Dec 02,Not Available
+1213,usatoday,12:10 p.m.,,2:15 p.m.,
+1214,usatoday,7:55 a.m.,,11:05 a.m.,
+1215,usatoday,9:05 a.m.,,11:53 a.m.,
+1216,usatoday,1:05 p.m.,1:19 p.m.,2:35 p.m.,3:13 p.m.
+1217,usatoday,7:53 a.m.,7:49 a.m.,1:39 p.m.,1:30 p.m.
+1218,usatoday,3:05 p.m.,3:38 p.m.,6:30 p.m.,6:36 p.m.
+1219,usatoday,6:30 p.m.,6:56 p.m.,7:25 p.m.,7:35 p.m.
+1220,usatoday,11:25 a.m.,,5:25 p.m.,
+1221,usatoday,4:00 p.m.,,6:40 p.m.,
+1222,usatoday,6:00 a.m.,,6:40 a.m.,
+1223,usatoday,7:10 a.m.,7:40 a.m.,10:45 a.m.,10:49 a.m.
+1224,myrateplan,,7:16 a.m.,,9:22 a.m.
+1225,myrateplan,7:00 p.m.,,10:15 p.m.,
+1226,myrateplan,,6:54 a.m.,,9:14 a.m.
+1227,myrateplan,,8:48 a.m.,,11:30 a.m.
+1228,myrateplan,,9:00 a.m.,,9:29 a.m.
+1229,myrateplan,,7:59 p.m.,,10:31 p.m.
+1230,myrateplan,,3:50 p.m.,,5:14 p.m.
+1231,myrateplan,11:25 a.m.,,2:50 p.m.,
+1232,myrateplan,,11:41 a.m.,,4:54 p.m.
+1233,myrateplan,,10:53 a.m.,,11:11 a.m.
+1234,myrateplan,,11:29 p.m.,,12/2/11 6:35 a.m.
+1235,myrateplan,,6:10 a.m.,,7:04 a.m.
+1236,myrateplan,12:30 a.m.,,5:35 a.m.,
+1237,myrateplan,,4:10 p.m.,,6:25 p.m.
+1238,myrateplan,7:35 a.m.,,9:21 a.m.,
+1239,myrateplan,9:45 a.m.,,1:16 p.m.,
+1240,myrateplan,,10:11 a.m.,,1:11 p.m.
+1241,myrateplan,,8:26 a.m.,,9:56 a.m.
+1242,myrateplan,,7:25 a.m.,,9:29 a.m.
+1243,myrateplan,,4:29 p.m.,,7:37 p.m.
+1244,myrateplan,,10:54 a.m.,,1:36 p.m.
+1245,myrateplan,2:30 p.m.,,7:03 p.m.,
+1246,myrateplan,8:05 a.m.,,11:35 a.m.,
+1247,myrateplan,,3:04 p.m.,,4:43 p.m.
+1248,myrateplan,,12:13 p.m.,,4:08 p.m.
+1249,myrateplan,11:40 a.m.,,1:17 p.m.,
+1250,myrateplan,,6:09 a.m.,,8:50 a.m.
+1251,myrateplan,,11:45 a.m.,,5:00 p.m.
+1252,myrateplan,6:00 a.m.,,10:20 a.m.,
+1253,myrateplan,8:40 a.m.,,10:54 a.m.,
+1254,myrateplan,,10:19 a.m.,,11:50 a.m.
+1255,myrateplan,,2:03 p.m.,,3:13 p.m.
+1256,myrateplan,,8:07 a.m.,,1:23 p.m.
+1257,myrateplan,,12:56 p.m.,,3:09 p.m.
+1258,myrateplan,,12:14 p.m.,,1:55 p.m.
+1259,myrateplan,,2:43 p.m.,,5:22 p.m.
+1260,myrateplan,,12:07 p.m.,,1:11 p.m.
+1261,myrateplan,5:25 p.m.,,8:22 p.m.,
+1262,myrateplan,7:10 p.m.,,8:56 p.m.,
+1263,myrateplan,,11:06 a.m.,,2:39 p.m.
+1264,myrateplan,,1:43 p.m.,,5:24 p.m.
+1265,myrateplan,3:35 p.m.,,4:00 p.m.,
+1266,myrateplan,,7:22 a.m.,,10:34 a.m.
+1267,myrateplan,,6:47 p.m.,,7:25 p.m.
+1268,myrateplan,,6:56 p.m.,,8:38 p.m.
+1269,myrateplan,,12:12 p.m.,,3:04 p.m.
+1270,myrateplan,7:15 p.m.,,12/2/11 12:21 a.m.,
+1271,myrateplan,,2:04 p.m.,,7:20 p.m.
+1272,myrateplan,9:15 a.m.,,12:18 p.m.,
+1273,myrateplan,,6:57 a.m.,,7:49 a.m.
+1274,myrateplan,,7:31 a.m.,,9:26 a.m.
+1275,myrateplan,,5:09 p.m.,,7:43 p.m.
+1276,myrateplan,,7:39 a.m.,,10:43 a.m.
+1277,myrateplan,,4:44 p.m.,,6:28 p.m.
+1278,myrateplan,,4:37 p.m.,,7:23 p.m.
+1279,myrateplan,,8:23 p.m.,,9:47 p.m.
+1280,myrateplan,10:25 a.m.,,6:44 p.m.,
+1281,myrateplan,,7:30 a.m.,,10:43 a.m.
+1282,myrateplan,,11:02 a.m.,,2:58 p.m.
+1283,myrateplan,,1:48 p.m.,,4:20 p.m.
+1284,myrateplan,,12:42 p.m.,,2:50 p.m.
+1285,myrateplan,1:29 p.m.,,4:17 p.m.,
+1286,myrateplan,,12:11 a.m.,,5:52 a.m.
+1287,myrateplan,,4:28 p.m.,,12/2/11 12:01 a.m.
+1288,myrateplan,,9:06 p.m.,,11:49 p.m.
+1289,myrateplan,,8:29 p.m.,,11:35 p.m.
+1290,myrateplan,,7:23 a.m.,,9:45 a.m.
+1291,myrateplan,,8:52 a.m.,,11:33 a.m.
+1292,myrateplan,,8:37 a.m.,,9:13 a.m.
+1293,myrateplan,,1:41 p.m.,,3:29 p.m.
+1294,myrateplan,2:53 p.m.,,4:48 p.m.,
+1295,myrateplan,,7:41 a.m.,,8:33 a.m.
+1296,myrateplan,11:08 p.m.,,12/2/11 5:11 a.m.,
+1297,myrateplan,,5:38 p.m.,,6:19 p.m.
+1298,myrateplan,,1:50 p.m. (+8:00),,7:50 a.m.
+1299,myrateplan,,11:47 a.m.,,1:52 p.m.
+1300,myrateplan,,8:40 p.m.,,9:12 p.m.
+1301,myrateplan,,3:04 p.m.,,4:22 p.m.
+1302,myrateplan,2:30 p.m.,,7:03 p.m.,
+1303,myrateplan,8:55 a.m.,,11:45 a.m.,
+1304,myrateplan,,2:44 p.m.,,3:36 p.m.
+1305,myrateplan,,3:28 p.m.,,5:39 p.m.
+1306,myrateplan,,7:22 a.m.,,11:04 a.m.
+1307,myrateplan,,12:11 p.m.,,1:42 p.m.
+1308,myrateplan,,8:04 a.m.,,10:58 a.m.
+1309,myrateplan,9:05 a.m. (-00:00),,11:53 a.m.,
+1310,myrateplan,,1:20 p.m.,,2:49 p.m.
+1311,myrateplan,,8:55 a.m.,,10:12 a.m.
+1312,myrateplan,,3:38 p.m.,,6:30 p.m.
+1313,myrateplan,,8:04 a.m.,,7:59 a.m.
+1314,myrateplan,,4:12 p.m.,,6:11 p.m.
+1315,myrateplan,,11:52 a.m.,,2:21 p.m.
+1316,myrateplan,2:55 p.m.,,4:49 p.m.,
+1317,myrateplan,,11:55 a.m.,,5:34 p.m.
+1318,myrateplan,,10:55 a.m.,,12:37 p.m.
+1319,myrateplan,,6:58 a.m.,,7:37 a.m.
+1320,myrateplan,4:00 p.m.,,7:05 p.m.,
+1321,myrateplan,,6:11 a.m.,,6:15 a.m.
+1322,myrateplan,,7:40 a.m.,,10:52 a.m.
+1323,myrateplan,,7:32 a.m.,,3:12 p.m.
+1324,orbitz,7:10aDec 1,7:02aDec 1,9:40aDec 1,9:32aDec 1
+1325,orbitz,7:00 p.m.,7:14 p.m.,10:15 p.m.,10:02 p.m.
+1326,orbitz,6:40aDec 1,6:40aDec 1,9:25aDec 1,9:28aDec 1
+1327,orbitz,8:19aDec 1,8:48aDec 1,11:55aDec 1,11:58aDec 1
+1328,orbitz,8:41aDec 1,,9:54aDec 1,
+1329,orbitz,7:45 p.m.,7:45 p.m.,10:30 p.m.,
+1330,orbitz,12:00 p.m.,11:54aDec 1,3:15 p.m.,3:16 p.m.
+1331,orbitz,3:27 p.m.,3:28 p.m.,5:05 p.m.,5:17 p.m.
+1332,orbitz,11:25aDec 1,11:37aDec 1,2:50 p.m.,3:31 p.m.
+1333,orbitz,10:39aDec 1,,11:19aDec 1,
+1334,orbitz,11:25 p.m.,,6:55aDec 2,
+1335,orbitz,6:14aDec 1,6:09aDec 1,7:23aDec 1,7:17aDec 1
+1336,orbitz,12:30aDec 1,12:41aDec 1,5:35aDec 1,5:26aDec 1
+1337,orbitz,4:00 p.m.,3:58 p.m.,6:46 p.m.,6:28 p.m.
+1338,orbitz,7:35aDec 1,,9:21aDec 2,
+1339,orbitz,9:45aDec 1,10:19aDec 1,1:16 p.m.,1:19 p.m.
+1340,orbitz,10:00aDec 1,9:59aDec 1,12:35 p.m.,1:27 p.m.
+1341,orbitz,8:15aDec 1,8:12aDec 1,10:06aDec 1,9:56aDec 1
+1342,orbitz,7:00aDec 1,7:04aDec 1,9:55aDec 1,9:45aDec 1
+1343,orbitz,4:15 p.m.,4:16 p.m.,7:55 p.m.,7:39 p.m.
+1344,orbitz,10:45aDec 1,10:42aDec 1,2:20 p.m.,1:40 p.m.
+1345,orbitz,2:30 p.m.,2:48 p.m.,7:03 p.m.,7:10 p.m.
+1346,orbitz,8:05aDec 1,8:00aDec 1,11:35aDec 1,11:32aDec 1
+1347,orbitz,2:55 p.m.,2:46 p.m.,5:00 p.m.,4:47 p.m.
+1348,orbitz,11:50aDec 1,11:54aDec 1,3:50 p.m.,4:09 p.m.
+1349,orbitz,11:40aDec 1,11:56aDec 1,1:17 p.m.,1:14 p.m.
+1350,orbitz,6:00aDec 1,5:58aDec 1,9:20aDec 1,9:05aDec 1
+1351,orbitz,11:05aDec 1,11:30aDec 1,4:57 p.m.,5:05 p.m.
+1352,orbitz,6:00aDec 1,6:02aDec 1,10:20aDec 1,10:27aDec 1
+1353,orbitz,8:40aDec 1,8:40aDec 1,10:54aDec 1,10:56aDec 1
+1354,orbitz,10:15aDec 1,10:10aDec 1,12:10 p.m.,11:56aDec 1
+1355,orbitz,1:00 p.m.,1:48 p.m.,2:35 p.m.,3:30 p.m.
+1356,orbitz,7:53aDec 1,7:49aDec 1,1:39 p.m.,1:30 p.m.
+1357,orbitz,12:30 p.m.,12:35 p.m.,3:03 p.m.,
+1358,orbitz,11:45aDec 1,11:47aDec 1,2:00 p.m.,2:10 p.m.
+1359,orbitz,2:46 p.m.,2:42 p.m.,6:15 p.m.,5:42 p.m.
+1360,orbitz,12:00 p.m.,11:51aDec 1,1:45 p.m.,1:15 p.m.
+1361,orbitz,5:25 p.m.,5:22 p.m.,8:22 p.m.,8:03 p.m.
+1362,orbitz,7:10 p.m.,8:25 p.m.,10:48 p.m.,
+1363,orbitz,10:40aDec 1,10:46aDec 1,2:45 p.m.,2:46 p.m.
+1364,orbitz,12:57 p.m.,1:32 p.m.,5:15 p.m.,5:34 p.m.
+1365,orbitz,3:35 p.m.,3:27 p.m.,4:00 p.m.,3:33 p.m.
+1366,orbitz,7:15aDec 1,7:08aDec 1,10:35aDec 1,10:36aDec 1
+1367,orbitz,6:30 p.m.,,7:25 p.m.,
+1368,orbitz,6:45 p.m.,6:40 p.m.,9:10 p.m.,8:53 p.m.
+1369,orbitz,7:15 p.m.,,12:21aDec 2,
+1370,orbitz,2:22 p.m.,2:37 p.m.,7:53 p.m.,7:58 p.m.
+1371,orbitz,9:15aDec 1,9:14aDec 1,12:18 p.m.,12:09 p.m.
+1372,orbitz,6:00aDec 1,5:59aDec 1,7:30aDec 1,7:51aDec 1
+1373,orbitz,7:10aDec 1,7:10aDec 1,9:35aDec 1,9:31aDec 1
+1374,orbitz,4:55 p.m.,4:56 p.m.,8:05 p.m.,7:55 p.m.
+1375,orbitz,3:50 p.m.,4:28 p.m.,6:23 p.m.,6:38 p.m.
+1376,orbitz,4:16 p.m.,4:15 p.m.,7:35 p.m.,7:36 p.m.
+1377,orbitz,8:00 p.m.,8:01 p.m.,9:45 p.m.,9:53 p.m.
+1378,orbitz,10:25aDec 1,10:20aDec 1,6:44 p.m.,6:34 p.m.
+1379,orbitz,7:05aDec 1,7:07aDec 1,10:31aDec 1,10:47aDec 1
+1380,orbitz,10:40aDec 1,10:47aDec 1,2:59 p.m.,3:04 p.m.
+1381,orbitz,1:33 p.m.,1:31 p.m.,4:31 p.m.,4:23 p.m.
+1382,orbitz,12:15 p.m.,12:10 p.m.,2:45 p.m.,2:50 p.m.
+1383,orbitz,1:29 p.m.,1:48 p.m.,4:17 p.m.,4:17 p.m.
+1384,orbitz,11:55 p.m.,,5:50aDec 2,
+1385,orbitz,4:25 p.m.,,12:29aDec 2,
+1386,orbitz,9:00 p.m.,,12:15aDec 2,
+1387,orbitz,8:25 p.m.,,11:50 p.m.,
+1388,orbitz,6:59aDec 1,6:56aDec 1,10:34aDec 1,10:04aDec 1
+1389,orbitz,8:35aDec 1,8:31aDec 1,11:50aDec 1,11:44aDec 1
+1390,orbitz,1:30 p.m.,,3:50 p.m.,
+1391,orbitz,2:53 p.m.,3:01 p.m.,4:48 p.m.,4:59 p.m.
+1392,orbitz,7:35aDec 1,7:27aDec 1,9:43aDec 1,8:45aDec 1
+1393,orbitz,11:08 p.m.,,5:11aDec 2,
+1394,orbitz,5:30 p.m.,,6:40 p.m.,
+1395,orbitz,1:45 p.m.,1:32 p.m.,8:27aDec 1,8:02aDec 1
+1396,orbitz,11:15aDec 1,11:15aDec 1,1:40 p.m.,2:00 p.m.
+1397,orbitz,8:20 p.m.,8:30 p.m.,9:18 p.m.,
+1398,orbitz,2:55 p.m.,2:52 p.m.,4:53 p.m.,4:44 p.m.
+1399,orbitz,2:30 p.m.,2:48 p.m.,7:03 p.m.,7:10 p.m.
+1400,orbitz,8:55aDec 1,9:16aDec 1,12:05 p.m.,
+1401,orbitz,2:35 p.m.,2:32 p.m.,4:05 p.m.,3:43 p.m.
+1402,orbitz,2:55 p.m.,3:00 p.m.,5:55 p.m.,5:43 p.m.
+1403,orbitz,7:15aDec 1,7:10aDec 1,11:35aDec 1,11:06aDec 1
+1404,orbitz,12:10 p.m.,12:01 p.m.,2:15 p.m.,1:43 p.m.
+1405,orbitz,7:55aDec 1,7:51aDec 1,11:05aDec 1,11:01aDec 1
+1406,orbitz,9:05aDec 1,8:52aDec 1,11:53aDec 1,12:09 p.m.
+1407,orbitz,1:05 p.m.,1:06 p.m.,2:35 p.m.,3:13 p.m.
+1408,orbitz,8:35aDec 1,8:32aDec 1,10:40aDec 1,10:16aDec 1
+1409,orbitz,3:05 p.m.,3:09 p.m.,6:30 p.m.,6:43 p.m.
+1410,orbitz,7:30aDec 1,7:28aDec 1,8:00aDec 1,8:06aDec 1
+1411,orbitz,11:25aDec 1,11:20aDec 1,5:25 p.m.,4:56 p.m.
+1412,orbitz,4:00 p.m.,3:52 p.m.,6:40 p.m.,6:15 p.m.
+1413,orbitz,11:35aDec 1,11:33aDec 1,2:25 p.m.,2:27 p.m.
+1414,orbitz,7:25aDec 1,7:22aDec 1,11:10aDec 1,11:06aDec 1
+1415,orbitz,2:55 p.m.,3:31 p.m.,4:49 p.m.,5:26 p.m.
+1416,orbitz,11:55aDec 1,11:43aDec 1,6:17 p.m.,5:38 p.m.
+1417,orbitz,10:40aDec 1,10:35aDec 1,12:55 p.m.,12:50 p.m.
+1418,orbitz,6:45aDec 1,6:41aDec 1,7:45aDec 1,7:40aDec 1
+1419,orbitz,4:00 p.m.,3:58 p.m.,7:05 p.m.,6:36 p.m.
+1420,orbitz,6:00aDec 1,5:56aDec 1,6:40aDec 1,6:19aDec 1
+1421,orbitz,7:10aDec 1,7:14aDec 1,10:45aDec 1,11:12aDec 1
+1422,orbitz,7:10aDec 1,7:05aDec 1,3:30 p.m.,3:14 p.m.
+1423,phl,,,3:50 p.m.,
+1424,phl,,,9:24 a.m.,
+1425,phl,2:35 p.m.,,,
+1426,phl,,,4:31 p.m.,
+1427,CO,7:00 p.m.,7:14 p.m.,10:15 p.m.,10:29 p.m.
+1428,CO,7:35 a.m.,7:29 a.m.,9:21 a.m.,9:14 a.m.
+1429,CO,11:40 a.m.,11:56 a.m.,1:17 p.m.,1:14 p.m.
+1430,CO,6:00 a.m.,6:02 a.m.,10:20 a.m.,10:27 a.m.
+1431,CO,7:15 p.m.,7:15 p.m.,12:21 a.m.,12:21 a.m.
+1432,CO,12:30 a.m.,12:41 a.m.,5:35 a.m.,5:26 a.m.
+1433,CO,8:40 a.m.,8:40 a.m.,10:54 a.m.,10:56 a.m.
+1434,CO,11:25 a.m.,11:32 a.m.,2:50 p.m.,3:31 p.m.
+1435,CO,2:55 p.m.,3:31 p.m.,4:49 p.m.,5:26 p.m.
+1436,CO,2:30 p.m.,2:48 p.m.,7:03 p.m.,7:10 p.m.
+1437,CO,9:15 a.m.,9:14 a.m.,12:18 p.m.,12:09 p.m.
+1438,CO,10:25 a.m.,10:20 a.m.,6:44 p.m.,6:34 p.m.
+1439,CO,9:45 a.m.,10:19 a.m.,1:16 p.m.,1:19 p.m.
+1440,CO,2:53 p.m.,3:01 p.m.,4:48 p.m.,4:59 p.m.
+1441,CO,7:10 p.m.,8:25 p.m.,8:56 p.m.,9:52 p.m.
+1442,CO,5:30 p.m.,5:30 p.m.,6:40 p.m.,6:40 p.m.
+1443,CO,4:00 p.m.,3:58 p.m.,7:05 p.m.,6:36 p.m.
+1444,CO,5:25 p.m.,5:22 p.m.,8:22 p.m.,8:03 p.m.
+1445,CO,8:05 a.m.,8:00 a.m.,11:35 a.m.,11:32 a.m.
+1446,ifly,6:00 a.m.,6:56 a.m.,7:30 a.m.,7:51 a.m.
+1447,ifly,2:35 p.m.,2:44 p.m.,4:05 p.m.,3:43 p.m.
+1448,ifly,9:45 a.m.,10:19 a.m.,1:16 p.m.,1:19 p.m.
+1449,ifly,2:55 p.m.,3:27 p.m.,5:55 p.m.,5:43 p.m.
+1450,ifly,3:50 p.m.,4:28 p.m.,6:23 p.m.,6:38 p.m.
+1451,ifly,6:00 a.m.,6:02 a.m.,10:20 a.m.,10:27 a.m.
+1452,ifly,4:16 p.m.,4:15 p.m.,7:35 p.m.,7:36 p.m.
+1453,ifly,8:41 a.m.,8:42 a.m.,9:54 a.m.,9:43 a.m.
+1454,ifly,1:05 p.m.,1:19 p.m.,2:35 p.m.,3:13 p.m.
+1455,ifly,7:15 a.m.,7:21 a.m.,10:35 a.m.,10:36 a.m.
+1456,ifly,1:33 p.m.,1:31 p.m.,4:31 p.m.,4:23 p.m.
+1457,ifly,12:15 p.m.,12:41 p.m.,2:45 p.m.,2:50 p.m.
+1458,ifly,12:30 a.m.,12:41 a.m.,5:35 a.m.,5:26 a.m.
+1459,ifly,11:25 a.m.,11:32 a.m.,2:50 p.m.,3:31 p.m.
+1460,ifly,4:25 p.m.,4:28 p.m. (Estimated runway),12:29 a.m.,12:01 a.m. (Estimated runway)
+1461,ifly,7:30 a.m.,8:04 a.m.,8:00 a.m.,8:06 a.m.
+1462,ifly,9:00 p.m.,9:06 p.m. (Estimated runway),12:15 a.m.,11:49 p.m. (Estimated runway)
+1463,ifly,4:00 p.m.,4:12 p.m.,6:40 p.m.,6:15 p.m.
+1464,ifly,8:35 a.m.,8:51 a.m.,11:50 a.m.,11:44 a.m.
+1465,ifly,7:45 p.m.,7:58 p.m.,10:30 p.m.,10:30 p.m. (Estimated)
+1466,ifly,8:29 a.m.,8:26 a.m.,9:24 a.m.,9:13 a.m.
+1467,ifly,11:55 a.m.,11:43 a.m.,6:17 p.m.,5:38 p.m.
+1468,ifly,2:55 p.m.,2:46 p.m.,5:00 p.m.,4:47 p.m.
+1469,ifly,10:25 a.m.,10:20 a.m.,6:44 p.m.,6:34 p.m.
+1470,ifly,2:53 p.m.,3:01 p.m.,4:48 p.m.,4:59 p.m.
+1471,ifly,7:00 a.m.,7:25 a.m.,9:55 a.m.,9:45 a.m.
+1472,ifly,10:40 a.m.,11:05 a.m.,2:45 p.m.,2:46 p.m.
+1473,ifly,8:35 a.m.,8:56 a.m.,10:40 a.m.,10:16 a.m.
+1474,ifly,8:20 p.m.,8:39 p.m.,9:20 p.m.,9:19 p.m. (Estimated)
+1475,ifly,6:00 a.m.,6:10 a.m.,6:40 a.m.,6:19 a.m.
+1476,ifly,7:10 a.m.,7:39 a.m.,10:45 a.m.,11:12 a.m.
+1477,ifly,2:30 p.m.,2:48 p.m.,7:03 p.m.,7:10 p.m.
+1478,ifly,9:05 a.m.,10:10 a.m.,12:35 p.m.,1:27 p.m.
+1479,ifly,12:00 p.m.,12:11 p.m.,3:15 p.m.,3:16 p.m.
+1480,ifly,7:15 p.m.,7:15 p.m. (Estimated),12:21 a.m.,12:21 a.m. (Estimated)
+1481,ifly,11:50 a.m.,12:12 p.m.,3:50 p.m.,4:09 p.m.
+1482,sfo,,,11:55 a.m.,
+1483,sfo,,,6:30 p.m.,
+1484,sfo,,,11:50 a.m.,
+1485,sfo,,,10:45 a.m.,
+1486,sfo,,,6:15 p.m.,
+1487,sfo,,,7:23 a.m.,
+1488,flytecomm,,7:16 a.m.,,9:22 a.m.
+1489,flytecomm,7:00 p.m.,,10:15 p.m.,
+1490,flytecomm,,6:54 a.m.,,9:14 a.m.
+1491,flytecomm,,8:48 a.m.,,11:30 a.m.
+1492,flytecomm,,9:00 a.m.,,9:29 a.m.
+1493,flytecomm,,7:59 p.m.,,10:31 p.m.
+1494,flytecomm,,3:50 p.m.,,5:14 p.m.
+1495,flytecomm,11:25 a.m.,,2:50 p.m.,
+1496,flytecomm,,11:41 a.m.,,4:54 p.m.
+1497,flytecomm,,10:53 a.m.,,11:11 a.m.
+1498,flytecomm,,11:29 p.m.,,12/2/11 6:35 a.m.
+1499,flytecomm,,6:10 a.m.,,7:04 a.m.
+1500,flytecomm,12:30 a.m.,,5:35 a.m.,
+1501,flytecomm,,4:10 p.m.,,6:25 p.m.
+1502,flytecomm,7:35 a.m.,,9:21 a.m.,
+1503,flytecomm,9:45 a.m.,,1:16 p.m.,
+1504,flytecomm,,10:11 a.m.,,1:11 p.m.
+1505,flytecomm,,8:26 a.m.,,9:56 a.m.
+1506,flytecomm,,7:25 a.m.,,9:29 a.m.
+1507,flytecomm,,4:29 p.m.,,7:37 p.m.
+1508,flytecomm,,10:54 a.m.,,1:36 p.m.
+1509,flytecomm,2:30 p.m.,,7:03 p.m.,
+1510,flytecomm,8:05 a.m.,,11:35 a.m.,
+1511,flytecomm,,3:04 p.m.,,4:43 p.m.
+1512,flytecomm,,12:13 p.m.,,4:08 p.m.
+1513,flytecomm,11:40 a.m.,,1:17 p.m.,
+1514,flytecomm,,6:09 a.m.,,8:50 a.m.
+1515,flytecomm,,11:45 a.m.,,5:00 p.m.
+1516,flytecomm,6:00 a.m.,,10:20 a.m.,
+1517,flytecomm,8:40 a.m.,,10:54 a.m.,
+1518,flytecomm,,10:19 a.m.,,11:50 a.m.
+1519,flytecomm,,2:03 p.m.,,3:13 p.m.
+1520,flytecomm,,8:07 a.m.,,1:23 p.m.
+1521,flytecomm,,12:56 p.m.,,3:09 p.m.
+1522,flytecomm,,12:14 p.m.,,1:55 p.m.
+1523,flytecomm,,2:43 p.m.,,5:22 p.m.
+1524,flytecomm,,12:07 p.m.,,1:11 p.m.
+1525,flytecomm,5:25 p.m.,,8:22 p.m.,
+1526,flytecomm,7:10 p.m.,,8:56 p.m.,
+1527,flytecomm,,11:06 a.m.,,2:39 p.m.
+1528,flytecomm,,1:43 p.m.,,5:24 p.m.
+1529,flytecomm,3:35 p.m.,,4:00 p.m.,
+1530,flytecomm,,7:22 a.m.,,10:34 a.m.
+1531,flytecomm,,6:47 p.m.,,7:25 p.m.
+1532,flytecomm,,6:56 p.m.,,8:38 p.m.
+1533,flytecomm,,12:12 p.m.,,3:04 p.m.
+1534,flytecomm,7:15 p.m.,,12/2/11 12:21 a.m.,
+1535,flytecomm,,2:04 p.m.,,7:20 p.m.
+1536,flytecomm,9:15 a.m.,,12:18 p.m.,
+1537,flytecomm,,6:57 a.m.,,7:49 a.m.
+1538,flytecomm,,7:31 a.m.,,9:26 a.m.
+1539,flytecomm,,5:09 p.m.,,7:43 p.m.
+1540,flytecomm,,7:39 a.m.,,10:43 a.m.
+1541,flytecomm,,4:44 p.m.,,6:28 p.m.
+1542,flytecomm,,4:37 p.m.,,7:23 p.m.
+1543,flytecomm,,8:23 p.m.,,9:47 p.m.
+1544,flytecomm,10:25 a.m.,,6:44 p.m.,
+1545,flytecomm,,7:30 a.m.,,10:43 a.m.
+1546,flytecomm,,11:02 a.m.,,2:58 p.m.
+1547,flytecomm,,1:48 p.m.,,4:20 p.m.
+1548,flytecomm,,12:42 p.m.,,2:50 p.m.
+1549,flytecomm,1:29 p.m.,,4:17 p.m.,
+1550,flytecomm,,12:11 a.m.,,5:52 a.m.
+1551,flytecomm,,4:28 p.m.,,12/2/11 12:01 a.m.
+1552,flytecomm,,9:06 p.m.,,11:49 p.m.
+1553,flytecomm,,8:29 p.m.,,11:35 p.m.
+1554,flytecomm,,7:23 a.m.,,9:45 a.m.
+1555,flytecomm,,8:52 a.m.,,11:33 a.m.
+1556,flytecomm,,8:37 a.m.,,9:13 a.m.
+1557,flytecomm,,1:41 p.m.,,3:29 p.m.
+1558,flytecomm,2:53 p.m.,,4:48 p.m.,
+1559,flytecomm,,7:41 a.m.,,8:33 a.m.
+1560,flytecomm,11:08 p.m.,,12/2/11 5:11 a.m.,
+1561,flytecomm,,5:38 p.m.,,6:19 p.m.
+1562,flytecomm,,1:50 p.m. (+8:00),,7:50 a.m.
+1563,flytecomm,,11:47 a.m.,,1:52 p.m.
+1564,flytecomm,,8:40 p.m.,,9:12 p.m.
+1565,flytecomm,,3:04 p.m.,,4:22 p.m.
+1566,flytecomm,2:30 p.m.,,7:03 p.m.,
+1567,flytecomm,8:55 a.m.,,11:45 a.m.,
+1568,flytecomm,,2:44 p.m.,,3:36 p.m.
+1569,flytecomm,,3:28 p.m.,,5:39 p.m.
+1570,flytecomm,,7:22 a.m.,,11:04 a.m.
+1571,flytecomm,,12:11 p.m.,,1:42 p.m.
+1572,flytecomm,,8:04 a.m.,,10:58 a.m.
+1573,flytecomm,9:05 a.m. (-00:00),,11:53 a.m.,
+1574,flytecomm,,1:20 p.m.,,2:49 p.m.
+1575,flytecomm,,8:55 a.m.,,10:12 a.m.
+1576,flytecomm,,3:38 p.m.,,6:30 p.m.
+1577,flytecomm,,8:04 a.m.,,7:59 a.m.
+1578,flytecomm,,4:12 p.m.,,6:11 p.m.
+1579,flytecomm,,11:52 a.m.,,2:21 p.m.
+1580,flytecomm,2:55 p.m.,,4:49 p.m.,
+1581,flytecomm,,11:55 a.m.,,5:34 p.m.
+1582,flytecomm,,10:55 a.m.,,12:37 p.m.
+1583,flytecomm,,6:58 a.m.,,7:37 a.m.
+1584,flytecomm,4:00 p.m.,,7:05 p.m.,
+1585,flytecomm,,6:11 a.m.,,6:15 a.m.
+1586,flytecomm,,7:40 a.m.,,10:52 a.m.
+1587,flytecomm,,7:32 a.m.,,3:12 p.m.
+1588,mytripandmore,7:45 p.m.,7:45 p.m.,10:30 p.m.,
+1589,mytripandmore,7:00 p.m.,7:14 p.m.,10:15 p.m.,10:02 p.m.
+1590,mytripandmore,8:41aDec 1,,9:54aDec 1,
+1591,mytripandmore,6:30 p.m.,,7:25 p.m.,
+1592,mytripandmore,3:27 p.m.,Contact Airline,5:05 p.m.,Contact Airline
+1593,mytripandmore,10:39aDec 1,,11:19aDec 1,
+1594,mytripandmore,11:25 p.m.,,6:55aDec 2,
+1595,mytripandmore,12:30aDec 1,12:41aDec 1,5:35aDec 1,5:26aDec 1
+1596,mytripandmore,4:00 p.m.,3:58 p.m.,6:46 p.m.,6:28 p.m.
+1597,mytripandmore,9:45aDec 1,10:19aDec 1,1:16 p.m.,1:19 p.m.
+1598,mytripandmore,7:00aDec 1,7:04aDec 1,9:55aDec 1,9:45aDec 1
+1599,mytripandmore,2:30 p.m.,2:48 p.m.,7:03 p.m.,7:10 p.m.
+1600,mytripandmore,11:40aDec 1,11:56aDec 1,1:17 p.m.,1:14 p.m.
+1601,mytripandmore,6:00aDec 1,5:58aDec 1,9:20aDec 1,9:05aDec 1
+1602,mytripandmore,11:05aDec 1,11:30aDec 1,4:57 p.m.,5:05 p.m.
+1603,mytripandmore,10:15 a.m.,10:10 a.m.,12:10 p.m.,11:56 a.m.
+1604,mytripandmore,7:30aDec 1,7:28aDec 1,8:00aDec 1,8:06aDec 1
+1605,mytripandmore,12:30 p.m.,12:35 p.m.,3:03 p.m.,
+1606,mytripandmore,9:05 a.m.,9:59 a.m.,12:35 p.m.,1:27 p.m.
+1607,mytripandmore,11:45aDec 1,11:47aDec 1,2:00 p.m.,2:10 p.m.
+1608,mytripandmore,12:00 p.m.,11:51aDec 1,1:45 p.m.,1:15 p.m.
+1609,mytripandmore,7:10 p.m.,8:25 p.m.,10:48 p.m.,
+1610,mytripandmore,11:35 a.m.,11:33 a.m.,2:25 p.m.,2:27 p.m.
+1611,mytripandmore,6:00aDec 1,5:59aDec 1,7:30aDec 1,7:51aDec 1
+1612,mytripandmore,7:10aDec 1,7:10aDec 1,9:35aDec 1,9:31aDec 1
+1613,mytripandmore,4:55 p.m.,4:56 p.m.,8:05 p.m.,7:55 p.m.
+1614,mytripandmore,7:25aDec 1,7:22aDec 1,11:10aDec 1,11:06aDec 1
+1615,mytripandmore,8:00 p.m.,8:01 p.m.,9:45 p.m.,9:53 p.m.
+1616,mytripandmore,7:05aDec 1,7:07aDec 1,10:31aDec 1,10:47aDec 1
+1617,mytripandmore,6:45 p.m.,6:40 p.m.,9:10 p.m.,8:53 p.m.
+1618,mytripandmore,4:25 p.m.,,12:29aDec 2,
+1619,mytripandmore,9:00 p.m.,Not Available,Dec 02 12:15 a.m.,Dec 02 Not Available
+1620,mytripandmore,8:25 p.m.,,11:50 p.m.,
+1621,mytripandmore,6:59aDec 1,6:56aDec 1,10:34aDec 1,10:04aDec 1
+1622,mytripandmore,8:35aDec 1,8:31aDec 1,11:50aDec 1,11:44aDec 1
+1623,mytripandmore,Not Available,2:42 p.m.,Not Available,5:42 p.m.
+1624,mytripandmore,1:30 p.m.,Not Available,3:50 p.m.,Not Available
+1625,mytripandmore,2:53 p.m.,3:01 p.m.,4:48 p.m.,4:59 p.m.
+1626,mytripandmore,11:08 p.m.,,5:11aDec 2,
+1627,mytripandmore,8:20 p.m.,8:30 p.m.,9:18 p.m.,
+1628,mytripandmore,2:55 p.m.,3:00 p.m.,5:55 p.m.,5:43 p.m.
+1629,mytripandmore,Not Available,7:41 a.m.,Not Available,8:45 a.m.
+1630,mytripandmore,12:10 p.m.,12:01 p.m.,2:15 p.m.,1:43 p.m.
+1631,mytripandmore,9:05aDec 1,8:52aDec 1,11:53aDec 1,12:09 p.m.
+1632,mytripandmore,7:10aDec 1,7:14aDec 1,10:45aDec 1,11:12aDec 1
+1633,mytripandmore,8:35aDec 1,8:32aDec 1,10:40aDec 1,10:16aDec 1
+1634,mytripandmore,11:25aDec 1,11:20aDec 1,5:25 p.m.,4:56 p.m.
+1635,mytripandmore,4:00 p.m.,3:52 p.m.,6:40 p.m.,6:15 p.m.
+1636,mytripandmore,2:55 p.m.,3:31 p.m.,4:49 p.m.,5:26 p.m.
+1637,mytripandmore,6:45aDec 1,6:41aDec 1,7:45aDec 1,7:40aDec 1
+1638,ord,7:10 a.m.,,9:40 a.m.,
+1639,ord,6:00 a.m.,,7:30 a.m.,
+1640,ord,7:10 a.m.,,9:35 a.m.,
+1641,ord,2:35 p.m.,,4:05 p.m.,
+1642,ord,7:15 a.m.,,11:35 a.m.,
+1643,ord,11/30 8:00 p.m.,,11/30 9:45 p.m.,
+1644,ord,11/30 4:16 p.m.,,11/30 7:35 p.m.,
+1645,ord,1:05 p.m.,,2:35 p.m.,
+1646,ord,11/30 6:45 p.m.,,11/30 9:10 p.m.,
+1647,ord,7:30 a.m.,,8:00 a.m.,
+1648,ord,1:33 p.m.,,4:31 p.m.,
+1649,ord,12:15 p.m.,,2:45 p.m.,
+1650,ord,11/30 4:00 p.m.,,11/30 6:40 p.m.,
+1651,ord,11/30 11:55 p.m.,,5:50 a.m.,
+1652,ord,11/30 11:25 a.m.,,11/30 5:25 p.m.,
+1653,ord,11:45 a.m.,,2:00 p.m.,
+1654,ord,11/30 7:45 p.m.,,11/30 10:30 p.m.,
+1655,ord,10:40 a.m.,,12:55 p.m.,
+1656,ord,11/30 11:08 p.m.,,5:11 a.m.,
+1657,ord,10:40 a.m.,,2:45 p.m.,
+1658,ord,11/30 12:57 p.m.,,11/30 5:15 p.m.,
+1659,ord,8:35 a.m.,,10:40 a.m.,
+1660,ord,3:35 p.m.,,4:00 p.m.,
+1661,ord,11/30 1:55 p.m.,,11/30 7:53 p.m.,
+1662,wunderground,7:10 a.m.,7:16 a.m.,9:30 a.m.,9:22 a.m.
+1663,wunderground,6:40 a.m.,6:54 a.m.,8:54 a.m.,9:14 a.m.
+1664,wunderground,7:00 p.m.,7:42 p.m.,9:40 p.m.,10:24 p.m.
+1665,wunderground,8:41 a.m.,8:51 a.m.,9:34 a.m.,9:44 a.m.
+1666,wunderground,7:45 p.m.,7:59 p.m.,10:15 p.m.,10:28 p.m.
+1667,wunderground,11:25 p.m.,11:57 p.m.,6:30 a.m.,6:55 a.m.
+1668,wunderground,4:00 p.m.,4:10 p.m.,6:34 p.m.,6:23 p.m.
+1669,wunderground,7:35 a.m.,7:56 a.m.,9:11 a.m.,9:08 a.m.
+1670,wunderground,7:00 a.m.,7:25 a.m.,9:45 a.m.,9:29 a.m.
+1671,wunderground,4:15 p.m.,4:29 p.m.,7:26 p.m.,7:37 p.m.
+1672,wunderground,9:05 a.m.,10:10 a.m.,12:12 p.m.,1:11 p.m.
+1673,wunderground,11:50 a.m.,12:13 p.m.,3:33 p.m.,3:59 p.m.
+1674,wunderground,11:40 a.m.,12:06 p.m.,12:51 p.m.,1:07 p.m.
+1675,wunderground,6:00 a.m.,6:08 a.m.,8:51 a.m.,8:50 a.m.
+1676,wunderground,11:05 a.m.,11:45 a.m.,4:37 p.m.,4:57 p.m.
+1677,wunderground,7:55 a.m.,8:05 a.m.,10:55 a.m.,10:58 a.m.
+1678,wunderground,10:15 a.m.,10:19 a.m.,11:43 a.m.,11:50 a.m.
+1679,wunderground,7:30 a.m.,8:04 a.m.,7:50 a.m.,7:59 a.m.
+1680,wunderground,1:00 p.m.,2:04 p.m.,2:14 p.m.,3:13 p.m.
+1681,wunderground,6:45 a.m.,6:57 a.m.,7:25 a.m.,7:35 a.m.
+1682,wunderground,12:15 p.m.,12:42 p.m.,2:35 p.m.,2:40 p.m.
+1683,wunderground,12:30 p.m.,12:56 p.m.,2:48 p.m.,3:07 p.m.
+1684,wunderground,2:30 p.m.,2:42 p.m.,5:40 p.m.,5:27 p.m.
+1685,wunderground,12:00 p.m.,12:07 p.m.,1:35 p.m.,1:08 p.m.
+1686,wunderground,5:25 p.m.,5:38 p.m.,8:04 p.m.,7:43 p.m.
+1687,wunderground,7:25 a.m.,7:39 a.m.,10:43 a.m.,10:43 a.m.
+1688,wunderground,7:27 p.m.,7:27 p.m.,8:46 p.m.,8:46 p.m.
+1689,wunderground,11:35 a.m.,11:52 a.m.,1:57 p.m.,2:21 p.m.
+1690,wunderground,10:40 a.m.,11:05 a.m.,2:10 p.m.,2:39 p.m.
+1691,wunderground,3:35 p.m.,3:36 p.m.,3:50 p.m.,3:26 p.m.
+1692,wunderground,7:15 a.m.,7:21 a.m.,10:18 a.m.,10:29 a.m.
+1693,wunderground,6:30 p.m.,6:47 p.m.,7:08 p.m.,7:25 p.m.
+1694,wunderground,6:45 p.m.,6:56 p.m.,9:00 p.m.,8:38 p.m.
+1695,wunderground,12:00 p.m.,12:12 p.m.,2:47 p.m.,3:04 p.m.
+1696,wunderground,7:15 p.m.,7:25 p.m.,11:52 p.m.,12:02 a.m.
+1697,wunderground,9:15 a.m.,9:57 a.m.,12:08 p.m.,12:02 p.m.
+1698,wunderground,6:00 a.m.,6:56 a.m.,6:50 a.m.,7:49 a.m.
+1699,wunderground,7:10 a.m.,7:31 a.m.,9:00 a.m.,9:26 a.m.
+1700,wunderground,4:55 p.m.,5:08 p.m.,7:38 p.m.,7:43 p.m.
+1701,wunderground,3:50 p.m.,4:45 p.m.,6:00 p.m.,6:34 p.m.
+1702,wunderground,8:00 p.m.,8:23 p.m.,9:25 p.m.,9:47 p.m.
+1703,wunderground,10:40 a.m.,11:01 a.m.,2:35 p.m.,2:58 p.m.
+1704,wunderground,1:33 p.m.,1:48 p.m.,4:20 p.m.,4:20 p.m.
+1705,wunderground,1:29 p.m.,2:01 p.m.,3:55 p.m.,4:06 p.m.
+1706,wunderground,4:25 p.m.,4:35 p.m.,12:09 a.m.,12:19 a.m.
+1707,wunderground,9:00 p.m.,9:16 p.m.,12:05 a.m.,12:01 a.m.
+1708,wunderground,8:25 p.m.,8:29 p.m.,11:31 p.m.,11:35 p.m.
+1709,wunderground,6:59 a.m.,7:22 a.m.,9:25 a.m.,9:45 a.m.
+1710,wunderground,8:35 a.m.,8:51 a.m.,11:22 a.m.,11:33 a.m.
+1711,wunderground,1:30 p.m.,1:40 p.m.,3:30 p.m.,3:40 p.m.
+1712,wunderground,11:08 p.m.,11:35 p.m.,5:08 a.m.,5:21 a.m.
+1713,wunderground,5:30 p.m.,6:11 p.m.,6:15 p.m.,6:56 p.m.
+1714,wunderground,8:20 p.m.,8:40 p.m.,9:10 p.m.,9:11 p.m.
+1715,wunderground,2:35 p.m.,2:44 p.m.,3:55 p.m.,3:36 p.m.
+1716,wunderground,2:55 p.m.,3:27 p.m.,5:17 p.m.,5:39 p.m.
+1717,wunderground,7:15 a.m.,7:23 a.m.,10:57 a.m.,11:04 a.m.
+1718,wunderground,12:10 p.m.,12:10 p.m.,2:05 p.m.,1:42 p.m.
+1719,wunderground,1:05 p.m.,1:19 p.m.,2:17 p.m.,2:49 p.m.
+1720,wunderground,3:05 p.m.,3:36 p.m.,5:57 p.m.,6:30 p.m.
+1721,wunderground,4:00 p.m.,4:12 p.m.,6:30 p.m.,6:11 p.m.
+1722,wunderground,7:10 a.m.,7:32 a.m.,2:52 p.m.,3:12 p.m.
+1723,wunderground,11:55 a.m.,11:55 a.m.,6:07 p.m.,5:34 p.m.
+1724,wunderground,10:40 a.m.,10:55 a.m.,12:45 p.m.,12:37 p.m.
+1725,wunderground,4:00 p.m.,4:14 p.m.,6:31 p.m.,6:33 p.m.
+1726,wunderground,6:00 a.m.,6:10 a.m.,6:30 a.m.,6:09 a.m.
+1727,wunderground,7:10 a.m.,7:39 a.m.,10:09 a.m.,10:52 a.m.
+1728,ua,8:00 a.m.,8:29 a.m.,11:55 a.m.,11:58 a.m.
+1729,ua,8:41 a.m.,8:42 a.m.,9:54 a.m.,9:43 a.m.
+1730,ua,3:27 p.m.,3:27 p.m.,5:05 p.m.,5:17 p.m.
+1731,ua,10:39 a.m.,10:33 a.m.,11:19 a.m.,11:21 a.m.
+1732,ua,4:00 p.m.,4:00 p.m.,6:46 p.m.,6:28 p.m.
+1733,ua,11:05 a.m.,11:30 a.m.,4:57 p.m.,5:05 p.m.
+1734,ua,12:30 p.m.,12:35 p.m.            Delayed,3:19 p.m.,3:21 p.m.
+1735,ua,12:00 a.m.,3:11 a.m.,1:45 p.m.,1:15 p.m.
+1736,ua,7:53 a.m.,7:49 a.m.,1:39 p.m.,1:30 p.m.
+1737,ua,8:15 a.m.,8:12 a.m.,10:06 a.m.,9:56 a.m.
+1738,ua,12:57 p.m.,1:32 p.m.            Delayed,5:15 p.m.,5:34 p.m.
+1739,ua,1:55 p.m.,2:10 p.m.,7:53 p.m.,7:58 p.m.
+1740,ua,3:50 p.m.,4:28 p.m.            Delayed,6:23 p.m.,6:38 p.m.
+1741,ua,4:16 p.m.,4:15 p.m.,7:35 p.m.,7:36 p.m.
+1742,ua,7:05 a.m.,7:05 a.m.,10:31 a.m.,10:47 a.m.
+1743,ua,1:33 p.m.,1:31 p.m.,4:31 p.m.,4:23 p.m.
+1744,ua,1:29 p.m.,1:48 p.m.            Delayed,4:17 p.m.,4:17 p.m.
+1745,ua,4:25 p.m.,4:25 p.m.,Fri Dec 2 12:29 a.m.,Fri Dec 2 12:29 a.m.
+1746,ua,8:29 a.m.,8:26 a.m.,9:24 a.m.,9:13 a.m.
+1747,ua,7:35 a.m.,7:27 a.m.,9:43 a.m.,8:45 a.m.
+1748,ua,11:08 p.m.,11:08 p.m.            On Time,Fri Dec 2 5:11 a.m.,Fri Dec 2 5:11 a.m.
+1749,ua,1:45 p.m.,1:32 p.m.,8:27 a.m.,8:02 a.m.
+1750,ua,11:15 a.m.,11:15 a.m.,1:40 p.m.,2:00 p.m.
+1751,ua,2:55 p.m.,2:55 p.m.,4:53 p.m.,4:44 p.m.
+1752,ua,2:30 p.m.,2:48 p.m.,7:03 p.m.,7:10 p.m.
+1753,ua,8:55 a.m.,9:16 a.m.            Delayed,11:45 a.m.,11:56 a.m.
+1754,ua,2:55 p.m.,2:55 p.m.,5:00 p.m.,4:47 p.m.
+1755,ua,9:05 a.m.,8:52 a.m.,11:53 a.m.,12:09 p.m.
+1756,ua,11:55 a.m.,11:55 a.m.,6:17 p.m.,5:38 p.m.
+1757,ua,6:00 a.m.,5:56 a.m.,7:23 a.m.,7:17 a.m.
+1758,ua,2:30 p.m.,2:26 p.m.,6:15 p.m.,5:42 p.m.
+1759,flylouisville,7:10 a.m.,7:16 a.m.,9:40 a.m.,9:32 a.m.
+1760,flylouisville,,7:14 p.m.,,10:29 p.m.
+1761,flylouisville,6:40 a.m.,6:54 a.m.,9:25 a.m.,9:28 a.m.
+1762,flylouisville,8:00 a.m.,8:29 a.m.,11:55 a.m.,11:58 a.m.
+1763,flylouisville,,8:42 a.m.,,9:43 a.m.
+1764,flylouisville,7:45 p.m.,,10:30 p.m.,
+1765,flylouisville,12:00 p.m.,12:11 p.m.,3:15 p.m.,3:16 p.m.
+1766,flylouisville,3:27 p.m.,3:28 p.m.,5:05 p.m.,5:17 p.m.
+1767,flylouisville,,11:32 a.m.,,3:31 p.m.
+1768,flylouisville,,10:33 a.m.,,11:21 a.m.
+1769,flylouisville,11:25 p.m.,,6:55 a.m.  Fri 02-Dec-2011,
+1770,flylouisville,,5:56 a.m.,,7:17 a.m.
+1771,flylouisville,,12:41 a.m.,,5:26 a.m.
+1772,flylouisville,4:00 p.m.,3:58 p.m.,6:46 p.m.,6:28 p.m.
+1773,flylouisville,,7:29 a.m.,,9:14 a.m.
+1774,flylouisville,,10:19 a.m.,,1:19 p.m.
+1775,flylouisville,9:05 a.m.,10:10 a.m.,12:35 p.m.,1:27 p.m.
+1776,flylouisville,,8:12 a.m.,,9:56 a.m.
+1777,flylouisville,7:00 a.m.,7:25 a.m.,9:55 a.m.,9:45 a.m.
+1778,flylouisville,4:15 p.m.,4:29 p.m.,7:55 p.m.,7:39 p.m.
+1779,flylouisville,,10:55 a.m.,,1:40 p.m.
+1780,flylouisville,,2:48 p.m.,,7:10 p.m.
+1781,flylouisville,,8:00 a.m.,,11:32 a.m.
+1782,flylouisville,,2:46 p.m.,,4:47 p.m.
+1783,flylouisville,11:50 a.m.,12:12 p.m.,3:50 p.m.,4:09 p.m.
+1784,flylouisville,,11:56 a.m.,,1:14 p.m.
+1785,flylouisville,6:00 a.m.,6:08 a.m.,9:20 a.m.,9:05 a.m.
+1786,flylouisville,11:05 a.m.,11:30 a.m.,4:57 p.m.,5:05 p.m.
+1787,flylouisville,,6:02 a.m.,,10:27 a.m.
+1788,flylouisville,,8:40 a.m.,,10:56 a.m.
+1789,flylouisville,10:15 a.m.,10:18 a.m.,12:10 p.m.,11:56 a.m.
+1790,flylouisville,1:00 p.m.,2:04 p.m.,2:35 p.m.,3:20 p.m. (Runway)
+1791,flylouisville,,7:49 a.m.,,1:30 p.m.
+1792,flylouisville,,12:35 p.m.,,3:21 p.m.
+1793,flylouisville,,12:13 p.m.,,2:10 p.m.
+1794,flylouisville,2:30 p.m.,2:26 p.m.,6:15 p.m.,5:42 p.m.
+1795,flylouisville,12:00 p.m.,11:51 a.m.,1:45 p.m.,1:15 p.m.
+1796,flylouisville,,5:22 p.m.,,8:03 p.m.
+1797,flylouisville,,8:25 p.m.,,8:56 p.m.
+1798,flylouisville,10:40 a.m.,11:05 a.m.,2:45 p.m.,2:46 p.m.
+1799,flylouisville,,1:32 p.m.,,5:34 p.m.
+1800,flylouisville,,3:36 p.m.,,3:33 p.m.
+1801,flylouisville,7:15 a.m.,7:21 a.m.,10:35 a.m.,10:36 a.m.
+1802,flylouisville,6:30 p.m.,,7:25 p.m.,
+1803,flylouisville,6:45 p.m.,6:55 p.m.,9:10 p.m.,8:53 p.m.
+1804,flylouisville,7:15 p.m.,,12:21 a.m.  Fri 02-Dec-2011,
+1805,flylouisville,,2:10 p.m.,,7:58 p.m.
+1806,flylouisville,9:15 a.m.,9:14 a.m.,12:18 p.m.,12:09 p.m.
+1807,flylouisville,6:00 a.m.,6:56 a.m.,7:30 a.m.,7:51 a.m.
+1808,flylouisville,7:10 a.m.,7:30 a.m.,9:35 a.m.,9:31 a.m.
+1809,flylouisville,,5:08 p.m.,,7:55 p.m.
+1810,flylouisville,3:50 p.m.,4:28 p.m.,6:23 p.m.,6:38 p.m.
+1811,flylouisville,,4:15 p.m.,,7:36 p.m.
+1812,flylouisville,8:00 p.m.,8:23 p.m.,9:45 p.m.,9:53 p.m.
+1813,flylouisville,,10:20 a.m.,,6:34 p.m.
+1814,flylouisville,,7:07 a.m.,,10:47 a.m.
+1815,flylouisville,,11:01 a.m.,,3:04 p.m.
+1816,flylouisville,1:33 p.m.,1:31 p.m.,4:31 p.m.,4:23 p.m.
+1817,flylouisville,12:15 p.m.,12:41 p.m.,2:45 p.m.,2:50 p.m.
+1818,flylouisville,,1:48 p.m.,,4:17 p.m.
+1819,flylouisville,11:55 p.m.,,5:50 a.m.  Fri 02-Dec-2011,
+1820,flylouisville,4:25 p.m.,,12:29 a.m.  Fri 02-Dec-2011,
+1821,flylouisville,9:00 p.m.,,12:15 a.m.  Fri 02-Dec-2011,
+1822,flylouisville,8:25 p.m.,,11:50 p.m.,
+1823,flylouisville,6:59 a.m.,7:22 a.m.,10:34 a.m.,10:04 a.m.
+1824,flylouisville,8:35 a.m.,8:51 a.m.,11:50 a.m.,11:44 a.m.
+1825,flylouisville,,8:26 a.m.,,9:13 a.m.
+1826,flylouisville,1:30 p.m.,,3:50 p.m.,
+1827,flylouisville,,3:01 p.m.,,4:59 p.m.
+1828,flylouisville,,7:27 a.m.,,8:45 a.m.
+1829,flylouisville,11:08 p.m.,,5:11 a.m.,
+1830,flylouisville,5:30 p.m.,,6:40 p.m.,
+1831,flylouisville,,1:32 p.m.,,8:02 a.m.
+1832,flylouisville,,11:15 a.m.,,2:00 p.m.
+1833,flylouisville,,8:39 p.m.,,9:20 p.m.
+1834,flylouisville,,2:52 p.m.,,4:44 p.m.
+1835,flylouisville,,2:48 p.m.,,7:10 p.m.
+1836,flylouisville,,9:16 a.m.,,11:45 a.m.
+1837,flylouisville,2:35 p.m.,2:44 p.m.,4:05 p.m.,3:43 p.m.
+1838,flylouisville,2:55 p.m.,3:27 p.m.,5:55 p.m.,5:43 p.m.
+1839,flylouisville,7:15 a.m.,7:22 a.m.,11:35 a.m.,11:06 a.m.
+1840,flylouisville,12:10 p.m.,12:10 p.m.,2:15 p.m.,1:43 p.m.
+1841,flylouisville,7:55 a.m.,8:04 a.m.,11:05 a.m.,11:01 a.m.
+1842,flylouisville,,8:52 a.m.,,12:09 p.m.
+1843,flylouisville,1:05 p.m.,1:19 p.m.,2:35 p.m.,3:13 p.m.
+1844,flylouisville,,8:56 a.m.,,10:16 a.m.
+1845,flylouisville,3:05 p.m.,3:36 p.m.,6:30 p.m.,6:43 p.m.
+1846,flylouisville,7:30 a.m.,8:04 a.m.,8:00 a.m.,8:06 a.m.
+1847,flylouisville,,11:40 a.m.,,4:56 p.m.
+1848,flylouisville,4:00 p.m.,4:12 p.m.,6:40 p.m.,6:15 p.m.
+1849,flylouisville,11:35 a.m.,11:52 a.m.,2:25 p.m.,2:27 p.m.
+1850,flylouisville,7:25 a.m.,7:39 a.m.,11:10 a.m.,11:06 a.m.
+1851,flylouisville,,3:31 p.m.,,5:26 p.m.
+1852,flylouisville,11:55 a.m.,11:43 a.m.,6:17 p.m.,5:38 p.m.
+1853,flylouisville,10:40 a.m.,10:54 a.m.,12:55 p.m.,12:50 p.m.
+1854,flylouisville,6:45 a.m.,6:57 a.m.,7:45 a.m.,7:40 a.m.
+1855,flylouisville,4:00 p.m.,3:58 p.m.,7:05 p.m.,6:36 p.m.
+1856,flylouisville,6:00 a.m.,6:10 a.m.,6:40 a.m.,6:19 a.m.
+1857,flylouisville,7:10 a.m.,7:39 a.m.,10:45 a.m.,11:12 a.m.
+1858,flylouisville,7:10 a.m.,7:31 a.m.,3:30 p.m.,3:14 p.m.
+1859,quicktrip,7:10 a.m.,7:16 a.m.,9:40 a.m.,9:32 a.m.
+1860,quicktrip,7:00 p.m.,7:14 p.m.,10:15 p.m.,10:29 p.m.
+1861,quicktrip,6:40 a.m.,6:54 a.m.,9:25 a.m.,9:28 a.m.
+1862,quicktrip,8:00 a.m.,8:29 a.m.,11:55 a.m.,11:58 a.m.
+1863,quicktrip,8:41 a.m.,8:42 a.m.,9:54 a.m.,9:43 a.m.
+1864,quicktrip,7:45 p.m.,7:58 p.m.,10:30 p.m.,10:30 p.m. (Estimated)
+1865,quicktrip,11:45 a.m.,12:13 p.m.,2:00 p.m.,2:10 p.m.
+1866,quicktrip,6:30 p.m.,6:47 p.m. (Estimated runway),7:25 p.m.,7:25 p.m. (Estimated runway)
+1867,quicktrip,3:27 p.m.,3:28 p.m.,5:05 p.m.,5:17 p.m.
+1868,quicktrip,11:25 a.m.,11:32 a.m.,2:50 p.m.,3:31 p.m.
+1869,quicktrip,11:25 p.m.,11:29 p.m. (Estimated runway),6:55 a.m.,6:35 a.m. (Estimated runway)
+1870,quicktrip,6:00 a.m.,5:56 a.m.,7:23 a.m.,7:17 a.m.
+1871,quicktrip,12:30 a.m.,12:41 a.m.,5:35 a.m.,5:26 a.m.
+1872,quicktrip,4:00 p.m.,3:58 p.m.,6:46 p.m.,6:28 p.m.
+1873,quicktrip,7:35 a.m.,7:29 a.m.,9:21 a.m.,9:14 a.m.
+1874,quicktrip,9:45 a.m.,10:19 a.m.,1:16 p.m.,1:19 p.m.
+1875,quicktrip,7:00 a.m.,7:25 a.m.,9:55 a.m.,9:45 a.m.
+1876,quicktrip,8:15 a.m.,8:12 a.m.,10:06 a.m.,9:56 a.m.
+1877,quicktrip,4:15 p.m.,4:29 p.m.,7:55 p.m.,7:39 p.m.
+1878,quicktrip,9:05 a.m.,10:10 a.m.,12:35 p.m.,1:27 p.m.
+1879,quicktrip,2:30 p.m.,2:48 p.m.,7:03 p.m.,7:10 p.m.
+1880,quicktrip,5:25 p.m.,5:22 p.m.,8:22 p.m.,8:03 p.m.
+1881,quicktrip,11:50 a.m.,12:12 p.m.,3:50 p.m.,4:09 p.m.
+1882,quicktrip,11:40 a.m.,11:56 a.m.,1:17 p.m.,1:14 p.m.
+1883,quicktrip,6:00 a.m.,6:08 a.m.,9:20 a.m.,9:05 a.m.
+1884,quicktrip,11:05 a.m.,11:30 a.m.,4:57 p.m.,5:05 p.m.
+1885,quicktrip,6:00 a.m.,6:02 a.m.,10:20 a.m.,10:27 a.m.
+1886,quicktrip,8:40 a.m.,8:40 a.m.,10:54 a.m.,10:56 a.m.
+1887,quicktrip,7:55 a.m.,8:04 a.m.,11:05 a.m.,11:01 a.m.
+1888,quicktrip,10:15 a.m.,10:18 a.m.,12:10 p.m.,11:56 a.m.
+1889,quicktrip,7:30 a.m.,8:04 a.m.,8:00 a.m.,8:06 a.m.
+1890,quicktrip,1:00 p.m.,2:04 p.m.,2:35 p.m.,3:20 p.m. (runway)
+1891,quicktrip,6:45 a.m.,6:57 a.m.,7:45 a.m.,7:40 a.m.
+1892,quicktrip,12:15 p.m.,12:41 p.m.,2:45 p.m.,2:50 p.m.
+1893,quicktrip,12:30 p.m.,12:35 p.m.,3:19 p.m.,3:21 p.m.
+1894,quicktrip,12:00 p.m.,11:51 a.m.,1:45 p.m.,1:15 p.m.
+1895,quicktrip,7:10 p.m.,8:25 p.m.,8:56 p.m.,9:52 p.m. (Estimated)
+1896,quicktrip,11:35 a.m.,11:52 a.m.,2:25 p.m.,2:27 p.m.
+1897,quicktrip,10:40 a.m.,11:05 a.m.,2:45 p.m.,2:46 p.m.
+1898,quicktrip,12:57 p.m.,1:32 p.m.,5:15 p.m.,5:34 p.m.
+1899,quicktrip,3:35 p.m.,3:36 p.m.,4:00 p.m.,3:33 p.m.
+1900,quicktrip,7:15 a.m.,7:21 a.m.,10:35 a.m.,10:36 a.m.
+1901,quicktrip,8:05 a.m.,8:00 a.m.,11:35 a.m.,11:32 a.m.
+1902,quicktrip,6:45 p.m.,6:55 p.m.,9:10 p.m.,8:53 p.m.
+1903,quicktrip,12:00 p.m.,12:11 p.m.,3:15 p.m.,3:16 p.m.
+1904,quicktrip,7:15 p.m.,7:15 p.m. (Estimated),12:21 a.m.,12:21 a.m. (Estimated)
+1905,quicktrip,1:55 p.m.,2:10 p.m.,7:53 p.m.,7:58 p.m.
+1906,quicktrip,9:15 a.m.,9:14 a.m.,12:18 p.m.,12:09 p.m.
+1907,quicktrip,6:00 a.m.,6:56 a.m.,7:30 a.m.,7:51 a.m.
+1908,quicktrip,7:10 a.m.,7:30 a.m.,9:35 a.m.,9:31 a.m.
+1909,quicktrip,4:55 p.m.,5:08 p.m.,8:05 p.m.,7:55 p.m.
+1910,quicktrip,7:25 a.m.,7:39 a.m.,11:10 a.m.,11:06 a.m.
+1911,quicktrip,3:50 p.m.,4:28 p.m.,6:23 p.m.,6:38 p.m.
+1912,quicktrip,4:16 p.m.,4:15 p.m.,7:35 p.m.,7:36 p.m.
+1913,quicktrip,8:00 p.m.,8:23 p.m.,9:45 p.m.,9:53 p.m.
+1914,quicktrip,10:25 a.m.,10:20 a.m.,6:44 p.m.,6:34 p.m.
+1915,quicktrip,7:05 a.m.,7:07 a.m.,10:31 a.m.,10:47 a.m.
+1916,quicktrip,10:40 a.m.,11:01 a.m.,2:59 p.m.,3:04 p.m.
+1917,quicktrip,1:33 p.m.,1:31 p.m.,4:31 p.m.,4:23 p.m.
+1918,quicktrip,1:29 p.m.,1:48 p.m.,4:17 p.m.,4:17 p.m.
+1919,quicktrip,11:55 p.m.,12:10 a.m. (Estimated runway),5:50 a.m.,5:42 a.m. (Estimated runway)
+1920,quicktrip,4:25 p.m.,4:28 p.m. (Estimated runway),12:29 a.m.,12:01 a.m. (Estimated runway)
+1921,quicktrip,9:00 p.m.,9:06 p.m. (Estimated runway),12:15 a.m.,11:49 p.m. (Estimated runway)
+1922,quicktrip,8:25 p.m.,8:29 p.m. (Estimated runway),11:50 p.m.,11:35 p.m. (Estimated runway)
+1923,quicktrip,2:55 p.m.,2:46 p.m.,5:00 p.m.,4:47 p.m.
+1924,quicktrip,6:59 a.m.,7:22 a.m.,10:34 a.m.,10:04 a.m.
+1925,quicktrip,8:35 a.m.,8:51 a.m.,11:50 a.m.,11:44 a.m.
+1926,quicktrip,2:30 p.m.,2:26 p.m.,6:15 p.m.,5:42 p.m.
+1927,quicktrip,8:29 a.m.,8:26 a.m.,9:24 a.m.,9:13 a.m.
+1928,quicktrip,2:53 p.m.,3:01 p.m.,4:48 p.m.,4:59 p.m.
+1929,quicktrip,11:08 p.m.,,5:11 a.m.,
+1930,quicktrip,5:30 p.m.,5:30 p.m. (Estimated),6:40 p.m.,6:40 p.m. (Estimated)
+1931,quicktrip,11:15 a.m.,11:15 a.m.,1:40 p.m.,2:00 p.m.
+1932,quicktrip,8:20 p.m.,8:39 p.m.,9:20 p.m.,9:19 p.m. (Estimated)
+1933,quicktrip,2:55 p.m.,2:52 p.m.,4:53 p.m.,4:44 p.m.
+1934,quicktrip,2:30 p.m.,2:48 p.m.,7:03 p.m.,7:10 p.m.
+1935,quicktrip,2:35 p.m.,2:44 p.m.,4:05 p.m.,3:43 p.m.
+1936,quicktrip,2:55 p.m.,3:27 p.m.,5:55 p.m.,5:43 p.m.
+1937,quicktrip,7:15 a.m.,7:22 a.m.,11:35 a.m.,11:06 a.m.
+1938,quicktrip,12:10 p.m.,12:10 p.m.,2:15 p.m.,1:43 p.m.
+1939,quicktrip,1:05 p.m.,1:19 p.m.,2:35 p.m.,3:13 p.m.
+1940,quicktrip,7:53 a.m.,7:49 a.m.,1:39 p.m.,1:30 p.m.
+1941,quicktrip,8:35 a.m.,8:56 a.m.,10:40 a.m.,10:16 a.m.
+1942,quicktrip,3:05 p.m.,3:36 p.m.,6:30 p.m.,6:43 p.m.
+1943,quicktrip,4:00 p.m.,4:12 p.m.,6:40 p.m.,6:15 p.m.
+1944,quicktrip,7:10 a.m.,7:31 a.m.,3:30 p.m.,3:14 p.m.
+1945,quicktrip,2:55 p.m.,3:31 p.m.,4:49 p.m.,5:26 p.m.
+1946,quicktrip,11:55 a.m.,11:43 a.m.,6:17 p.m.,5:38 p.m.
+1947,quicktrip,10:40 a.m.,10:54 a.m.,12:55 p.m.,12:50 p.m.
+1948,quicktrip,4:00 p.m.,3:58 p.m.,7:05 p.m.,6:36 p.m.
+1949,quicktrip,6:00 a.m.,6:10 a.m.,6:40 a.m.,6:19 a.m.
+1950,quicktrip,7:10 a.m.,7:39 a.m.,10:45 a.m.,11:12 a.m.
+1951,allegiantair,7:10 a.m.,7:16 a.m.,9:40 a.m.,9:22 a.m.
+1952,allegiantair,,7:42 p.m.,,10:29 p.m.
+1953,allegiantair,6:40 a.m.,6:54 a.m.,9:25 a.m.,9:28 a.m.
+1954,allegiantair,8:00 a.m.,8:49 a.m.,11:55 a.m.,11:58 a.m.
+1955,allegiantair,,9:01 a.m.,,9:43 a.m.
+1956,allegiantair,7:45 p.m.,7:59 p.m.,10:30 p.m.,
+1957,allegiantair,12:00 p.m.,12:12 p.m.,3:15 p.m.,3:16 p.m.
+1958,allegiantair,3:27 p.m.,3:50 p.m.,5:05 p.m.,5:17 p.m.
+1959,allegiantair,,12:37 p.m.,,3:31 p.m.
+1960,allegiantair,,10:53 a.m.,,11:21 a.m.
+1961,allegiantair,11:25 p.m.,,6:55 a.m. Dec 02,
+1962,allegiantair,,6:10 a.m.,,7:17 a.m.
+1963,allegiantair,,12:58 a.m.,,5:26 a.m.
+1964,allegiantair,4:00 p.m.,4:10 p.m.,6:46 p.m.,6:25 p.m.
+1965,allegiantair,,7:56 a.m.,,9:09 a.m.
+1966,allegiantair,,10:35 a.m.,,1:19 p.m.
+1967,allegiantair,9:05 a.m.,10:11 a.m.,12:35 p.m.,1:18 p.m.
+1968,allegiantair,,8:26 a.m.,,9:56 a.m.
+1969,allegiantair,7:00 a.m.,7:25 a.m.,9:55 a.m.,9:45 a.m.
+1970,allegiantair,4:15 p.m.,4:30 p.m.,7:55 p.m.,7:39 p.m.
+1971,allegiantair,,10:55 a.m.,,1:40 p.m.
+1972,allegiantair,,2:59 p.m.,,7:10 p.m.
+1973,allegiantair,,8:18 a.m.,,11:32 a.m.
+1974,allegiantair,,3:04 p.m.,,5:00 p.m.
+1975,allegiantair,11:50 a.m.,12:13 p.m.,3:50 p.m.,4:09 p.m.
+1976,allegiantair,,12:06 p.m.,,1:14 p.m.
+1977,allegiantair,6:00 a.m.,6:09 a.m.,9:20 a.m.,9:05 a.m.
+1978,allegiantair,11:05 a.m.,11:45 a.m.,4:57 p.m.,5:03 p.m.
+1979,allegiantair,,6:17 a.m.,,10:27 a.m.
+1980,allegiantair,,9:01 a.m.,,10:56 a.m.
+1981,allegiantair,10:15 a.m.,10:19 a.m.,12:10 p.m.,11:50 a.m.
+1982,allegiantair,1:00 p.m.,2:04 p.m.,2:35 p.m.,3:19 p.m.
+1983,allegiantair,,8:07 a.m.,,1:30 p.m.
+1984,allegiantair,,12:56 p.m.,,3:21 p.m.
+1985,allegiantair,,12:14 p.m.,,2:01 p.m.
+1986,allegiantair,2:30 p.m.,2:43 p.m.,6:15 p.m.,5:42 p.m.
+1987,allegiantair,12:00 p.m.,12:08 p.m.,1:45 p.m.,1:14 p.m.
+1988,allegiantair,,5:38 p.m.,,8:03 p.m.
+1989,allegiantair,,8:36 p.m.,,9:38 p.m.
+1990,allegiantair,10:40 a.m.,11:06 a.m.,2:45 p.m.,2:46 p.m.
+1991,allegiantair,,1:43 p.m.,,5:34 p.m.
+1992,allegiantair,,3:36 p.m.,,3:25 p.m.
+1993,allegiantair,7:15 a.m.,7:22 a.m.,10:35 a.m.,10:29 a.m.
+1994,allegiantair,6:30 p.m.,,7:25 p.m.,
+1995,allegiantair,6:45 p.m.,6:56 p.m.,9:10 p.m.,8:43 p.m.
+1996,allegiantair,7:15 p.m.,,12:21 a.m. Dec 02,
+1997,allegiantair,,2:38 p.m.,,7:58 p.m.
+1998,allegiantair,9:15 a.m.,9:58 a.m.,12:18 p.m.,12:09 p.m.
+1999,allegiantair,6:00 a.m.,6:57 a.m.,7:30 a.m.,7:51 a.m.
+2000,allegiantair,7:10 a.m.,7:31 a.m.,9:35 a.m.,9:29 a.m.
+2001,allegiantair,,5:09 p.m.,,7:53 p.m.
+2002,allegiantair,3:50 p.m.,4:46 p.m.,6:23 p.m.,6:35 p.m.
+2003,allegiantair,,4:37 p.m.,,7:36 p.m.
+2004,allegiantair,8:00 p.m.,8:23 p.m.,9:45 p.m.,9:49 p.m.
+2005,allegiantair,,10:37 a.m.,,6:34 p.m.
+2006,allegiantair,,7:31 a.m.,,10:45 a.m.
+2007,allegiantair,10:40 a.m.,11:02 a.m.,2:59 p.m.,3:04 p.m.
+2008,allegiantair,1:33 p.m.,1:48 p.m.,4:31 p.m.,4:23 p.m.
+2009,allegiantair,12:15 p.m.,12:42 p.m.,2:45 p.m.,2:52 p.m.
+2010,allegiantair,,2:01 p.m.,,4:17 p.m.
+2011,allegiantair,11:55 p.m.,,5:50 a.m. Dec 02,
+2012,allegiantair,4:25 p.m.,,12:29 a.m. Dec 02,
+2013,allegiantair,9:00 p.m.,,12:15 a.m. Dec 02,
+2014,allegiantair,8:25 p.m.,,11:50 p.m.,
+2015,allegiantair,6:59 a.m.,7:23 a.m.,10:34 a.m.,10:04 a.m.
+2016,allegiantair,8:35 a.m.,8:52 a.m.,11:50 a.m.,11:44 a.m.
+2017,allegiantair,,8:37 a.m.,,9:13 a.m.
+2018,allegiantair,1:30 p.m.,,3:50 p.m.,
+2019,allegiantair,,3:17 p.m.,,4:59 p.m.
+2020,allegiantair,,7:41 a.m.,,8:45 a.m.
+2021,allegiantair,11:08 p.m.,,5:11 a.m.Dec 02,
+2022,allegiantair,5:30 p.m.,,6:40 p.m.,
+2023,allegiantair,,1:45 p.m.,,8:02 a.m.
+2024,allegiantair,,11:47 a.m.,,2:02 p.m.
+2025,allegiantair,,8:40 p.m.,,9:11 p.m.
+2026,allegiantair,,3:04 p.m.,,4:24 p.m.
+2027,allegiantair,,2:59 p.m.,,7:10 p.m.
+2028,allegiantair,,9:43 a.m.,,12:12 p.m.
+2029,allegiantair,2:35 p.m.,2:44 p.m.,4:05 p.m.,3:36 p.m.
+2030,allegiantair,2:55 p.m.,3:28 p.m.,5:55 p.m.,5:34 p.m.
+2031,allegiantair,7:15 a.m.,7:23 a.m.,11:35 a.m.,11:07 a.m.
+2032,allegiantair,12:10 p.m.,12:11 p.m.,2:15 p.m.,1:43 p.m.
+2033,allegiantair,7:55 a.m.,8:05 a.m.,11:05 a.m.,11:00 a.m.
+2034,allegiantair,,9:05 a.m.,,12:09 p.m.
+2035,allegiantair,1:05 p.m.,1:20 p.m.,2:35 p.m.,3:01 p.m.
+2036,allegiantair,,8:56 a.m.,,10:10 a.m.
+2037,allegiantair,3:05 p.m.,3:38 p.m.,6:30 p.m.,6:43 p.m.
+2038,allegiantair,7:30 a.m.,8:04 a.m.,8:00 a.m.,7:57 a.m.
+2039,allegiantair,,11:41 a.m.,,4:56 p.m.
+2040,allegiantair,4:00 p.m.,4:12 p.m.,6:40 p.m.,6:09 p.m.
+2041,allegiantair,11:35 a.m.,11:52 a.m.,2:25 p.m.,2:27 p.m.
+2042,allegiantair,7:25 a.m.,7:40 a.m.,11:10 a.m.,11:06 a.m.
+2043,allegiantair,,4:02 p.m.,,5:26 p.m.
+2044,allegiantair,11:55 a.m.,11:55 a.m.,6:17 p.m.,6:17 p.m.
+2045,allegiantair,10:40 a.m.,10:55 a.m.,12:55 p.m.,12:48 p.m.
+2046,allegiantair,6:45 a.m.,6:58 a.m.,7:45 a.m.,7:32 a.m.
+2047,allegiantair,4:00 p.m.,4:15 p.m.,7:05 p.m.,6:36 p.m.
+2048,allegiantair,6:00 a.m.,6:11 a.m.,6:40 a.m.,6:19 a.m.
+2049,allegiantair,7:10 a.m.,7:40 a.m.,10:45 a.m.,11:12 a.m.
+2050,allegiantair,7:10 a.m.,7:32 a.m.,3:30 p.m.,3:14 p.m.
+2051,businesstravellogue,7:10 a.m.,7:16 a.m.,9:40 a.m.,9:32 a.m.
+2052,businesstravellogue,,7:14 p.m.,,10:29 p.m.
+2053,businesstravellogue,6:40 a.m.,6:54 a.m.,9:25 a.m.,9:28 a.m.
+2054,businesstravellogue,8:00 a.m.,8:29 a.m.,11:55 a.m.,11:58 a.m.
+2055,businesstravellogue,,8:42 a.m.,,9:43 a.m.
+2056,businesstravellogue,7:45 p.m.,,10:30 p.m.,
+2057,businesstravellogue,12:00 p.m.,12:11 p.m.,3:15 p.m.,3:16 p.m.
+2058,businesstravellogue,3:27 p.m.,3:28 p.m.,5:05 p.m.,5:17 p.m.
+2059,businesstravellogue,,11:32 a.m.,,3:31 p.m.
+2060,businesstravellogue,,10:33 a.m.,,11:21 a.m.
+2061,businesstravellogue,11:25 p.m.,,6:55 a.m.  Fri 02-Dec-2011,
+2062,businesstravellogue,,5:56 a.m.,,7:17 a.m.
+2063,businesstravellogue,,12:41 a.m.,,5:26 a.m.
+2064,businesstravellogue,4:00 p.m.,3:58 p.m.,6:46 p.m.,6:28 p.m.
+2065,businesstravellogue,,7:29 a.m.,,9:14 a.m.
+2066,businesstravellogue,,10:19 a.m.,,1:19 p.m.
+2067,businesstravellogue,9:05 a.m.,10:10 a.m.,12:35 p.m.,1:27 p.m.
+2068,businesstravellogue,,8:12 a.m.,,9:56 a.m.
+2069,businesstravellogue,7:00 a.m.,7:25 a.m.,9:55 a.m.,9:45 a.m.
+2070,businesstravellogue,4:15 p.m.,4:29 p.m.,7:55 p.m.,7:39 p.m.
+2071,businesstravellogue,,10:55 a.m.,,1:40 p.m.
+2072,businesstravellogue,,2:48 p.m.,,7:10 p.m.
+2073,businesstravellogue,,8:00 a.m.,,11:32 a.m.
+2074,businesstravellogue,,2:46 p.m.,,4:47 p.m.
+2075,businesstravellogue,11:50 a.m.,12:12 p.m.,3:50 p.m.,4:09 p.m.
+2076,businesstravellogue,,11:56 a.m.,,1:14 p.m.
+2077,businesstravellogue,6:00 a.m.,6:08 a.m.,9:20 a.m.,9:05 a.m.
+2078,businesstravellogue,11:05 a.m.,11:30 a.m.,4:57 p.m.,5:05 p.m.
+2079,businesstravellogue,,6:02 a.m.,,10:27 a.m.
+2080,businesstravellogue,,8:40 a.m.,,10:56 a.m.
+2081,businesstravellogue,10:15 a.m.,10:18 a.m.,12:10 p.m.,11:56 a.m.
+2082,businesstravellogue,1:00 p.m.,2:04 p.m.,2:35 p.m.,3:20 p.m. (Runway)
+2083,businesstravellogue,,7:49 a.m.,,1:30 p.m.
+2084,businesstravellogue,,12:35 p.m.,,3:21 p.m.
+2085,businesstravellogue,,12:13 p.m.,,2:10 p.m.
+2086,businesstravellogue,2:30 p.m.,2:26 p.m.,6:15 p.m.,5:42 p.m.
+2087,businesstravellogue,12:00 p.m.,11:51 a.m.,1:45 p.m.,1:15 p.m.
+2088,businesstravellogue,,5:22 p.m.,,8:03 p.m.
+2089,businesstravellogue,,8:25 p.m.,,8:56 p.m.
+2090,businesstravellogue,10:40 a.m.,11:05 a.m.,2:45 p.m.,2:46 p.m.
+2091,businesstravellogue,,1:32 p.m.,,5:34 p.m.
+2092,businesstravellogue,,3:36 p.m.,,3:33 p.m.
+2093,businesstravellogue,7:15 a.m.,7:21 a.m.,10:35 a.m.,10:36 a.m.
+2094,businesstravellogue,6:30 p.m.,,7:25 p.m.,
+2095,businesstravellogue,6:45 p.m.,6:55 p.m.,9:10 p.m.,8:53 p.m.
+2096,businesstravellogue,7:15 p.m.,,12:21 a.m.  Fri 02-Dec-2011,
+2097,businesstravellogue,,2:10 p.m.,,7:58 p.m.
+2098,businesstravellogue,9:15 a.m.,9:14 a.m.,12:18 p.m.,12:09 p.m.
+2099,businesstravellogue,6:00 a.m.,6:56 a.m.,7:30 a.m.,7:51 a.m.
+2100,businesstravellogue,7:10 a.m.,7:30 a.m.,9:35 a.m.,9:31 a.m.
+2101,businesstravellogue,,5:08 p.m.,,7:55 p.m.
+2102,businesstravellogue,3:50 p.m.,4:28 p.m.,6:23 p.m.,6:38 p.m.
+2103,businesstravellogue,,4:15 p.m.,,7:36 p.m.
+2104,businesstravellogue,8:00 p.m.,8:23 p.m.,9:45 p.m.,9:53 p.m.
+2105,businesstravellogue,,10:20 a.m.,,6:34 p.m.
+2106,businesstravellogue,,7:07 a.m.,,10:47 a.m.
+2107,businesstravellogue,,11:01 a.m.,,3:04 p.m.
+2108,businesstravellogue,1:33 p.m.,1:31 p.m.,4:31 p.m.,4:23 p.m.
+2109,businesstravellogue,12:15 p.m.,12:41 p.m.,2:45 p.m.,2:50 p.m.
+2110,businesstravellogue,,1:48 p.m.,,4:17 p.m.
+2111,businesstravellogue,11:55 p.m.,,5:50 a.m.  Fri 02-Dec-2011,
+2112,businesstravellogue,4:25 p.m.,,12:29 a.m.  Fri 02-Dec-2011,
+2113,businesstravellogue,9:00 p.m.,,12:15 a.m.  Fri 02-Dec-2011,
+2114,businesstravellogue,8:25 p.m.,,11:50 p.m.,
+2115,businesstravellogue,6:59 a.m.,7:22 a.m.,10:34 a.m.,10:04 a.m.
+2116,businesstravellogue,8:35 a.m.,8:51 a.m.,11:50 a.m.,11:44 a.m.
+2117,businesstravellogue,,8:26 a.m.,,9:13 a.m.
+2118,businesstravellogue,1:30 p.m.,,3:50 p.m.,
+2119,businesstravellogue,,3:01 p.m.,,4:59 p.m.
+2120,businesstravellogue,,7:27 a.m.,,8:45 a.m.
+2121,businesstravellogue,11:08 p.m.,,5:11 a.m.,
+2122,businesstravellogue,5:30 p.m.,,6:40 p.m.,
+2123,businesstravellogue,,1:32 p.m.,,8:02 a.m.
+2124,businesstravellogue,,11:15 a.m.,,2:00 p.m.
+2125,businesstravellogue,,8:39 p.m.,,9:20 p.m.
+2126,businesstravellogue,,2:52 p.m.,,4:44 p.m.
+2127,businesstravellogue,,2:48 p.m.,,7:10 p.m.
+2128,businesstravellogue,,9:16 a.m.,,11:45 a.m.
+2129,businesstravellogue,2:35 p.m.,2:44 p.m.,4:05 p.m.,3:43 p.m.
+2130,businesstravellogue,2:55 p.m.,3:27 p.m.,5:55 p.m.,5:43 p.m.
+2131,businesstravellogue,7:15 a.m.,7:22 a.m.,11:35 a.m.,11:06 a.m.
+2132,businesstravellogue,12:10 p.m.,12:10 p.m.,2:15 p.m.,1:43 p.m.
+2133,businesstravellogue,7:55 a.m.,8:04 a.m.,11:05 a.m.,11:01 a.m.
+2134,businesstravellogue,,8:52 a.m.,,12:09 p.m.
+2135,businesstravellogue,1:05 p.m.,1:19 p.m.,2:35 p.m.,3:13 p.m.
+2136,businesstravellogue,,8:56 a.m.,,10:16 a.m.
+2137,businesstravellogue,3:05 p.m.,3:36 p.m.,6:30 p.m.,6:43 p.m.
+2138,businesstravellogue,7:30 a.m.,8:04 a.m.,8:00 a.m.,8:06 a.m.
+2139,businesstravellogue,,11:40 a.m.,,4:56 p.m.
+2140,businesstravellogue,4:00 p.m.,4:12 p.m.,6:40 p.m.,6:15 p.m.
+2141,businesstravellogue,11:35 a.m.,11:52 a.m.,2:25 p.m.,2:27 p.m.
+2142,businesstravellogue,7:25 a.m.,7:39 a.m.,11:10 a.m.,11:06 a.m.
+2143,businesstravellogue,,3:31 p.m.,,5:26 p.m.
+2144,businesstravellogue,11:55 a.m.,11:43 a.m.,6:17 p.m.,5:38 p.m.
+2145,businesstravellogue,10:40 a.m.,10:54 a.m.,12:55 p.m.,12:50 p.m.
+2146,businesstravellogue,6:45 a.m.,6:57 a.m.,7:45 a.m.,7:40 a.m.
+2147,businesstravellogue,4:00 p.m.,3:58 p.m.,7:05 p.m.,6:36 p.m.
+2148,businesstravellogue,6:00 a.m.,6:10 a.m.,6:40 a.m.,6:19 a.m.
+2149,businesstravellogue,7:10 a.m.,7:39 a.m.,10:45 a.m.,11:12 a.m.
+2150,businesstravellogue,7:10 a.m.,7:31 a.m.,3:30 p.m.,3:14 p.m.
+2151,den,11:25 a.m.,,,
+2152,den,,,1:17 p.m.,
+2153,den,,,12:15 a.m.,
+2154,den,4:16 p.m.,,,
+2155,den,,,2:35 p.m.,
+2156,gofox,7:10 a.m.,7:16 a.m.,9:40 a.m.,9:22 a.m.
+2157,gofox,,7:42 p.m.,,10:29 p.m.
+2158,gofox,6:40 a.m.,6:54 a.m.,9:25 a.m.,9:28 a.m.
+2159,gofox,8:00 a.m.,8:49 a.m.,11:55 a.m.,11:58 a.m.
+2160,gofox,,9:01 a.m.,,9:43 a.m.
+2161,gofox,7:45 p.m.,7:59 p.m.,10:30 p.m.,
+2162,gofox,12:00 p.m.,12:12 p.m.,3:15 p.m.,3:16 p.m.
+2163,gofox,3:27 p.m.,3:50 p.m.,5:05 p.m.,5:17 p.m.
+2164,gofox,,12:37 p.m.,,3:31 p.m.
+2165,gofox,,10:53 a.m.,,11:21 a.m.
+2166,gofox,11:25 p.m.,,6:55 a.m. Dec 02,
+2167,gofox,,6:10 a.m.,,7:17 a.m.
+2168,gofox,,12:58 a.m.,,5:26 a.m.
+2169,gofox,4:00 p.m.,4:10 p.m.,6:46 p.m.,6:25 p.m.
+2170,gofox,,7:56 a.m.,,9:09 a.m.
+2171,gofox,,10:35 a.m.,,1:19 p.m.
+2172,gofox,9:05 a.m.,10:11 a.m.,12:35 p.m.,1:18 p.m.
+2173,gofox,,8:26 a.m.,,9:56 a.m.
+2174,gofox,7:00 a.m.,7:25 a.m.,9:55 a.m.,9:45 a.m.
+2175,gofox,4:15 p.m.,4:30 p.m.,7:55 p.m.,7:39 p.m.
+2176,gofox,,10:55 a.m.,,1:40 p.m.
+2177,gofox,,2:59 p.m.,,7:10 p.m.
+2178,gofox,,8:18 a.m.,,11:32 a.m.
+2179,gofox,,3:04 p.m.,,5:00 p.m.
+2180,gofox,11:50 a.m.,12:13 p.m.,3:50 p.m.,4:09 p.m.
+2181,gofox,,12:06 p.m.,,1:14 p.m.
+2182,gofox,6:00 a.m.,6:09 a.m.,9:20 a.m.,9:05 a.m.
+2183,gofox,11:05 a.m.,11:45 a.m.,4:57 p.m.,5:03 p.m.
+2184,gofox,,6:17 a.m.,,10:27 a.m.
+2185,gofox,,9:01 a.m.,,10:56 a.m.
+2186,gofox,10:15 a.m.,10:19 a.m.,12:10 p.m.,11:50 a.m.
+2187,gofox,1:00 p.m.,2:04 p.m.,2:35 p.m.,3:19 p.m.
+2188,gofox,,8:07 a.m.,,1:30 p.m.
+2189,gofox,,12:56 p.m.,,3:21 p.m.
+2190,gofox,,12:14 p.m.,,2:01 p.m.
+2191,gofox,2:30 p.m.,2:43 p.m.,6:15 p.m.,5:42 p.m.
+2192,gofox,12:00 p.m.,12:08 p.m.,1:45 p.m.,1:14 p.m.
+2193,gofox,,5:38 p.m.,,8:03 p.m.
+2194,gofox,,8:36 p.m.,,9:38 p.m.
+2195,gofox,10:40 a.m.,11:06 a.m.,2:45 p.m.,2:46 p.m.
+2196,gofox,,1:43 p.m.,,5:34 p.m.
+2197,gofox,,3:36 p.m.,,3:25 p.m.
+2198,gofox,7:15 a.m.,7:22 a.m.,10:35 a.m.,10:29 a.m.
+2199,gofox,6:30 p.m.,,7:25 p.m.,
+2200,gofox,6:45 p.m.,6:56 p.m.,9:10 p.m.,8:43 p.m.
+2201,gofox,7:15 p.m.,,12:21 a.m. Dec 02,
+2202,gofox,,2:38 p.m.,,7:58 p.m.
+2203,gofox,9:15 a.m.,9:58 a.m.,12:18 p.m.,12:09 p.m.
+2204,gofox,6:00 a.m.,6:57 a.m.,7:30 a.m.,7:51 a.m.
+2205,gofox,7:10 a.m.,7:31 a.m.,9:35 a.m.,9:29 a.m.
+2206,gofox,,5:09 p.m.,,7:53 p.m.
+2207,gofox,3:50 p.m.,4:46 p.m.,6:23 p.m.,6:35 p.m.
+2208,gofox,,4:37 p.m.,,7:36 p.m.
+2209,gofox,8:00 p.m.,8:23 p.m.,9:45 p.m.,9:49 p.m.
+2210,gofox,,10:37 a.m.,,6:34 p.m.
+2211,gofox,,7:31 a.m.,,10:45 a.m.
+2212,gofox,10:40 a.m.,11:02 a.m.,2:59 p.m.,3:04 p.m.
+2213,gofox,1:33 p.m.,1:48 p.m.,4:31 p.m.,4:23 p.m.
+2214,gofox,12:15 p.m.,12:42 p.m.,2:45 p.m.,2:52 p.m.
+2215,gofox,,2:01 p.m.,,4:17 p.m.
+2216,gofox,11:55 p.m.,,5:50 a.m. Dec 02,
+2217,gofox,4:25 p.m.,,12:29 a.m. Dec 02,
+2218,gofox,9:00 p.m.,,12:15 a.m. Dec 02,
+2219,gofox,8:25 p.m.,,11:50 p.m.,
+2220,gofox,6:59 a.m.,7:23 a.m.,10:34 a.m.,10:04 a.m.
+2221,gofox,8:35 a.m.,8:52 a.m.,11:50 a.m.,11:44 a.m.
+2222,gofox,,8:37 a.m.,,9:13 a.m.
+2223,gofox,1:30 p.m.,,3:50 p.m.,
+2224,gofox,,3:17 p.m.,,4:59 p.m.
+2225,gofox,,7:41 a.m.,,8:45 a.m.
+2226,gofox,11:08 p.m.,,5:11 a.m.Dec 02,
+2227,gofox,5:30 p.m.,,6:40 p.m.,
+2228,gofox,,1:45 p.m.,,8:02 a.m.
+2229,gofox,,11:47 a.m.,,2:02 p.m.
+2230,gofox,,8:40 p.m.,,9:11 p.m.
+2231,gofox,,3:04 p.m.,,4:24 p.m.
+2232,gofox,,2:59 p.m.,,7:10 p.m.
+2233,gofox,,9:43 a.m.,,12:12 p.m.
+2234,gofox,2:35 p.m.,2:44 p.m.,4:05 p.m.,3:36 p.m.
+2235,gofox,2:55 p.m.,3:28 p.m.,5:55 p.m.,5:34 p.m.
+2236,gofox,7:15 a.m.,7:23 a.m.,11:35 a.m.,11:07 a.m.
+2237,gofox,12:10 p.m.,12:11 p.m.,2:15 p.m.,1:43 p.m.
+2238,gofox,7:55 a.m.,8:05 a.m.,11:05 a.m.,11:00 a.m.
+2239,gofox,,9:05 a.m.,,12:09 p.m.
+2240,gofox,1:05 p.m.,1:20 p.m.,2:35 p.m.,3:01 p.m.
+2241,gofox,,8:56 a.m.,,10:10 a.m.
+2242,gofox,3:05 p.m.,3:38 p.m.,6:30 p.m.,6:43 p.m.
+2243,gofox,7:30 a.m.,8:04 a.m.,8:00 a.m.,7:57 a.m.
+2244,gofox,,11:41 a.m.,,4:56 p.m.
+2245,gofox,4:00 p.m.,4:12 p.m.,6:40 p.m.,6:09 p.m.
+2246,gofox,11:35 a.m.,11:52 a.m.,2:25 p.m.,2:27 p.m.
+2247,gofox,7:25 a.m.,7:40 a.m.,11:10 a.m.,11:06 a.m.
+2248,gofox,,4:02 p.m.,,5:26 p.m.
+2249,gofox,11:55 a.m.,11:55 a.m.,6:17 p.m.,6:17 p.m.
+2250,gofox,10:40 a.m.,10:55 a.m.,12:55 p.m.,12:48 p.m.
+2251,gofox,6:45 a.m.,6:58 a.m.,7:45 a.m.,7:32 a.m.
+2252,gofox,4:00 p.m.,4:15 p.m.,7:05 p.m.,6:36 p.m.
+2253,gofox,6:00 a.m.,6:11 a.m.,6:40 a.m.,6:19 a.m.
+2254,gofox,7:10 a.m.,7:40 a.m.,10:45 a.m.,11:12 a.m.
+2255,gofox,7:10 a.m.,7:32 a.m.,3:30 p.m.,3:14 p.m.
+2256,flightaware,7:10 a.m.,7:16 a.m.,9:30 a.m.,9:22 a.m.
+2257,flightaware,6:40 a.m.,6:54 a.m.,8:54 a.m.,9:14 a.m.
+2258,flightaware,7:00 p.m.,7:42 p.m.,9:40 p.m.,10:24 p.m.
+2259,flightaware,8:41 a.m.,8:51 a.m.,9:34 a.m.,9:44 a.m.
+2260,flightaware,7:45 p.m.,7:59 p.m.,10:15 p.m.,10:28 p.m.
+2261,flightaware,11:25 p.m.,11:57 p.m.,6:30 a.m.,6:55 a.m.
+2262,flightaware,4:00 p.m.,4:10 p.m.,6:34 p.m.,6:23 p.m.
+2263,flightaware,7:35 a.m.,7:56 a.m.,9:11 a.m.,9:08 a.m.
+2264,flightaware,7:00 a.m.,7:25 a.m.,9:45 a.m.,9:29 a.m.
+2265,flightaware,4:15 p.m.,4:29 p.m.,7:26 p.m.,7:37 p.m.
+2266,flightaware,9:05 a.m.,10:10 a.m.,12:12 p.m.,1:11 p.m.
+2267,flightaware,11:50 a.m.,12:13 p.m.,3:33 p.m.,3:59 p.m.
+2268,flightaware,11:40 a.m.,12:06 p.m.,12:51 p.m.,1:07 p.m.
+2269,flightaware,6:00 a.m.,6:08 a.m.,8:51 a.m.,8:50 a.m.
+2270,flightaware,11:05 a.m.,11:45 a.m.,4:37 p.m.,4:57 p.m.
+2271,flightaware,7:55 a.m.,8:05 a.m.,10:55 a.m.,10:58 a.m.
+2272,flightaware,10:15 a.m.,10:19 a.m.,11:43 a.m.,11:50 a.m.
+2273,flightaware,7:30 a.m.,8:04 a.m.,7:50 a.m.,7:59 a.m.
+2274,flightaware,1:00 p.m.,2:04 p.m.,2:14 p.m.,3:13 p.m.
+2275,flightaware,6:45 a.m.,6:57 a.m.,7:25 a.m.,7:35 a.m.
+2276,flightaware,12:15 p.m.,12:42 p.m.,2:35 p.m.,2:40 p.m.
+2277,flightaware,12:30 p.m.,12:56 p.m.,2:48 p.m.,3:07 p.m.
+2278,flightaware,2:30 p.m.,2:42 p.m.,5:40 p.m.,5:27 p.m.
+2279,flightaware,12:00 p.m.,12:07 p.m.,1:35 p.m.,1:08 p.m.
+2280,flightaware,5:25 p.m.,5:38 p.m.,8:04 p.m.,7:43 p.m.
+2281,flightaware,7:25 a.m.,7:39 a.m.,10:43 a.m.,10:43 a.m.
+2282,flightaware,7:27 p.m.,7:27 p.m.,8:46 p.m.,8:46 p.m.
+2283,flightaware,11:35 a.m.,11:52 a.m.,1:57 p.m.,2:21 p.m.
+2284,flightaware,10:40 a.m.,11:05 a.m.,2:10 p.m.,2:39 p.m.
+2285,flightaware,3:35 p.m.,3:36 p.m.,3:50 p.m.,3:26 p.m.
+2286,flightaware,7:15 a.m.,7:21 a.m.,10:18 a.m.,10:29 a.m.
+2287,flightaware,6:30 p.m.,6:47 p.m.,7:08 p.m.,7:25 p.m.
+2288,flightaware,6:45 p.m.,6:56 p.m.,9:00 p.m.,8:38 p.m.
+2289,flightaware,12:00 p.m.,12:12 p.m.,2:47 p.m.,3:04 p.m.
+2290,flightaware,7:15 p.m.,7:25 p.m.,11:52 p.m.,12:02 a.m.
+2291,flightaware,9:15 a.m.,9:57 a.m.,12:08 p.m.,12:02 p.m.
+2292,flightaware,6:00 a.m.,6:56 a.m.,6:50 a.m.,7:49 a.m.
+2293,flightaware,7:10 a.m.,7:31 a.m.,9:00 a.m.,9:26 a.m.
+2294,flightaware,4:55 p.m.,5:08 p.m.,7:38 p.m.,7:43 p.m.
+2295,flightaware,3:50 p.m.,4:45 p.m.,6:00 p.m.,6:34 p.m.
+2296,flightaware,8:00 p.m.,8:23 p.m.,9:25 p.m.,9:47 p.m.
+2297,flightaware,10:40 a.m.,11:01 a.m.,2:35 p.m.,2:58 p.m.
+2298,flightaware,1:33 p.m.,1:48 p.m.,4:20 p.m.,4:20 p.m.
+2299,flightaware,1:29 p.m.,2:01 p.m.,3:55 p.m.,4:06 p.m.
+2300,flightaware,4:25 p.m.,4:35 p.m.,12:09 a.m.,12:19 a.m.
+2301,flightaware,9:00 p.m.,9:16 p.m.,12:05 a.m.,12:01 a.m.
+2302,flightaware,8:25 p.m.,8:29 p.m.,11:31 p.m.,11:35 p.m.
+2303,flightaware,6:59 a.m.,7:22 a.m.,9:25 a.m.,9:45 a.m.
+2304,flightaware,8:35 a.m.,8:51 a.m.,11:22 a.m.,11:33 a.m.
+2305,flightaware,1:30 p.m.,1:40 p.m.,3:30 p.m.,3:40 p.m.
+2306,flightaware,11:08 p.m.,11:35 p.m.,5:08 a.m.,5:21 a.m.
+2307,flightaware,5:30 p.m.,6:11 p.m.,6:15 p.m.,6:56 p.m.
+2308,flightaware,8:20 p.m.,8:40 p.m.,9:10 p.m.,9:11 p.m.
+2309,flightaware,2:35 p.m.,2:44 p.m.,3:55 p.m.,3:36 p.m.
+2310,flightaware,2:55 p.m.,3:27 p.m.,5:17 p.m.,5:39 p.m.
+2311,flightaware,7:15 a.m.,7:23 a.m.,10:57 a.m.,11:04 a.m.
+2312,flightaware,12:10 p.m.,12:10 p.m.,2:05 p.m.,1:42 p.m.
+2313,flightaware,1:05 p.m.,1:19 p.m.,2:17 p.m.,2:49 p.m.
+2314,flightaware,3:05 p.m.,3:36 p.m.,5:57 p.m.,6:30 p.m.
+2315,flightaware,4:00 p.m.,4:12 p.m.,6:30 p.m.,6:11 p.m.
+2316,flightaware,7:10 a.m.,7:32 a.m.,2:52 p.m.,3:12 p.m.
+2317,flightaware,11:55 a.m.,11:55 a.m.,6:07 p.m.,5:34 p.m.
+2318,flightaware,10:40 a.m.,10:55 a.m.,12:45 p.m.,12:37 p.m.
+2319,flightaware,4:00 p.m.,4:14 p.m.,6:31 p.m.,6:33 p.m.
+2320,flightaware,6:00 a.m.,6:10 a.m.,6:30 a.m.,6:09 a.m.
+2321,flightaware,7:10 a.m.,7:39 a.m.,10:09 a.m.,10:52 a.m.
+2322,world-flight-tracker,7:10 a.m.,7:16 a.m.,9:40 a.m.,9:32 a.m.
+2323,world-flight-tracker,6:40 a.m.,6:54 a.m.,9:25 a.m.,9:28 a.m.
+2324,world-flight-tracker,8:00 a.m.,8:29 a.m.,11:55 a.m.,11:58 a.m.
+2325,world-flight-tracker,7:45 p.m.,7:58 p.m.,10:30 p.m.,10:30 p.m. (Estimated)
+2326,world-flight-tracker,6:30 p.m.,6:47 p.m. (Estimated runway),7:25 p.m.,7:25 p.m. (Estimated runway)
+2327,world-flight-tracker,7:15 p.m.,7:15 p.m. (Estimated),12:21 a.m.,12:21 a.m. (Estimated)
+2328,world-flight-tracker,3:27 p.m.,3:28 p.m.,5:05 p.m.,5:17 p.m.
+2329,world-flight-tracker,11:25 p.m.,11:29 p.m. (Estimated runway),6:55 a.m.,6:35 a.m. (Estimated runway)
+2330,world-flight-tracker,4:00 p.m.,3:58 p.m.,6:46 p.m.,6:28 p.m.
+2331,world-flight-tracker,7:00 a.m.,7:25 a.m.,9:55 a.m.,9:45 a.m.
+2332,world-flight-tracker,4:15 p.m.,4:29 p.m.,7:55 p.m.,7:39 p.m.
+2333,world-flight-tracker,9:05 a.m.,10:10 a.m.,12:35 p.m.,1:27 p.m.
+2334,world-flight-tracker,11:50 a.m.,12:12 p.m.,3:50 p.m.,4:09 p.m.
+2335,world-flight-tracker,6:00 a.m.,6:08 a.m.,9:20 a.m.,9:05 a.m.
+2336,world-flight-tracker,11:05 a.m.,11:30 a.m.,4:57 p.m.,5:05 p.m.
+2337,world-flight-tracker,7:55 a.m.,8:04 a.m.,11:05 a.m.,11:01 a.m.
+2338,world-flight-tracker,10:15 a.m.,10:18 a.m.,12:10 p.m.,11:56 a.m.
+2339,world-flight-tracker,7:30 a.m.,8:04 a.m.,8:00 a.m.,8:06 a.m.
+2340,world-flight-tracker,1:00 p.m.,2:04 p.m.,2:35 p.m.,3:20 p.m. (runway)
+2341,world-flight-tracker,6:45 a.m.,6:57 a.m.,7:45 a.m.,7:40 a.m.
+2342,world-flight-tracker,12:15 p.m.,12:41 p.m.,2:45 p.m.,2:50 p.m.
+2343,world-flight-tracker,12:00 p.m.,11:51 a.m.,1:45 p.m.,1:15 p.m.
+2344,world-flight-tracker,7:25 a.m.,7:39 a.m.,11:10 a.m.,11:06 a.m.
+2345,world-flight-tracker,11:35 a.m.,11:52 a.m.,2:25 p.m.,2:27 p.m.
+2346,world-flight-tracker,10:40 a.m.,11:05 a.m.,2:45 p.m.,2:46 p.m.
+2347,world-flight-tracker,7:15 a.m.,7:21 a.m.,10:35 a.m.,10:36 a.m.
+2348,world-flight-tracker,6:45 p.m.,6:55 p.m.,9:10 p.m.,8:53 p.m.
+2349,world-flight-tracker,12:00 p.m.,12:11 p.m.,3:15 p.m.,3:16 p.m.
+2350,world-flight-tracker,9:15 a.m.,9:14 a.m.,12:18 p.m.,12:09 p.m.
+2351,world-flight-tracker,6:00 a.m.,6:56 a.m.,7:30 a.m.,7:51 a.m.
+2352,world-flight-tracker,7:10 a.m.,7:30 a.m.,9:35 a.m.,9:31 a.m.
+2353,world-flight-tracker,3:50 p.m.,4:28 p.m.,6:23 p.m.,6:38 p.m.
+2354,world-flight-tracker,8:00 p.m.,8:23 p.m.,9:45 p.m.,9:53 p.m.
+2355,world-flight-tracker,1:33 p.m.,1:31 p.m.,4:31 p.m.,4:23 p.m.
+2356,world-flight-tracker,11:55 p.m.,12:10 a.m. (Estimated runway),5:50 a.m.,5:42 a.m. (Estimated runway)
+2357,world-flight-tracker,4:25 p.m.,4:28 p.m. (Estimated runway),12:29 a.m.,12:01 a.m. (Estimated runway)
+2358,world-flight-tracker,9:00 p.m.,9:06 p.m. (Estimated runway),12:15 a.m.,11:49 p.m. (Estimated runway)
+2359,world-flight-tracker,8:25 p.m.,8:29 p.m. (Estimated runway),11:50 p.m.,11:35 p.m. (Estimated runway)
+2360,world-flight-tracker,6:59 a.m.,7:22 a.m.,10:34 a.m.,10:04 a.m.
+2361,world-flight-tracker,8:35 a.m.,8:51 a.m.,11:50 a.m.,11:44 a.m.
+2362,world-flight-tracker,2:30 p.m.,2:26 p.m.,6:15 p.m.,5:42 p.m.
+2363,world-flight-tracker,1:30 p.m.,1:41 p.m. (Estimated runway),3:50 p.m.,3:29 p.m. (Estimated runway)
+2364,world-flight-tracker,2:35 p.m.,2:44 p.m.,4:05 p.m.,3:43 p.m.
+2365,world-flight-tracker,2:55 p.m.,3:27 p.m.,5:55 p.m.,5:43 p.m.
+2366,world-flight-tracker,7:15 a.m.,7:22 a.m.,11:35 a.m.,11:06 a.m.
+2367,world-flight-tracker,12:10 p.m.,12:10 p.m.,2:15 p.m.,1:43 p.m.
+2368,world-flight-tracker,1:05 p.m.,1:19 p.m.,2:35 p.m.,3:13 p.m.
+2369,world-flight-tracker,3:05 p.m.,3:36 p.m.,6:30 p.m.,6:43 p.m.
+2370,world-flight-tracker,4:00 p.m.,4:12 p.m.,6:40 p.m.,6:15 p.m.
+2371,world-flight-tracker,7:10 a.m.,7:31 a.m.,3:30 p.m.,3:14 p.m.
+2372,world-flight-tracker,11:55 a.m.,11:43 a.m.,6:17 p.m.,5:38 p.m.
+2373,world-flight-tracker,10:40 a.m.,10:54 a.m.,12:55 p.m.,12:50 p.m.
+2374,world-flight-tracker,4:00 p.m.,3:58 p.m.,7:05 p.m.,6:36 p.m.
+2375,world-flight-tracker,6:00 a.m.,6:10 a.m.,6:40 a.m.,6:19 a.m.
+2376,world-flight-tracker,7:10 a.m.,7:39 a.m.,10:45 a.m.,11:12 a.m.
