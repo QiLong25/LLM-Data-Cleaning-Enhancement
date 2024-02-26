@@ -1,5 +1,6 @@
 # LLM-Data-Cleaning-Enhancement
-Summer Research at Data Science Research Center, Zhejiang University
+
+### Organization: [Center For Data Science, Zhejiang University](http://cds.zju.edu.cn/)
 
 ![model](https://github.com/QiLong25/LLM-Data-Cleaning-Enhancement/assets/143149589/08da5491-e331-464f-bbdc-4537066d4897)
 
